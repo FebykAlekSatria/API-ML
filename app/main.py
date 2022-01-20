@@ -37,7 +37,7 @@ with open("modelSVM\model", "rb") as r:
 CORS(app)
 
 
-@app.route("/", methods=["POST"])
+@app.route("/", methods=["GET", "POST"])
 def index():
     if request.method == 'POST':
         try:
@@ -53,7 +53,8 @@ def index():
             })
         except:
             return jsonify({'predict': 'Tidak ada inputan'})
-
+    else:
+        return "<h1>Welcome to OOD API</h1>"
 
 # if __name__ == "__main__":
 #     app.debug = True
