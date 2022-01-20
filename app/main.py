@@ -37,7 +37,7 @@ with open("modelSVM\model", "rb") as r:
 CORS(app)
 
 
-@app.route("/", methods=["GET", "POST"])
+@app.route("/", methods=["POST"])
 def index():
     if request.method == 'POST':
         try:
