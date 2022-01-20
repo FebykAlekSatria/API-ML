@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, render_template, request, jsonify
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import numpy as np
 import pickle
@@ -53,8 +53,10 @@ def index():
             })
         except:
             return jsonify({'predict': 'Tidak ada inputan'})
+
     else:
         return "<h1>Welcome to OOD API</h1>"
+
 
 # if __name__ == "__main__":
 #     app.debug = True
