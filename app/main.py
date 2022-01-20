@@ -26,12 +26,12 @@ def stemmed_wrapper(term):
 
 
 app = Flask(__name__)
-df = pd.read_csv("dataset\Text_Preprocessing.csv")
+df = pd.read_csv("Text_Preprocessing.csv")
 vectorizer_tfidf = TfidfVectorizer(max_features=500)
 X_tfidf = vectorizer_tfidf.fit_transform(df['Lowers'])
 # tfidf = pickle.load(open("tfidf", 'rb'))
 
-with open("modelSVM\model", "rb") as r:
+with open("model", "rb") as r:
     model = pickle.load(r)
 
 CORS(app)
