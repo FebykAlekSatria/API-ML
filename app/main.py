@@ -1,10 +1,8 @@
-from math import gamma
 from sklearn.model_selection import KFold
 from sklearn.model_selection import GridSearchCV
 from sklearn import svm
 import time
 import swifter
-import csv
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from flask import Flask, render_template, request, jsonify, send_file, send_from_directory

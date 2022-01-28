@@ -11,3 +11,5 @@ pandas
 Sastrawi
 flask_cors
 werkzeug
+swifter
+pickle
