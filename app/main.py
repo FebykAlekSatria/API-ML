@@ -2,7 +2,6 @@ from math import gamma
 from sklearn.model_selection import KFold
 from sklearn.model_selection import GridSearchCV
 from sklearn import svm
-import matplotlib.pyplot as plt
 import time
 import swifter
 import csv

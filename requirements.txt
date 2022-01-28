@@ -10,3 +10,4 @@ scikit-learn
 pandas
 Sastrawi
 flask_cors
+werkzeug
