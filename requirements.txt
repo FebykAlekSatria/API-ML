@@ -13,4 +13,3 @@ flask_cors
 werkzeug
 swifter
 nltk
-nltk.corpus
