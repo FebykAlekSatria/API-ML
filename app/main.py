@@ -150,7 +150,7 @@ def upload():
     # response.headers.add('Access-Control-Allow-Origin', '*')
     if request.method == 'POST':
         # try:
-        app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path, '../data')
+        app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path, 'data')
         file = request.files['file']
         filename = secure_filename('dataset.csv')
         # filecsv = filename
@@ -212,7 +212,7 @@ def download():
         tfidf()
         return('done')
     else:
-        app.config['DOWNLOAD_FOLDER'] = os.path.join(app.root_path, '../data')
+        app.config['DOWNLOAD_FOLDER'] = os.path.join(app.root_path, 'data')
         print(app.config['DOWNLOAD_FOLDER'])
         return send_from_directory(app.config['DOWNLOAD_FOLDER'], path='TFIDF.csv', as_attachment=True)
 
