@@ -56,7 +56,7 @@ vectorizer_tfidf = TfidfVectorizer(max_features=500)
 
 
 def tfidf():
-    df = pd.read_csv("data/Text_prepocessing.csv", sep=';')
+    df = pd.read_csv("Text_prepocessing.csv", sep=';')
     X_tfidf = vectorizer_tfidf.fit_transform(df['Lowers'])
     tabelTFIDF = pd.DataFrame(
         X_tfidf.todense(), columns=vectorizer_tfidf.get_feature_names())
@@ -150,7 +150,7 @@ def upload():
     # response.headers.add('Access-Control-Allow-Origin', '*')
     if request.method == 'POST':
         # try:
-        app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path, 'data')
+        app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path, '')
         file = request.files['file']
         filename = secure_filename('dataset.csv')
         # filecsv = filename
@@ -168,7 +168,7 @@ def prepocessing():
     if request.method == 'POST':
         try:
             # path = (r"coba\")
-            mentah = pd.read_csv("data/dataset.csv", sep=';')
+            mentah = pd.read_csv("dataset.csv", sep=';')
             mentah = mentah.sample(
                 frac=1.0, random_state=1).reset_index(drop=True)
             lower = mentah.astype(str).apply(lambda x: x.str.lower())
@@ -192,7 +192,7 @@ def prepocessing():
                                   for review in df['Kalimat'].values]
             df['Lowers'] = [", ".join(review)
                             for review in df['Kalimat'].values]
-            df.to_csv("data/Text_prepocessing.csv", sep=";")
+            df.to_csv("Text_prepocessing.csv", sep=";")
             mentah = np.array(mentah).tolist()
             preprocesiing = np.array(df).tolist()
 
@@ -212,7 +212,7 @@ def download():
         tfidf()
         return('done')
     else:
-        app.config['DOWNLOAD_FOLDER'] = os.path.join(app.root_path, 'data')
+        app.config['DOWNLOAD_FOLDER'] = os.path.join(app.root_path, '')
         print(app.config['DOWNLOAD_FOLDER'])
         return send_from_directory(app.config['DOWNLOAD_FOLDER'], path='TFIDF.csv', as_attachment=True)
 
@@ -221,7 +221,7 @@ def download():
 def params():
     if request.method == 'POST':
         try:
-            df = pd.read_csv("data/Text_prepocessing.csv", sep=';')
+            df = pd.read_csv("Text_prepocessing.csv", sep=';')
             params = best_params(df)
             return ({
                 'kernel': params['kernel'],
@@ -240,7 +240,7 @@ def params():
 def training():
     if request.method == 'POST':
         try:
-            df = pd.read_csv("data/Text_prepocessing.csv", sep=';')
+            df = pd.read_csv("Text_prepocessing.csv", sep=';')
             params = request.get_json()
             c = params['c']
             gamma = params['gamma']
