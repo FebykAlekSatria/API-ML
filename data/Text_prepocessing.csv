@@ -1,0 +1,550 @@
+;Kalimat;Kelas;Propocessing;Lowers
+0;['salah', 'merk', 'sepatu', 'nama'];ood;salah, merk, sepatu, nama;salah, merk, sepatu, nama
+1;['tampil', 'batas', 'sks', 'maksimum', 'ambil', 'semester'];id;tampil, batas, sks, maksimum, ambil, semester;tampil, batas, sks, maksimum, ambil, semester
+2;['mana', 'letak', 'bumi'];ood;mana, letak, bumi;mana, letak, bumi
+3;['tampil', 'sks', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil, sks, mata, kuliah, algoritma, pemrograman;tampil, sks, mata, kuliah, algoritma, pemrograman
+4;['kriteria', 'mahasiswa'];ood;kriteria, mahasiswa;kriteria, mahasiswa
+5;['temu', 'nama', 'mahasiswa', 'milik', 'nim'];id;temu, nama, mahasiswa, milik, nim;temu, nama, mahasiswa, milik, nim
+6;['tampil', 'jadwal', 'mata', 'kuliah', 'struktur', 'data'];id;tampil, jadwal, mata, kuliah, struktur, data;tampil, jadwal, mata, kuliah, struktur, data
+7;['tampil', 'semester', 'pendek', 'semester'];id;tampil, semester, pendek, semester;tampil, semester, pendek, semester
+8;['tampil', 'kartu', 'hasil', 'studi', 'semester'];id;tampil, kartu, hasil, studi, semester;tampil, kartu, hasil, studi, semester
+9;['tampil', 'isi', 'krs'];id;tampil, isi, krs;tampil, isi, krs
+10;['tampil', 'transkip', 'nilai'];id;tampil, transkip, nilai;tampil, transkip, nilai
+11;['tampil', 'informasi', 'data', 'pribadi'];id;tampil, informasi, data, pribadi;tampil, informasi, data, pribadi
+12;['sebab', 'kanker'];ood;sebab, kanker;sebab, kanker
+13;['semester'];id;semester;semester
+14;['data', 'mahasiswa', 'ipk'];id;data, mahasiswa, ipk;data, mahasiswa, ipk
+15;['tampil', 'ip', 'semester'];id;tampil, ip, semester;tampil, ip, semester
+16;['sks', 'semester'];id;sks, semester;sks, semester
+17;['nomor', 'induk', 'mahasiswa'];id;nomor, induk, mahasiswa;nomor, induk, mahasiswa
+18;['temu', 'aplikasi', 'chatbot', 'dunia'];ood;temu, aplikasi, chatbot, dunia;temu, aplikasi, chatbot, dunia
+19;['syukur'];ood;syukur;syukur
+20;['menajemen', 'kuliah', 'organisasi'];ood;menajemen, kuliah, organisasi;menajemen, kuliah, organisasi
+21;['tampil', 'batas', 'isi', 'krs'];id;tampil, batas, isi, krs;tampil, batas, isi, krs
+22;['semester', 'pendek', 'semester'];id;semester, pendek, semester;semester, pendek, semester
+23;['kartu', 'hasil', 'studi', 'semester'];id;kartu, hasil, studi, semester;kartu, hasil, studi, semester
+24;['sks', 'maksimum', 'ambil', 'semester'];id;sks, maksimum, ambil, semester;sks, maksimum, ambil, semester
+25;['maksimum', 'ambil', 'semester', 'pendek'];id;maksimum, ambil, semester, pendek;maksimum, ambil, semester, pendek
+26;['sks', 'semester'];id;sks, semester;sks, semester
+27;['novel', 'tere', 'liye', 'karya', 'sastra'];ood;novel, tere, liye, karya, sastra;novel, tere, liye, karya, sastra
+28;['tanggal', 'isi', 'krs'];id;tanggal, isi, krs;tanggal, isi, krs
+29;['perintah', 'kota', 'bandung', 'diri'];ood;perintah, kota, bandung, diri;perintah, kota, bandung, diri
+30;['kumpul', 'tugas', 'website', 'elarning', 'unsri'];ood;kumpul, tugas, website, elarning, unsri;kumpul, tugas, website, elarning, unsri
+31;['sks', 'semester'];id;sks, semester;sks, semester
+32;['nama', 'mahasiswa', 'milik', 'nim'];id;nama, mahasiswa, milik, nim;nama, mahasiswa, milik, nim
+33;['tampil', 'mata', 'kuliah', 'nilai', 'a'];id;tampil, mata, kuliah, nilai, a;tampil, mata, kuliah, nilai, a
+34;['mata', 'kuliah', 'nilai', 'a'];id;mata, kuliah, nilai, a;mata, kuliah, nilai, a
+35;['kartu', 'hasil', 'studi', 'semester'];id;kartu, hasil, studi, semester;kartu, hasil, studi, semester
+36;['varian', 'martabak', 'spesial', 'sedia'];ood;varian, martabak, spesial, sedia;varian, martabak, spesial, sedia
+37;['mana', 'letak', 'ruang', 'laboratorium', 'data', 'science', 'fakultas', 'ilmu', 'komputer', 'unsri'];ood;mana, letak, ruang, laboratorium, data, science, fakultas, ilmu, komputer, unsri;mana, letak, ruang, laboratorium, data, science, fakultas, ilmu, komputer, unsri
+38;['jadwal', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;jadwal, mata, kuliah, algoritma, pemrograman;jadwal, mata, kuliah, algoritma, pemrograman
+39;['ipk'];ood;ipk;ipk
+40;['sks', 'maksimum', 'ambil', 'semester'];id;sks, maksimum, ambil, semester;sks, maksimum, ambil, semester
+41;['tampil', 'history', 'mata', 'kuliah', 'algoritma', 'pemrogramman'];id;tampil, history, mata, kuliah, algoritma, pemrogramman;tampil, history, mata, kuliah, algoritma, pemrogramman
+42;['diri', 'unsri'];ood;diri, unsri;diri, unsri
+43;['tulang', 'rusuk', 'lakilaki'];ood;tulang, rusuk, lakilaki;tulang, rusuk, lakilaki
+44;['giat', 'mahasiswa', 'dukung', 'universitas', 'luar', 'akademik'];ood;giat, mahasiswa, dukung, universitas, luar, akademik;giat, mahasiswa, dukung, universitas, luar, akademik
+45;['tampil', 'data', 'mahasiswa', 'angkat', 'blm', 'lulus'];id;tampil, data, mahasiswa, angkat, blm, lulus;tampil, data, mahasiswa, angkat, blm, lulus
+46;['nama', 'rektor', 'universitas', 'sriwijaya'];ood;nama, rektor, universitas, sriwijaya;nama, rektor, universitas, sriwijaya
+47;['tolong', 'daftar', 'nama', 'mahasiswa', 'jenis', 'kelamin', 'wanita'];id;tolong, daftar, nama, mahasiswa, jenis, kelamin, wanita;tolong, daftar, nama, mahasiswa, jenis, kelamin, wanita
+48;['rekap', 'nilai'];id;rekap, nilai;rekap, nilai
+49;['kondisi', 'kampus'];ood;kondisi, kampus;kondisi, kampus
+50;['tampil', 'profil', 'dosen', 'nama', 'abdiansyah'];id;tampil, profil, dosen, nama, abdiansyah;tampil, profil, dosen, nama, abdiansyah
+51;['tampil', 'mata', 'kuliah', 'ambil', 'semester', 'pendek'];id;tampil, mata, kuliah, ambil, semester, pendek;tampil, mata, kuliah, ambil, semester, pendek
+52;['kartu', 'hasil', 'studi', 'semester'];id;kartu, hasil, studi, semester;kartu, hasil, studi, semester
+53;['orang', 'pasti'];ood;orang, pasti;orang, pasti
+54;['tampil', 'kartu', 'hasil', 'studi', 'semester'];id;tampil, kartu, hasil, studi, semester;tampil, kartu, hasil, studi, semester
+55;['sks', 'ambil', 'semester'];id;sks, ambil, semester;sks, ambil, semester
+56;['nip', 'dosen', 'nama', 'abdiansyah'];id;nip, dosen, nama, abdiansyah;nip, dosen, nama, abdiansyah
+57;['tampil', 'hasil', 'test', 'usept'];id;tampil, hasil, test, usept;tampil, hasil, test, usept
+58;['ip', 'semester'];id;ip, semester;ip, semester
+59;['raja', 'korea', 'selatan'];ood;raja, korea, selatan;raja, korea, selatan
+60;['lihat', 'mahasiswa', 'tinggal', 'bandung', 'nama', 'ahmad'];id;lihat, mahasiswa, tinggal, bandung, nama, ahmad;lihat, mahasiswa, tinggal, bandung, nama, ahmad
+61;['nama', 'dosen', 'ampu', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;nama, dosen, ampu, mata, kuliah, algoritma, pemrograman;nama, dosen, ampu, mata, kuliah, algoritma, pemrograman
+62;['luas', 'unsri'];ood;luas, unsri;luas, unsri
+63;['tampil', 'total', 'sks', 'tempuh'];id;tampil, total, sks, tempuh;tampil, total, sks, tempuh
+64;['tampil', 'khs', 'semester', 'pendek'];id;tampil, khs, semester, pendek;tampil, khs, semester, pendek
+65;['tulis', 'buku', 'bumi'];ood;tulis, buku, bumi;tulis, buku, bumi
+66;['sebut', 'nama', 'dosen', 'ajar', 'bidang', 'jaring', 'komputer'];id;sebut, nama, dosen, ajar, bidang, jaring, komputer;sebut, nama, dosen, ajar, bidang, jaring, komputer
+67;['sks', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;sks, mata, kuliah, algoritma, pemrograman;sks, mata, kuliah, algoritma, pemrograman
+68;['nama', 'mahasiswa', 'milik', 'nim'];id;nama, mahasiswa, milik, nim;nama, mahasiswa, milik, nim
+69;['nama', 'mata', 'kuliah', 'kode', 'kelas', 'fik'];id;nama, mata, kuliah, kode, kelas, fik;nama, mata, kuliah, kode, kelas, fik
+70;['sks', 'tempuh', 'lulus', 'jurus', 'teknik', 'informatika'];id;sks, tempuh, lulus, jurus, teknik, informatika;sks, tempuh, lulus, jurus, teknik, informatika
+71;['temu', 'kode', 'mata', 'kuliah', 'kalkulus'];id;temu, kode, mata, kuliah, kalkulus;temu, kode, mata, kuliah, kalkulus
+72;['total', 'sks', 'tempuh'];id;total, sks, tempuh;total, sks, tempuh
+73;['mata', 'kuliah', 'ambil', 'semester', 'pendek'];id;mata, kuliah, ambil, semester, pendek;mata, kuliah, ambil, semester, pendek
+74;['tampil', 'mahasiswa'];id;tampil, mahasiswa;tampil, mahasiswa
+75;['tulis', 'buku', 'apaapa'];ood;tulis, buku, apaapa;tulis, buku, apaapa
+76;['kode', 'mata', 'kuliah', 'struktur', 'data'];id;kode, mata, kuliah, struktur, data;kode, mata, kuliah, struktur, data
+77;['nama', 'manajer', 'ebi'];ood;nama, manajer, ebi;nama, manajer, ebi
+78;['ipk', 'semester'];id;ipk, semester;ipk, semester
+79;['buku', 'judul', 'daun', 'jatuh', 'membeci', 'angin', 'tulis'];ood;buku, judul, daun, jatuh, membeci, angin, tulis;buku, judul, daun, jatuh, membeci, angin, tulis
+80;['kartu', 'anggota', 'pustaka'];ood;kartu, anggota, pustaka;kartu, anggota, pustaka
+81;['history', 'usept'];id;history, usept;history, usept
+82;['design', 'web', 'profesional'];ood;design, web, profesional;design, web, profesional
+83;['orang', 'terima', 'trust', 'issue', 'annisa', 'fitri'];ood;orang, terima, trust, issue, annisa, fitri;orang, terima, trust, issue, annisa, fitri
+84;['ruang', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;ruang, mata, kuliah, algoritma, pemrograman;ruang, mata, kuliah, algoritma, pemrograman
+85;['tampil', 'tanggal', 'tenggat', 'isi', 'kprs'];id;tampil, tanggal, tenggat, isi, kprs;tampil, tanggal, tenggat, isi, kprs
+86;['tampil', 'history', 'mata', 'kuliah', 'struktur', 'diskrit'];id;tampil, history, mata, kuliah, struktur, diskrit;tampil, history, mata, kuliah, struktur, diskrit
+87;['sebut', 'nama', 'alamat', 'kota', 'mahasiswa'];id;sebut, nama, alamat, kota, mahasiswa;sebut, nama, alamat, kota, mahasiswa
+88;['ubah', 'warna', 'font', 'web'];ood;ubah, warna, font, web;ubah, warna, font, web
+89;['hobi', 'nonton'];ood;hobi, nonton;hobi, nonton
+90;['tampil', 'sks', 'maksimum', 'ambil', 'semester'];id;tampil, sks, maksimum, ambil, semester;tampil, sks, maksimum, ambil, semester
+91;['tampil', 'nama', 'dosen', 'ampu', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil, nama, dosen, ampu, mata, kuliah, algoritma, pemrograman;tampil, nama, dosen, ampu, mata, kuliah, algoritma, pemrograman
+92;['tampil', 'ipk', 'semester'];id;tampil, ipk, semester;tampil, ipk, semester
+93;['orang', 'cerdas', 'dunia'];ood;orang, cerdas, dunia;orang, cerdas, dunia
+94;['judul', 'puisi', 'karya', 'supardi', 'djoko', 'damono'];ood;judul, puisi, karya, supardi, djoko, damono;judul, puisi, karya, supardi, djoko, damono
+95;['tampil', 'mata', 'kuliah', 'nilai', 'b'];id;tampil, mata, kuliah, nilai, b;tampil, mata, kuliah, nilai, b
+96;['ipk', 'semester'];id;ipk, semester;ipk, semester
+97;['nama', 'dekan', 'fakultas', 'teknik', 'universitas', 'sriwijaya'];ood;nama, dekan, fakultas, teknik, universitas, sriwijaya;nama, dekan, fakultas, teknik, universitas, sriwijaya
+98;['tampil', 'nama', 'dosen', 'ampu', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil, nama, dosen, ampu, mata, kuliah, algoritma, pemrograman;tampil, nama, dosen, ampu, mata, kuliah, algoritma, pemrograman
+99;['nama', 'fisikawan', 'teoretis', 'lahir', 'jerman'];ood;nama, fisikawan, teoretis, lahir, jerman;nama, fisikawan, teoretis, lahir, jerman
+100;['ipk', 'semester'];id;ipk, semester;ipk, semester
+101;['tampil', 'nomor', 'induk', 'pegawai', 'dosen', 'pa'];id;tampil, nomor, induk, pegawai, dosen, pa;tampil, nomor, induk, pegawai, dosen, pa
+102;['harga', 'martabak', 'varian', 'spesial'];ood;harga, martabak, varian, spesial;harga, martabak, varian, spesial
+103;['ip', 'semester'];id;ip, semester;ip, semester
+104;['kartu', 'rencana', 'studi', 'semester', 'pendek'];id;kartu, rencana, studi, semester, pendek;kartu, rencana, studi, semester, pendek
+105;['mata', 'kuliah', 'nilai', 'e'];id;mata, kuliah, nilai, e;mata, kuliah, nilai, e
+106;['tampil', 'nomor', 'induk', 'mahasiswa'];id;tampil, nomor, induk, mahasiswa;tampil, nomor, induk, mahasiswa
+107;['mana', 'fakultas', 'mipa', 'unsri'];ood;mana, fakultas, mipa, unsri;mana, fakultas, mipa, unsri
+108;['mahasiswa', 'teknik', 'informatika', 'bilingual'];id;mahasiswa, teknik, informatika, bilingual;mahasiswa, teknik, informatika, bilingual
+109;['kampus', 'laku', 'skripsi'];ood;kampus, laku, skripsi;kampus, laku, skripsi
+110;['tampil', 'mahasiswa', 'ipk', 'atas'];id;tampil, mahasiswa, ipk, atas;tampil, mahasiswa, ipk, atas
+111;['organisasi', 'mahasiswa', 'unsri'];ood;organisasi, mahasiswa, unsri;organisasi, mahasiswa, unsri
+112;['nilai', 'turun'];ood;nilai, turun;nilai, turun
+113;['data', 'dosen', 'bimbing', 'nadia', 'rizky', 'hairunnisa'];id;data, dosen, bimbing, nadia, rizky, hairunnisa;data, dosen, bimbing, nadia, rizky, hairunnisa
+114;['tampil', 'data', 'pribadi'];id;tampil, data, pribadi;tampil, data, pribadi
+115;['sks', 'semester'];id;sks, semester;sks, semester
+116;['darimana', 'bayi', 'lahir'];ood;darimana, bayi, lahir;darimana, bayi, lahir
+117;['batas', 'sks', 'maksimum', 'ambil', 'semester'];id;batas, sks, maksimum, ambil, semester;batas, sks, maksimum, ambil, semester
+118;['data', 'dosen', 'bimbing', 'adi', 'kurniawan'];id;data, dosen, bimbing, adi, kurniawan;data, dosen, bimbing, adi, kurniawan
+119;['nama', 'hero', 'blackclover'];ood;nama, hero, blackclover;nama, hero, blackclover
+120;['tampil', 'data', 'nim', 'mahasiswa', 'angkat'];id;tampil, data, nim, mahasiswa, angkat;tampil, data, nim, mahasiswa, angkat
+121;['nip', 'dosen', 'bimbing', 'akademik'];id;nip, dosen, bimbing, akademik;nip, dosen, bimbing, akademik
+122;['febyk', 'marah', 'annisa', 'rajuk', 'cantik'];ood;febyk, marah, annisa, rajuk, cantik;febyk, marah, annisa, rajuk, cantik
+123;['aktor', 'korea', 'suka'];ood;aktor, korea, suka;aktor, korea, suka
+124;['nilai', 'mahasiswa', 'nim'];id;nilai, mahasiswa, nim;nilai, mahasiswa, nim
+125;['nama', 'dekan', 'fasilkom'];ood;nama, dekan, fasilkom;nama, dekan, fasilkom
+126;['nama', 'president', 'ri'];ood;nama, president, ri;nama, president, ri
+127;['sks', 'tempuh'];id;sks, tempuh;sks, tempuh
+128;['nama', 'kucing', 'pelihara'];ood;nama, kucing, pelihara;nama, kucing, pelihara
+129;['sebut', 'nama', 'kelas', 'nilai', 'uas'];id;sebut, nama, kelas, nilai, uas;sebut, nama, kelas, nilai, uas
+130;['tampil', 'sks', 'ambil', 'semster', 'pendek'];id;tampil, sks, ambil, semster, pendek;tampil, sks, ambil, semster, pendek
+131;['buku', 'judul', 'pergi', 'karya'];ood;buku, judul, pergi, karya;buku, judul, pergi, karya
+132;['transkip', 'nilai'];id;transkip, nilai;transkip, nilai
+133;['tanggal', 'unsri', 'diri'];ood;tanggal, unsri, diri;tanggal, unsri, diri
+134;['ipk'];id;ipk;ipk
+135;['indonesia', 'merdeka'];ood;indonesia, merdeka;indonesia, merdeka
+136;['history', 'mata', 'kuliah', 'struktur', 'diskrit'];id;history, mata, kuliah, struktur, diskrit;history, mata, kuliah, struktur, diskrit
+137;['tampil', 'program', 'studi'];id;tampil, program, studi;tampil, program, studi
+138;['tidur'];ood;tidur;tidur
+139;['tampil', 'mata', 'kuliah', 'ambil', 'semester'];id;tampil, mata, kuliah, ambil, semester;tampil, mata, kuliah, ambil, semester
+140;['tampil', 'kartu', 'hasil', 'studi', 'semester'];id;tampil, kartu, hasil, studi, semester;tampil, kartu, hasil, studi, semester
+141;['tampil', 'semester', 'pendek', 'semester'];id;tampil, semester, pendek, semester;tampil, semester, pendek, semester
+142;['tampil', 'nama', 'dosen', 'pa'];id;tampil, nama, dosen, pa;tampil, nama, dosen, pa
+143;['kurun', 'cepat', 'proses', 'move', 'on', 'tinggal', 'pasca', 'hubung', 'status'];ood;kurun, cepat, proses, move, on, tinggal, pasca, hubung, status;kurun, cepat, proses, move, on, tinggal, pasca, hubung, status
+144;['tampil', 'mata', 'kuliah', 'ulang'];id;tampil, mata, kuliah, ulang;tampil, mata, kuliah, ulang
+145;['nama', 'dekan', 'fakultas', 'ilmu', 'komputer', 'universitas', 'sriwijaya'];ood;nama, dekan, fakultas, ilmu, komputer, universitas, sriwijaya;nama, dekan, fakultas, ilmu, komputer, universitas, sriwijaya
+146;['tentu', 'ajar'];ood;tentu, ajar;tentu, ajar
+147;['history', 'mata', 'kuliah', 'struktur', 'diskrit'];id;history, mata, kuliah, struktur, diskrit;history, mata, kuliah, struktur, diskrit
+148;['tampil', 'tanggal', 'test', 'suliet'];id;tampil, tanggal, test, suliet;tampil, tanggal, test, suliet
+149;['temu', 'mahasiswa', 'kalkulus', 'nilai', 'e'];id;temu, mahasiswa, kalkulus, nilai, e;temu, mahasiswa, kalkulus, nilai, e
+150;['buku', 'judul', 'hujan', 'karya'];ood;buku, judul, hujan, karya;buku, judul, hujan, karya
+151;['semester', 'pendek', 'semester'];id;semester, pendek, semester;semester, pendek, semester
+152;['nama', 'pribadi', 'sesuai', 'tera', 'akademik'];id;nama, pribadi, sesuai, tera, akademik;nama, pribadi, sesuai, tera, akademik
+153;['tampil', 'tanggal', 'isi', 'krs'];id;tampil, tanggal, isi, krs;tampil, tanggal, isi, krs
+154;['tampil', 'kartu', 'rencana', 'studi', 'semester', 'pendek'];id;tampil, kartu, rencana, studi, semester, pendek;tampil, kartu, rencana, studi, semester, pendek
+155;['tampil', 'sks', 'semester'];id;tampil, sks, semester;tampil, sks, semester
+156;['tulis', 'buku', 'saddha'];ood;tulis, buku, saddha;tulis, buku, saddha
+157;['tampil', 'data', 'mahasiswa', 'lulus'];id;tampil, data, mahasiswa, lulus;tampil, data, mahasiswa, lulus
+158;['sks', 'ambil', 'semster', 'pendek'];id;sks, ambil, semster, pendek;sks, ambil, semster, pendek
+159;['history', 'mata', 'kuliah', 'algoritma', 'pemrogramman'];id;history, mata, kuliah, algoritma, pemrogramman;history, mata, kuliah, algoritma, pemrogramman
+160;['tampil', 'history', 'mata', 'kuliah', 'kalkulus'];id;tampil, history, mata, kuliah, kalkulus;tampil, history, mata, kuliah, kalkulus
+161;['bawa', 'kucing', 'menyebrangi', 'pulau'];ood;bawa, kucing, menyebrangi, pulau;bawa, kucing, menyebrangi, pulau
+162;['tampil', 'mata', 'kuliah', 'nilai', 'd'];id;tampil, mata, kuliah, nilai, d;tampil, mata, kuliah, nilai, d
+163;['turun', 'berat', 'badan', 'sehat'];ood;turun, berat, badan, sehat;turun, berat, badan, sehat
+164;['mata', 'kuliah', 'ambil', 'semester'];id;mata, kuliah, ambil, semester;mata, kuliah, ambil, semester
+165;['tampil', 'nim'];id;tampil, nim;tampil, nim
+166;['sks', 'semester'];id;sks, semester;sks, semester
+167;['tanggal', 'test', 'usept'];id;tanggal, test, usept;tanggal, test, usept
+168;['tampil', 'maksimum', 'ambil', 'semester', 'pendek'];id;tampil, maksimum, ambil, semester, pendek;tampil, maksimum, ambil, semester, pendek
+169;['mana', 'teori', 'hujan', 'temu', 'kali'];ood;mana, teori, hujan, temu, kali;mana, teori, hujan, temu, kali
+170;['ajar'];ood;ajar;ajar
+171;['tampil', 'ip', 'semester'];id;tampil, ip, semester;tampil, ip, semester
+172;['tampil', 'sks', 'ambil', 'mahasiswa', 'nim'];id;tampil, sks, ambil, mahasiswa, nim;tampil, sks, ambil, mahasiswa, nim
+173;['youtuber', 'no', 'indonesia'];ood;youtuber, no, indonesia;youtuber, no, indonesia
+174;['semester', 'pendek', 'semester'];id;semester, pendek, semester;semester, pendek, semester
+175;['unsri', 'diri'];ood;unsri, diri;unsri, diri
+176;['tampil', 'kartu', 'hasil', 'studi', 'semester'];id;tampil, kartu, hasil, studi, semester;tampil, kartu, hasil, studi, semester
+177;['tampil', 'mahasiswa', 'dasar', 'jenis', 'kelamin'];id;tampil, mahasiswa, dasar, jenis, kelamin;tampil, mahasiswa, dasar, jenis, kelamin
+178;['daftar', 'aju', 'beasiswa', 'kampus', 'unsri'];ood;daftar, aju, beasiswa, kampus, unsri;daftar, aju, beasiswa, kampus, unsri
+179;['orang', 'kali', 'darat', 'pluto'];ood;orang, kali, darat, pluto;orang, kali, darat, pluto
+180;['tampil', 'ip', 'semester'];id;tampil, ip, semester;tampil, ip, semester
+181;['ipk', 'semester'];id;ipk, semester;ipk, semester
+182;['sebut', 'mata', 'kuliah', 'pilih', 'semester'];id;sebut, mata, kuliah, pilih, semester;sebut, mata, kuliah, pilih, semester
+183;['ipk', 'semester'];id;ipk, semester;ipk, semester
+184;['tampil', 'sks', 'semester'];id;tampil, sks, semester;tampil, sks, semester
+185;['warnawarna', 'primer'];ood;warnawarna, primer;warnawarna, primer
+186;['visi', 'misi', 'unsri'];ood;visi, misi, unsri;visi, misi, unsri
+187;['tampil', 'daftar', 'nama', 'mahasiswa', 'teknik', 'informatika', 'reguler'];id;tampil, daftar, nama, mahasiswa, teknik, informatika, reguler;tampil, daftar, nama, mahasiswa, teknik, informatika, reguler
+188;['history', 'suliet'];id;history, suliet;history, suliet
+189;['tere', 'liye', 'terbit', 'buku'];ood;tere, liye, terbit, buku;tere, liye, terbit, buku
+190;['susah', 'ajar', 'matematika', 'bahasa', 'inggris'];ood;susah, ajar, matematika, bahasa, inggris;susah, ajar, matematika, bahasa, inggris
+191;['tampil', 'ipk', 'semester'];id;tampil, ipk, semester;tampil, ipk, semester
+192;['tampil', 'sks', 'tempuh'];id;tampil, sks, tempuh;tampil, sks, tempuh
+193;['kode', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;kode, mata, kuliah, algoritma, pemrograman;kode, mata, kuliah, algoritma, pemrograman
+194;['ajar', 'pemrograman'];ood;ajar, pemrograman;ajar, pemrograman
+195;['ilmu', 'komputer', 'lulus', 'suliet'];ood;ilmu, komputer, lulus, suliet;ilmu, komputer, lulus, suliet
+196;['tampil', 'tanggal', 'isi', 'kprs'];id;tampil, tanggal, isi, kprs;tampil, tanggal, isi, kprs
+197;['tampil', 'sks', 'maksimum', 'ambil', 'semester'];id;tampil, sks, maksimum, ambil, semester;tampil, sks, maksimum, ambil, semester
+198;['universitas', 'sriwijaya', 'diri'];ood;universitas, sriwijaya, diri;universitas, sriwijaya, diri
+199;['surat', 'resmi'];ood;surat, resmi;surat, resmi
+200;['cetus', 'abjad'];ood;cetus, abjad;cetus, abjad
+201;['tampil', 'nim', 'mahasiswa', 'nama', 'jamal'];id;tampil, nim, mahasiswa, nama, jamal;tampil, nim, mahasiswa, nama, jamal
+202;['cantik', 'ga'];ood;cantik, ga;cantik, ga
+203;['lihat', 'nilai', 'uas', 'uts'];id;lihat, nilai, uas, uts;lihat, nilai, uas, uts
+204;['tampil', 'semester', 'jalan'];id;tampil, semester, jalan;tampil, semester, jalan
+205;['kali', 'manusia', 'minum'];ood;kali, manusia, minum;kali, manusia, minum
+206;['kode', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;kode, mata, kuliah, algoritma, pemrograman;kode, mata, kuliah, algoritma, pemrograman
+207;['jaga', 'pustaka', 'fasilkom'];ood;jaga, pustaka, fasilkom;jaga, pustaka, fasilkom
+208;['isi', 'kprs'];id;isi, kprs;isi, kprs
+209;['mahasiswa', 'bimbing', 'abdiansyah'];id;mahasiswa, bimbing, abdiansyah;mahasiswa, bimbing, abdiansyah
+210;['hujan', 'sebab', 'banjir'];ood;hujan, sebab, banjir;hujan, sebab, banjir
+211;['tampil', 'ruang', 'mata', 'kuliah', 'kalkulus'];id;tampil, ruang, mata, kuliah, kalkulus;tampil, ruang, mata, kuliah, kalkulus
+212;['semester', 'jalan'];id;semester, jalan;semester, jalan
+213;['tampil', 'kelas', 'nilai'];id;tampil, kelas, nilai;tampil, kelas, nilai
+214;['ip', 'semester'];id;ip, semester;ip, semester
+215;['ip', 'semester'];id;ip, semester;ip, semester
+216;['sebut', 'mahasiswa', 'nilai', 'uasnya'];id;sebut, mahasiswa, nilai, uasnya;sebut, mahasiswa, nilai, uasnya
+217;['tampil', 'sks', 'ambil', 'semester'];id;tampil, sks, ambil, semester;tampil, sks, ambil, semester
+218;['s', 'jurus', 'cocok'];ood;s, jurus, cocok;s, jurus, cocok
+219;['nama', 'rektor', 'unsri'];ood;nama, rektor, unsri;nama, rektor, unsri
+220;['aktor', 'mahal'];ood;aktor, mahal;aktor, mahal
+221;['tampil', 'nama', 'nip', 'kepala', 'jurus', 'teknik', 'informatika'];id;tampil, nama, nip, kepala, jurus, teknik, informatika;tampil, nama, nip, kepala, jurus, teknik, informatika
+222;['nama', 'dekan', 'fakultas', 'hukum', 'universitas', 'sriwijaya'];ood;nama, dekan, fakultas, hukum, universitas, sriwijaya;nama, dekan, fakultas, hukum, universitas, sriwijaya
+223;['nama', 'temu', 'awan'];ood;nama, temu, awan;nama, temu, awan
+224;['kartu', 'rencana', 'studi', 'semester'];id;kartu, rencana, studi, semester;kartu, rencana, studi, semester
+225;['nama', 'mahasiswa', 'prestasi'];ood;nama, mahasiswa, prestasi;nama, mahasiswa, prestasi
+226;['minum'];ood;minum;minum
+227;['tampil', 'index', 'prestasi', 'kumulatif'];id;tampil, index, prestasi, kumulatif;tampil, index, prestasi, kumulatif
+228;['sks', 'mata', 'kuliah', 'kalkulus'];id;sks, mata, kuliah, kalkulus;sks, mata, kuliah, kalkulus
+229;['tulis', 'buku', 'jam'];ood;tulis, buku, jam;tulis, buku, jam
+230;['tulis', 'buku', 'atomic', 'habit'];ood;tulis, buku, atomic, habit;tulis, buku, atomic, habit
+231;['tampil', 'ip', 'semester'];id;tampil, ip, semester;tampil, ip, semester
+232;['letak', 'gedung', 'fmipa', 'unsri', 'indralaya', 'gedung', 'fp'];ood;letak, gedung, fmipa, unsri, indralaya, gedung, fp;letak, gedung, fmipa, unsri, indralaya, gedung, fp
+233;['tampil', 'sks', 'semester'];id;tampil, sks, semester;tampil, sks, semester
+234;['tidur', 'cepat'];ood;tidur, cepat;tidur, cepat
+235;['tolong', 'cari', 'dagang', 'martabak', 'harga', 'jual', 'murah'];ood;tolong, cari, dagang, martabak, harga, jual, murah;tolong, cari, dagang, martabak, harga, jual, murah
+236;['total', 'sks', 'tempuh'];id;total, sks, tempuh;total, sks, tempuh
+237;['tampil', 'jadwal', 'mata', 'kuliah', 'struktur', 'data'];id;tampil, jadwal, mata, kuliah, struktur, data;tampil, jadwal, mata, kuliah, struktur, data
+238;['ip', 'semester'];id;ip, semester;ip, semester
+239;['siap', 'lanjut', 'didik', 'guru'];ood;siap, lanjut, didik, guru;siap, lanjut, didik, guru
+240;['nama', 'pribadi', 'sesuai', 'cantum', 'akademik'];id;nama, pribadi, sesuai, cantum, akademik;nama, pribadi, sesuai, cantum, akademik
+241;['history', 'mata', 'kuliah', 'algoritma', 'pemrogramman'];id;history, mata, kuliah, algoritma, pemrogramman;history, mata, kuliah, algoritma, pemrogramman
+242;['tampil', 'total', 'sks', 'tempuh'];id;tampil, total, sks, tempuh;tampil, total, sks, tempuh
+243;['nip', 'naufal', 'rachmatullah'];id;nip, naufal, rachmatullah;nip, naufal, rachmatullah
+244;['isi', 'krs'];id;isi, krs;isi, krs
+245;['beasiswa', 'unsri'];ood;beasiswa, unsri;beasiswa, unsri
+246;['tulis', 'puisi'];ood;tulis, puisi;tulis, puisi
+247;['rekomendasi', 'channel', 'youtube', 'butuh'];ood;rekomendasi, channel, youtube, butuh;rekomendasi, channel, youtube, butuh
+248;['semester', 'pendek', 'semester'];id;semester, pendek, semester;semester, pendek, semester
+249;['tampil', 'sks', 'mata', 'kuliah', 'kalkulus'];id;tampil, sks, mata, kuliah, kalkulus;tampil, sks, mata, kuliah, kalkulus
+250;['tampil', 'batas', 'isi', 'kprs'];id;tampil, batas, isi, kprs;tampil, batas, isi, kprs
+251;['tampil', 'ipk', 'semester'];id;tampil, ipk, semester;tampil, ipk, semester
+252;['hasil', 'test', 'usept'];id;hasil, test, usept;hasil, test, usept
+253;['kode', 'mata', 'kuliah', 'struktur', 'data'];id;kode, mata, kuliah, struktur, data;kode, mata, kuliah, struktur, data
+254;['tulis', 'buku', 'egosentris'];ood;tulis, buku, egosentris;tulis, buku, egosentris
+255;['tampil', 'nilai', 'xxxx'];id;tampil, nilai, xxxx;tampil, nilai, xxxx
+256;['tampil', 'hasil', 'test', 'suliet'];id;tampil, hasil, test, suliet;tampil, hasil, test, suliet
+257;['sks', 'semester'];id;sks, semester;sks, semester
+258;['ruang', 'mata', 'kuliah', 'struktur', 'data'];id;ruang, mata, kuliah, struktur, data;ruang, mata, kuliah, struktur, data
+259;['tampil', 'ipk', 'semester'];id;tampil, ipk, semester;tampil, ipk, semester
+260;['temu', 'perangkat', 'lunak'];ood;temu, perangkat, lunak;temu, perangkat, lunak
+261;['batas', 'isi', 'kprs'];id;batas, isi, kprs;batas, isi, kprs
+262;['tampil', 'nama', 'mahasiswa'];id;tampil, nama, mahasiswa;tampil, nama, mahasiswa
+263;['data', 'dosen', 'bimbing', 'febyk', 'alek', 'satria'];id;data, dosen, bimbing, febyk, alek, satria;data, dosen, bimbing, febyk, alek, satria
+264;['nama', 'dekan', 'fakultas', 'ilmu', 'sosial', 'politik', 'universitas', 'sriwijaya'];ood;nama, dekan, fakultas, ilmu, sosial, politik, universitas, sriwijaya;nama, dekan, fakultas, ilmu, sosial, politik, universitas, sriwijaya
+265;['core', 'procesor', 'pengaruh', 'kerja', 'laptop'];ood;core, procesor, pengaruh, kerja, laptop;core, procesor, pengaruh, kerja, laptop
+266;['nama', 'dosen', 'bimbing', 'akademik'];id;nama, dosen, bimbing, akademik;nama, dosen, bimbing, akademik
+267;['ukt', 'tinggi', 'unsri'];ood;ukt, tinggi, unsri;ukt, tinggi, unsri
+268;['laut', 'mati'];ood;laut, mati;laut, mati
+269;['peran', 'orang', 'tua', 'dukung', 'didik', 'anak'];ood;peran, orang, tua, dukung, didik, anak;peran, orang, tua, dukung, didik, anak
+270;['buku', 'judul', 'karya'];ood;buku, judul, karya;buku, judul, karya
+271;['lihat', 'kelas', 'mahasiswa'];id;lihat, kelas, mahasiswa;lihat, kelas, mahasiswa
+272;['dokter', 'gigi'];ood;dokter, gigi;dokter, gigi
+273;['maksimum', 'ambil', 'semester', 'pendek'];id;maksimum, ambil, semester, pendek;maksimum, ambil, semester, pendek
+274;['tampil', 'sks', 'semester'];id;tampil, sks, semester;tampil, sks, semester
+275;['berika', 'daftar', 'nama', 'mahasiswa', 'jenis', 'kelamin', 'perempuan', 'angkat'];id;berika, daftar, nama, mahasiswa, jenis, kelamin, perempuan, angkat;berika, daftar, nama, mahasiswa, jenis, kelamin, perempuan, angkat
+276;['tampil', 'nilai', 'uas', 'urut', 'dasar'];id;tampil, nilai, uas, urut, dasar;tampil, nilai, uas, urut, dasar
+277;['tulis', 'buku', 'rehat'];ood;tulis, buku, rehat;tulis, buku, rehat
+278;['mata', 'kuliah', 'nilai', 'c'];id;mata, kuliah, nilai, c;mata, kuliah, nilai, c
+279;['mata', 'kuliah', 'ulang'];id;mata, kuliah, ulang;mata, kuliah, ulang
+280;['ipk', 'semester'];id;ipk, semester;ipk, semester
+281;['data', 'mahasiswa', 'ipk'];id;data, mahasiswa, ipk;data, mahasiswa, ipk
+282;['sks', 'ambil', 'semster', 'pendek'];id;sks, ambil, semster, pendek;sks, ambil, semster, pendek
+283;['tampil', 'mutu'];id;tampil, mutu;tampil, mutu
+284;['tampil', 'kode', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil, kode, mata, kuliah, algoritma, pemrograman;tampil, kode, mata, kuliah, algoritma, pemrograman
+285;['laptop', 'mudah', 'panas'];ood;laptop, mudah, panas;laptop, mudah, panas
+286;['tampil', 'krs', 'semester', 'pendek'];id;tampil, krs, semester, pendek;tampil, krs, semester, pendek
+287;['tulis', 'buku'];ood;tulis, buku;tulis, buku
+288;['tulis', 'buku', 'geez', 'and', 'ann'];ood;tulis, buku, geez, and, ann;tulis, buku, geez, and, ann
+289;['tampil', 'ip', 'semester'];id;tampil, ip, semester;tampil, ip, semester
+290;['tampil', 'daftar', 'nama', 'mahasiswa', 'jenis', 'kelamin', 'perempuan', 'jurus', 'teknik', 'informatika', 'angkat'];id;tampil, daftar, nama, mahasiswa, jenis, kelamin, perempuan, jurus, teknik, informatika, angkat;tampil, daftar, nama, mahasiswa, jenis, kelamin, perempuan, jurus, teknik, informatika, angkat
+291;['beasiswa', 'full', 'kuliah'];ood;beasiswa, full, kuliah;beasiswa, full, kuliah
+292;['jual', 'martabak', 'indralaya'];ood;jual, martabak, indralaya;jual, martabak, indralaya
+293;['tampil', 'kode', 'mata', 'kuliah', 'kalkulus'];id;tampil, kode, mata, kuliah, kalkulus;tampil, kode, mata, kuliah, kalkulus
+294;['khs', 'semester', 'pendek'];id;khs, semester, pendek;khs, semester, pendek
+295;['jadwal', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;jadwal, mata, kuliah, algoritma, pemrograman;jadwal, mata, kuliah, algoritma, pemrograman
+296;['lihat', 'mahasiswa', 'nimnya'];id;lihat, mahasiswa, nimnya;lihat, mahasiswa, nimnya
+297;['kartu', 'hasil', 'studi', 'semester'];id;kartu, hasil, studi, semester;kartu, hasil, studi, semester
+298;['ruang', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;ruang, mata, kuliah, algoritma, pemrograman;ruang, mata, kuliah, algoritma, pemrograman
+299;['tampil', 'mahasiswa', 'jenis', 'kelamin', 'perempuan', 'tinggal', 'bandung'];id;tampil, mahasiswa, jenis, kelamin, perempuan, tinggal, bandung;tampil, mahasiswa, jenis, kelamin, perempuan, tinggal, bandung
+300;['tampil', 'nama', 'mahasiswa', 'jenis', 'kelamin', 'perempuan'];id;tampil, nama, mahasiswa, jenis, kelamin, perempuan;tampil, nama, mahasiswa, jenis, kelamin, perempuan
+301;['tanggal', 'tenggat', 'isi', 'kprs'];id;tanggal, tenggat, isi, kprs;tanggal, tenggat, isi, kprs
+302;['tulis', 'buku', 'amor', 'fati'];ood;tulis, buku, amor, fati;tulis, buku, amor, fati
+303;['sks', 'mata', 'kuliah', 'struktur', 'data'];id;sks, mata, kuliah, struktur, data;sks, mata, kuliah, struktur, data
+304;['kartu', 'hasil', 'studi', 'semester'];id;kartu, hasil, studi, semester;kartu, hasil, studi, semester
+305;['dosen', 'teknik', 'informatika', 'jenis', 'kelamin', 'lakilaki'];id;dosen, teknik, informatika, jenis, kelamin, lakilaki;dosen, teknik, informatika, jenis, kelamin, lakilaki
+306;['tampil', 'sks', 'mata', 'kuliah', 'struktur', 'data'];id;tampil, sks, mata, kuliah, struktur, data;tampil, sks, mata, kuliah, struktur, data
+307;['tampil', 'ipk', 'semester'];id;tampil, ipk, semester;tampil, ipk, semester
+308;['tampil', 'nama', 'dosen', 'bimbing', 'akademik'];id;tampil, nama, dosen, bimbing, akademik;tampil, nama, dosen, bimbing, akademik
+309;['sebut', 'mata', 'kuliah', 'pilih', 'semester'];id;sebut, mata, kuliah, pilih, semester;sebut, mata, kuliah, pilih, semester
+310;['baik', 'tabel', 'beranta'];ood;baik, tabel, beranta;baik, tabel, beranta
+311;['tampil', 'ip', 'semester'];id;tampil, ip, semester;tampil, ip, semester
+312;['nama', 'dosen', 'ampu', 'mata', 'kuliah', 'struktur', 'data'];id;nama, dosen, ampu, mata, kuliah, struktur, data;nama, dosen, ampu, mata, kuliah, struktur, data
+313;['arti', 'i', 'love', 'you', 'bahasa', 'indonesia'];ood;arti, i, love, you, bahasa, indonesia;arti, i, love, you, bahasa, indonesia
+314;['bimbing', 'ta', 'mahasiswa', 'nim', 'xxxxxxxx'];id;bimbing, ta, mahasiswa, nim, xxxxxxxx;bimbing, ta, mahasiswa, nim, xxxxxxxx
+315;['mutu'];id;mutu;mutu
+316;['hasil', 'test', 'suliet'];id;hasil, test, suliet;hasil, test, suliet
+317;['huruf', 'b', 'a', 'c'];ood;huruf, b, a, c;huruf, b, a, c
+318;['dosen', 'ampu', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;dosen, ampu, mata, kuliah, algoritma, pemrograman;dosen, ampu, mata, kuliah, algoritma, pemrograman
+319;['tampil', 'sks', 'semester'];id;tampil, sks, semester;tampil, sks, semester
+320;['nama', 'dekan', 'fakultas', 'ekonomi', 'universitas', 'sriwijaya'];ood;nama, dekan, fakultas, ekonomi, universitas, sriwijaya;nama, dekan, fakultas, ekonomi, universitas, sriwijaya
+321;['tampil', 'sks', 'semester'];id;tampil, sks, semester;tampil, sks, semester
+322;['universitas', 'terap', 'sistem', 'sks'];ood;universitas, terap, sistem, sks;universitas, terap, sistem, sks
+323;['mata', 'kuliah', 'nilai', 'b'];id;mata, kuliah, nilai, b;mata, kuliah, nilai, b
+324;['drama', 'korea', 'bagus', 'tonton'];ood;drama, korea, bagus, tonton;drama, korea, bagus, tonton
+325;['tampil', 'ipk'];id;tampil, ipk;tampil, ipk
+326;['mahasiswa', 'aktif', 'teknik', 'informatika'];id;mahasiswa, aktif, teknik, informatika;mahasiswa, aktif, teknik, informatika
+327;['jurus', 's', 'sesuai', 'passion', 'skill', 'desain'];ood;jurus, s, sesuai, passion, skill, desain;jurus, s, sesuai, passion, skill, desain
+328;['tampil', 'ruang', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil, ruang, mata, kuliah, algoritma, pemrograman;tampil, ruang, mata, kuliah, algoritma, pemrograman
+329;['direktur', 'utama', 'ukm', 'uread', 'periode', 'maaf', 'sekretaris', 'periode'];ood;direktur, utama, ukm, uread, periode, maaf, sekretaris, periode;direktur, utama, ukm, uread, periode, maaf, sekretaris, periode
+330;['indonesia', 'negara', 'kembang'];ood;indonesia, negara, kembang;indonesia, negara, kembang
+331;['nama', 'wakil', 'direktur', 'utama'];ood;nama, wakil, direktur, utama;nama, wakil, direktur, utama
+332;['buku', 'judul', 'rembulan', 'tenggelam', 'wajah', 'mu', 'karya'];ood;buku, judul, rembulan, tenggelam, wajah, mu, karya;buku, judul, rembulan, tenggelam, wajah, mu, karya
+333;['buku', 'judul', 'tulis'];ood;buku, judul, tulis;buku, judul, tulis
+334;['tulis', 'buku', 'judul', 'rindu'];ood;tulis, buku, judul, rindu;tulis, buku, judul, rindu
+335;['judul', 'buku', 'tulis', 'syahidmuhammad'];ood;judul, buku, tulis, syahidmuhammad;judul, buku, tulis, syahidmuhammad
+336;['nip', 'dosen', 'pa'];id;nip, dosen, pa;nip, dosen, pa
+337;['sks', 'mata', 'kuliah', 'struktur', 'data'];id;sks, mata, kuliah, struktur, data;sks, mata, kuliah, struktur, data
+338;['tampil', 'kode', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil, kode, mata, kuliah, algoritma, pemrograman;tampil, kode, mata, kuliah, algoritma, pemrograman
+339;['dosen', 'teknik', 'informatika', 'jenis', 'kelamin', 'perempuan'];id;dosen, teknik, informatika, jenis, kelamin, perempuan;dosen, teknik, informatika, jenis, kelamin, perempuan
+340;['ipk'];ood;ipk;ipk
+341;['tampil', 'ip', 'semester'];id;tampil, ip, semester;tampil, ip, semester
+342;['ipk', 'semester'];id;ipk, semester;ipk, semester
+343;['pinjam', 'buku', 'pus', 'unsri'];ood;pinjam, buku, pus, unsri;pinjam, buku, pus, unsri
+344;['harga', 'buku', 'pemrograman', 'web'];ood;harga, buku, pemrograman, web;harga, buku, pemrograman, web
+345;['nama', 'dosen', 'ampu', 'mata', 'kuliah', 'struktur', 'data'];id;nama, dosen, ampu, mata, kuliah, struktur, data;nama, dosen, ampu, mata, kuliah, struktur, data
+346;['mutu'];id;mutu;mutu
+347;['tampil', 'jadwal', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil, jadwal, mata, kuliah, algoritma, pemrograman;tampil, jadwal, mata, kuliah, algoritma, pemrograman
+348;['nama', 'dekan', 'fakultas', 'guru', 'ilmu', 'didik', 'universitas', 'sriwijaya'];ood;nama, dekan, fakultas, guru, ilmu, didik, universitas, sriwijaya;nama, dekan, fakultas, guru, ilmu, didik, universitas, sriwijaya
+349;['kode', 'mata', 'kuliah', 'kalkulus'];id;kode, mata, kuliah, kalkulus;kode, mata, kuliah, kalkulus
+350;['sebut', 'nama', 'mahasiswa', 'nilai', 'uas'];id;sebut, nama, mahasiswa, nilai, uas;sebut, nama, mahasiswa, nilai, uas
+351;['nama', 'dekan', 'fakultas', 'matematika', 'ilmu', 'tahu', 'alam', 'universitas', 'sriwijaya'];ood;nama, dekan, fakultas, matematika, ilmu, tahu, alam, universitas, sriwijaya;nama, dekan, fakultas, matematika, ilmu, tahu, alam, universitas, sriwijaya
+352;['mahasiswa', 'nim', 'xxx', 'milik', 'sempat', 'lulus', 'puji'];ood;mahasiswa, nim, xxx, milik, sempat, lulus, puji;mahasiswa, nim, xxx, milik, sempat, lulus, puji
+353;['tampil', 'kode', 'mata', 'kuliah', 'struktur', 'data'];id;tampil, kode, mata, kuliah, struktur, data;tampil, kode, mata, kuliah, struktur, data
+354;['temu', 'bola', 'lampu'];ood;temu, bola, lampu;temu, bola, lampu
+355;['jadwal', 'mata', 'kuliah', 'struktur', 'data'];id;jadwal, mata, kuliah, struktur, data;jadwal, mata, kuliah, struktur, data
+356;['tampil', 'ruang', 'mata', 'kuliah', 'struktur', 'data'];id;tampil, ruang, mata, kuliah, struktur, data;tampil, ruang, mata, kuliah, struktur, data
+357;['tampil', 'tanggal', 'tenggat', 'isi', 'krs'];id;tampil, tanggal, tenggat, isi, krs;tampil, tanggal, tenggat, isi, krs
+358;['temu', 'kode', 'mata', 'kuliah', 'probabilitas', 'statistika'];id;temu, kode, mata, kuliah, probabilitas, statistika;temu, kode, mata, kuliah, probabilitas, statistika
+359;['tanggal', 'test', 'suliet'];id;tanggal, test, suliet;tanggal, test, suliet
+360;['tampil', 'kartu', 'hasil', 'studi', 'semester', 'pendek'];id;tampil, kartu, hasil, studi, semester, pendek;tampil, kartu, hasil, studi, semester, pendek
+361;['temu', 'lokasi', 'dagang', 'martabak', 'dekat'];ood;temu, lokasi, dagang, martabak, dekat;temu, lokasi, dagang, martabak, dekat
+362;['tampil', 'sks', 'ambil', 'semester'];id;tampil, sks, ambil, semester;tampil, sks, ambil, semester
+363;['makan'];ood;makan;makan
+364;['cari', 'data', 'mahasiswa', 'milik', 'nilai', 'suliet'];id;cari, data, mahasiswa, milik, nilai, suliet;cari, data, mahasiswa, milik, nilai, suliet
+365;['ip', 'semester'];id;ip, semester;ip, semester
+366;['tampil', 'semester', 'pendek', 'semester'];id;tampil, semester, pendek, semester;tampil, semester, pendek, semester
+367;['mana', 'negara', 'duduk'];ood;mana, negara, duduk;mana, negara, duduk
+368;['tampil', 'daftar', 'mata', 'kuliah', 'ambil', 'mahasiswa', 'nim'];id;tampil, daftar, mata, kuliah, ambil, mahasiswa, nim;tampil, daftar, mata, kuliah, ambil, mahasiswa, nim
+369;['daftar', 'mata', 'kuliah', 'ulang'];id;daftar, mata, kuliah, ulang;daftar, mata, kuliah, ulang
+370;['tampil', 'sks', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil, sks, mata, kuliah, algoritma, pemrograman;tampil, sks, mata, kuliah, algoritma, pemrograman
+371;['tampil', 'jadwal', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil, jadwal, mata, kuliah, algoritma, pemrograman;tampil, jadwal, mata, kuliah, algoritma, pemrograman
+372;['temu', 'data', 'mahasiswa', 'nama', 'adi'];id;temu, data, mahasiswa, nama, adi;temu, data, mahasiswa, nama, adi
+373;['istri', 'adam', 'smith'];ood;istri, adam, smith;istri, adam, smith
+374;['lulus', 'lamar', 'kerja', 'usaha'];ood;lulus, lamar, kerja, usaha;lulus, lamar, kerja, usaha
+375;['nilai', 'semester'];ood;nilai, semester;nilai, semester
+376;['mata', 'kuliah', 'pilih', 'ambil', 'semester'];id;mata, kuliah, pilih, ambil, semester;mata, kuliah, pilih, ambil, semester
+377;['atur', 'ikat', 'puisi'];ood;atur, ikat, puisi;atur, ikat, puisi
+378;['tampil', 'kartu', 'rencana', 'studi', 'semester'];id;tampil, kartu, rencana, studi, semester;tampil, kartu, rencana, studi, semester
+379;['konser', 'bts', 'laksana'];ood;konser, bts, laksana;konser, bts, laksana
+380;['temu', 'mahasiswa', 'jenis', 'kelamin', 'wanita'];id;temu, mahasiswa, jenis, kelamin, wanita;temu, mahasiswa, jenis, kelamin, wanita
+381;['index', 'prestasi', 'kumulatif'];id;index, prestasi, kumulatif;index, prestasi, kumulatif
+382;['nama', 'dosen', 'pa'];id;nama, dosen, pa;nama, dosen, pa
+383;['tampil', 'angkat'];id;tampil, angkat;tampil, angkat
+384;['daftar', 'dosen', 'teknik', 'informatika'];id;daftar, dosen, teknik, informatika;daftar, dosen, teknik, informatika
+385;['tolong', 'cari', 'kode', 'mata', 'kuliah', 'kalkulus'];id;tolong, cari, kode, mata, kuliah, kalkulus;tolong, cari, kode, mata, kuliah, kalkulus
+386;['temu', 'lokasi', 'fasilkom'];ood;temu, lokasi, fasilkom;temu, lokasi, fasilkom
+387;['tampil', 'nama', 'dosen', 'ampu', 'mata', 'kuliah', 'struktur', 'data'];id;tampil, nama, dosen, ampu, mata, kuliah, struktur, data;tampil, nama, dosen, ampu, mata, kuliah, struktur, data
+388;['jadwal', 'mata', 'kuliah', 'kalkulus'];id;jadwal, mata, kuliah, kalkulus;jadwal, mata, kuliah, kalkulus
+389;['ipk', 'semester'];id;ipk, semester;ipk, semester
+390;['tanggal', 'isi', 'kprs'];id;tanggal, isi, kprs;tanggal, isi, kprs
+391;['tampil', 'sks', 'ambil', 'semster', 'pendek'];id;tampil, sks, ambil, semster, pendek;tampil, sks, ambil, semster, pendek
+392;['ekstraksi', 'dbpedia'];ood;ekstraksi, dbpedia;ekstraksi, dbpedia
+393;['kucing', 'sebal', 'student', 'center'];ood;kucing, sebal, student, center;kucing, sebal, student, center
+394;['mana', 'letak', 'kampus', 'unsri'];ood;mana, letak, kampus, unsri;mana, letak, kampus, unsri
+395;['tampil', 'sks', 'semester'];id;tampil, sks, semester;tampil, sks, semester
+396;['malas', 'ajar'];ood;malas, ajar;malas, ajar
+397;['ip', 'semester'];id;ip, semester;ip, semester
+398;['nama', 'dekan', 'fakultas', 'tani', 'universitas', 'sriwijaya'];ood;nama, dekan, fakultas, tani, universitas, sriwijaya;nama, dekan, fakultas, tani, universitas, sriwijaya
+399;['tampil', 'mata', 'kuliah', 'nilai', 'e'];id;tampil, mata, kuliah, nilai, e;tampil, mata, kuliah, nilai, e
+400;['history', 'mata', 'kuliah', 'kalkulus'];id;history, mata, kuliah, kalkulus;history, mata, kuliah, kalkulus
+401;['bagus', 'cari', 'kerja', 'usaha'];ood;bagus, cari, kerja, usaha;bagus, cari, kerja, usaha
+402;['daun', 'warna', 'hijau'];ood;daun, warna, hijau;daun, warna, hijau
+403;['tampil', 'sks', 'mata', 'kuliah', 'struktur', 'data'];id;tampil, sks, mata, kuliah, struktur, data;tampil, sks, mata, kuliah, struktur, data
+404;['alasanlandasan', 'chatbot'];ood;alasanlandasan, chatbot;alasanlandasan, chatbot
+405;['tulis', 'puisi'];ood;tulis, puisi;tulis, puisi
+406;['kartu', 'hasil', 'studi', 'semester'];id;kartu, hasil, studi, semester;kartu, hasil, studi, semester
+407;['tampil', 'nip', 'dosen', 'bimbing', 'akademik'];id;tampil, nip, dosen, bimbing, akademik;tampil, nip, dosen, bimbing, akademik
+408;['monumen', 'nasional'];ood;monumen, nasional;monumen, nasional
+409;['sks', 'mata', 'kuliah', 'kalkulus'];id;sks, mata, kuliah, kalkulus;sks, mata, kuliah, kalkulus
+410;['tampil', 'nip', 'dosen', 'pa'];id;tampil, nip, dosen, pa;tampil, nip, dosen, pa
+411;['fasilkom', 'diri'];ood;fasilkom, diri;fasilkom, diri
+412;['ip', 'semster', 'ip', 'semester', 'mahasiswa', 'nama', 'adi', 'kurniawan'];id;ip, semster, ip, semester, mahasiswa, nama, adi, kurniawan;ip, semster, ip, semester, mahasiswa, nama, adi, kurniawan
+413;['fakultas', 'unsri'];ood;fakultas, unsri;fakultas, unsri
+414;['tampil', 'nomor', 'induk', 'pegawai', 'dosen', 'bimbing', 'akademik'];id;tampil, nomor, induk, pegawai, dosen, bimbing, akademik;tampil, nomor, induk, pegawai, dosen, bimbing, akademik
+415;['nomor', 'induk', 'pegawai', 'dosen', 'bimbing', 'akademik'];id;nomor, induk, pegawai, dosen, bimbing, akademik;nomor, induk, pegawai, dosen, bimbing, akademik
+416;['tampil', 'maksimum', 'ambil', 'semester', 'pendek'];id;tampil, maksimum, ambil, semester, pendek;tampil, maksimum, ambil, semester, pendek
+417;['sks', 'semester'];id;sks, semester;sks, semester
+418;['tolong', 'temu', 'lokasi', 'unsri'];ood;tolong, temu, lokasi, unsri;tolong, temu, lokasi, unsri
+419;['ipk', 'tinggi', 'lulus', 'unsri'];ood;ipk, tinggi, lulus, unsri;ipk, tinggi, lulus, unsri
+420;['jam', 'kah', 'admin', 'ruang', 'jurus'];ood;jam, kah, admin, ruang, jurus;jam, kah, admin, ruang, jurus
+421;['data'];ood;data;data
+422;['jadwal', 'mata', 'kuliah', 'struktur', 'data'];id;jadwal, mata, kuliah, struktur, data;jadwal, mata, kuliah, struktur, data
+423;['skill', 'pemrograman'];ood;skill, pemrograman;skill, pemrograman
+424;['dosen', 'ajar', 'mata', 'kuliah', 'matematika', 'dasar'];id;dosen, ajar, mata, kuliah, matematika, dasar;dosen, ajar, mata, kuliah, matematika, dasar
+425;['mendownload', 'jurnal', 'gratis'];ood;mendownload, jurnal, gratis;mendownload, jurnal, gratis
+426;['tampil', 'mutu'];id;tampil, mutu;tampil, mutu
+427;['kartu', 'hasil', 'studi', 'semester', 'pendek'];id;kartu, hasil, studi, semester, pendek;kartu, hasil, studi, semester, pendek
+428;['tampil', 'batas', 'maksimum', 'ambil', 'semester', 'pendek'];id;tampil, batas, maksimum, ambil, semester, pendek;tampil, batas, maksimum, ambil, semester, pendek
+429;['tampil', 'history', 'mata', 'kuliah', 'algoritma', 'pemrogramman'];id;tampil, history, mata, kuliah, algoritma, pemrogramman;tampil, history, mata, kuliah, algoritma, pemrogramman
+430;['ruang', 'mata', 'kuliah', 'struktur', 'data'];id;ruang, mata, kuliah, struktur, data;ruang, mata, kuliah, struktur, data
+431;['lampu', 'lintas', 'henti', 'warna', 'merah'];ood;lampu, lintas, henti, warna, merah;lampu, lintas, henti, warna, merah
+432;['tampil', 'kartu', 'hasil', 'studi', 'semester'];id;tampil, kartu, hasil, studi, semester;tampil, kartu, hasil, studi, semester
+433;['tulis', 'buku', 'judul', 'paradigma'];ood;tulis, buku, judul, paradigma;tulis, buku, judul, paradigma
+434;['nip', 'qurhanul', 'rizqie'];id;nip, qurhanul, rizqie;nip, qurhanul, rizqie
+435;['mahasiswa', 'teknik', 'infromatika'];id;mahasiswa, teknik, infromatika;mahasiswa, teknik, infromatika
+436;['kepala', 'program', 'studi', 'ilmu', 'awat', 'unsri'];ood;kepala, program, studi, ilmu, awat, unsri;kepala, program, studi, ilmu, awat, unsri
+437;['tampil', 'krs', 'semester'];id;tampil, krs, semester;tampil, krs, semester
+438;['ip', 'semester'];id;ip, semester;ip, semester
+439;['tampil', 'prodi'];id;tampil, prodi;tampil, prodi
+440;['tabung', 'konsisten'];ood;tabung, konsisten;tabung, konsisten
+441;['mengupload', 'jurnal'];ood;mengupload, jurnal;mengupload, jurnal
+442;['jodoh', 'hihihi'];ood;jodoh, hihihi;jodoh, hihihi
+443;['prodi'];id;prodi;prodi
+444;['tampil', 'kode', 'mata', 'kuliah', 'struktur', 'data'];id;tampil, kode, mata, kuliah, struktur, data;tampil, kode, mata, kuliah, struktur, data
+445;['sah', 'gelar', 'administrasi', 'negara', 'administrasi', 'publik', 'unsri'];ood;sah, gelar, administrasi, negara, administrasi, publik, unsri;sah, gelar, administrasi, negara, administrasi, publik, unsri
+446;['tampil', 'daftar', 'nama', 'dosen'];id;tampil, daftar, nama, dosen;tampil, daftar, nama, dosen
+447;['robot'];ood;robot;robot
+448;['tampil', 'kartu', 'hasil', 'studi', 'semester'];id;tampil, kartu, hasil, studi, semester;tampil, kartu, hasil, studi, semester
+449;['tampil', 'data', 'mahasiswa', 'nama', 'dahlia'];id;tampil, data, mahasiswa, nama, dahlia;tampil, data, mahasiswa, nama, dahlia
+450;['rektor', 'unsri'];ood;rektor, unsri;rektor, unsri
+451;['program', 'studi'];id;program, studi;program, studi
+452;['suka', 'pakai', 'hijab'];ood;suka, pakai, hijab;suka, pakai, hijab
+453;['nama', 'dekan', 'fakultas', 'sehat', 'masyarakat', 'universitas', 'sriwijaya'];ood;nama, dekan, fakultas, sehat, masyarakat, universitas, sriwijaya;nama, dekan, fakultas, sehat, masyarakat, universitas, sriwijaya
+454;['tampil', 'jadwal', 'mata', 'kuliah', 'matriks', 'vektor'];id;tampil, jadwal, mata, kuliah, matriks, vektor;tampil, jadwal, mata, kuliah, matriks, vektor
+455;['nip', 'abdiansah'];id;nip, abdiansah;nip, abdiansah
+456;['tampil', 'daftar', 'mata', 'kuliah', 'ulang'];id;tampil, daftar, mata, kuliah, ulang;tampil, daftar, mata, kuliah, ulang
+457;['milik', 'nim'];id;milik, nim;milik, nim
+458;['tampil', 'mata', 'kuliah', 'ambil', 'semester'];id;tampil, mata, kuliah, ambil, semester;tampil, mata, kuliah, ambil, semester
+459;['tampil', 'rekap', 'nilai'];id;tampil, rekap, nilai;tampil, rekap, nilai
+460;['tampil', 'ruang', 'mata', 'kuliah', 'struktur', 'data'];id;tampil, ruang, mata, kuliah, struktur, data;tampil, ruang, mata, kuliah, struktur, data
+461;['wanita', 'jatuh', 'hati', 'pria'];ood;wanita, jatuh, hati, pria;wanita, jatuh, hati, pria
+462;['mana', 'suna', 'alkayuni', 'aresta', 'lahir'];ood;mana, suna, alkayuni, aresta, lahir;mana, suna, alkayuni, aresta, lahir
+463;['tampil', 'mahasiswa', 'teknik', 'informatika', 'angkat', 'lulus'];id;tampil, mahasiswa, teknik, informatika, angkat, lulus;tampil, mahasiswa, teknik, informatika, angkat, lulus
+464;['mahasiswa', 'uasnya', 'nila'];id;mahasiswa, uasnya, nila;mahasiswa, uasnya, nila
+465;['tampil', 'khs', 'semester'];id;tampil, khs, semester;tampil, khs, semester
+466;['islam', 'kali', 'indonesia'];ood;islam, kali, indonesia;islam, kali, indonesia
+467;['astronomi', 'observasional'];ood;astronomi, observasional;astronomi, observasional
+468;['tampil', 'semester'];id;tampil, semester;tampil, semester
+469;['cari', 'nama', 'dosen', 'ajar', 'mata', 'kuliah', 'algoritma', 'pemrograman', 'iii'];id;cari, nama, dosen, ajar, mata, kuliah, algoritma, pemrograman, iii;cari, nama, dosen, ajar, mata, kuliah, algoritma, pemrograman, iii
+470;['khs', 'semester'];id;khs, semester;khs, semester
+471;['mata', 'kuliah', 'nilai', 'd'];id;mata, kuliah, nilai, d;mata, kuliah, nilai, d
+472;['luas', 'kampus', 'unsri'];ood;luas, kampus, unsri;luas, kampus, unsri
+473;['mahasiswa', 'teknik', 'informatika', 'reguler'];id;mahasiswa, teknik, informatika, reguler;mahasiswa, teknik, informatika, reguler
+474;['langit', 'warna', 'biru'];ood;langit, warna, biru;langit, warna, biru
+475;['mata', 'kuliah', 'ambil', 'semester', 'pendek'];id;mata, kuliah, ambil, semester, pendek;mata, kuliah, ambil, semester, pendek
+476;['tampil', 'kartu', 'hasil', 'studi', 'semester'];id;tampil, kartu, hasil, studi, semester;tampil, kartu, hasil, studi, semester
+477;['kartu', 'hasil', 'studi', 'semester'];id;kartu, hasil, studi, semester;kartu, hasil, studi, semester
+478;['tampil', 'ip', 'semester'];id;tampil, ip, semester;tampil, ip, semester
+479;['usul', 'batik', 'bangga', 'indonesia'];ood;usul, batik, bangga, indonesia;usul, batik, bangga, indonesia
+480;['milik', 'usaha', 'besar', 'indonesia'];ood;milik, usaha, besar, indonesia;milik, usaha, besar, indonesia
+481;['tulis', 'buku', 'gak'];ood;tulis, buku, gak;tulis, buku, gak
+482;['tanggal', 'tenggat', 'isi', 'krs'];id;tanggal, tenggat, isi, krs;tanggal, tenggat, isi, krs
+483;['kartu', 'hasil', 'studi', 'semester'];id;kartu, hasil, studi, semester;kartu, hasil, studi, semester
+484;['si', 'untung', 'chatbot'];ood;si, untung, chatbot;si, untung, chatbot
+485;['tampil', 'nama', 'pribadi', 'sesuai', 'cantum', 'akademik'];id;tampil, nama, pribadi, sesuai, cantum, akademik;tampil, nama, pribadi, sesuai, cantum, akademik
+486;['tampil', 'history', 'mata', 'kuliah', 'struktur', 'diskrit'];id;tampil, history, mata, kuliah, struktur, diskrit;tampil, history, mata, kuliah, struktur, diskrit
+487;['tampil', 'ipk', 'semester'];id;tampil, ipk, semester;tampil, ipk, semester
+488;['tulis', 'buku'];ood;tulis, buku;tulis, buku
+489;['mata', 'kuliah', 'ambil', 'semester'];id;mata, kuliah, ambil, semester;mata, kuliah, ambil, semester
+490;['bahasa', 'inggris'];ood;bahasa, inggris;bahasa, inggris
+491;['tampil', 'kartu', 'hasil', 'studi', 'semester'];id;tampil, kartu, hasil, studi, semester;tampil, kartu, hasil, studi, semester
+492;['ikan', 'hidup', 'air'];ood;ikan, hidup, air;ikan, hidup, air
+493;['rekomendasi', 'situs', 'web', 'wajib', 'mahasiswa'];ood;rekomendasi, situs, web, wajib, mahasiswa;rekomendasi, situs, web, wajib, mahasiswa
+494;['uang', 'beli', 'komputer', 'bekas'];ood;uang, beli, komputer, bekas;uang, beli, komputer, bekas
+495;['tampil', 'ipk', 'semester'];id;tampil, ipk, semester;tampil, ipk, semester
+496;['tampil', 'history', 'usept'];id;tampil, history, usept;tampil, history, usept
+497;['ruang', 'mata', 'kuliah', 'kalkulus'];id;ruang, mata, kuliah, kalkulus;ruang, mata, kuliah, kalkulus
+498;['cari', 'data', 'mahasiswa', 'nim'];id;cari, data, mahasiswa, nim;cari, data, mahasiswa, nim
+499;['tampil', 'isi', 'kprs'];id;tampil, isi, kprs;tampil, isi, kprs
+500;['fasilitas', 'unsri'];ood;fasilitas, unsri;fasilitas, unsri
+501;['tere', 'liye', 'terbit', 'buku', 'kali'];ood;tere, liye, terbit, buku, kali;tere, liye, terbit, buku, kali
+502;['nama', 'dekan', 'fakultas', 'dokter', 'universitas', 'sriwijaya'];ood;nama, dekan, fakultas, dokter, universitas, sriwijaya;nama, dekan, fakultas, dokter, universitas, sriwijaya
+503;['tere', 'liye', 'sukses'];ood;tere, liye, sukses;tere, liye, sukses
+504;['nama', 'dosen', 'ampu', 'mata', 'kuliah', 'kalkulus'];id;nama, dosen, ampu, mata, kuliah, kalkulus;nama, dosen, ampu, mata, kuliah, kalkulus
+505;['tampil', 'semester', 'pendek', 'semester'];id;tampil, semester, pendek, semester;tampil, semester, pendek, semester
+506;['tampil', 'sks', 'tempuh'];id;tampil, sks, tempuh;tampil, sks, tempuh
+507;['tulis', 'buku', 'duduk'];ood;tulis, buku, duduk;tulis, buku, duduk
+508;['tampil', 'mata', 'kuliah', 'ambil', 'semester', 'pendek'];id;tampil, mata, kuliah, ambil, semester, pendek;tampil, mata, kuliah, ambil, semester, pendek
+509;['tampil', 'jadwal', 'mata', 'kuliah', 'kalkulus'];id;tampil, jadwal, mata, kuliah, kalkulus;tampil, jadwal, mata, kuliah, kalkulus
+510;['orang', 'temu', 'organisasi', 'boleh', 'meni'];ood;orang, temu, organisasi, boleh, meni;orang, temu, organisasi, boleh, meni
+511;['tolong', 'temu', 'jodoh'];ood;tolong, temu, jodoh;tolong, temu, jodoh
+512;['tulis', 'buku'];ood;tulis, buku;tulis, buku
+513;['krs', 'semester', 'pendek'];id;krs, semester, pendek;krs, semester, pendek
+514;['sks', 'tempuh'];id;sks, tempuh;sks, tempuh
+515;['krs', 'semester'];id;krs, semester;krs, semester
+516;['tampil', 'mata', 'kuliah', 'nilai', 'c'];id;tampil, mata, kuliah, nilai, c;tampil, mata, kuliah, nilai, c
+517;['perempuan', 'cantik', 'alam', 'barzah'];ood;perempuan, cantik, alam, barzah;perempuan, cantik, alam, barzah
+518;['sks', 'ambil', 'semester'];id;sks, ambil, semester;sks, ambil, semester
+519;['sks', 'semester'];id;sks, semester;sks, semester
+520;['tampil', 'kartu', 'hasil', 'studi', 'semester'];id;tampil, kartu, hasil, studi, semester;tampil, kartu, hasil, studi, semester
+521;['ipk', 'mahasiswa', 'nim'];id;ipk, mahasiswa, nim;ipk, mahasiswa, nim
+522;['tampil', 'nama', 'dosen', 'ampu', 'mata', 'kuliah', 'struktur', 'data'];id;tampil, nama, dosen, ampu, mata, kuliah, struktur, data;tampil, nama, dosen, ampu, mata, kuliah, struktur, data
+523;['batas', 'isi', 'krs'];id;batas, isi, krs;batas, isi, krs
+524;['tampil', 'nama', 'dosen', 'ampu', 'mata', 'kuliah', 'kalkulus'];id;tampil, nama, dosen, ampu, mata, kuliah, kalkulus;tampil, nama, dosen, ampu, mata, kuliah, kalkulus
+525;['tampil', 'ruang', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil, ruang, mata, kuliah, algoritma, pemrograman;tampil, ruang, mata, kuliah, algoritma, pemrograman
+526;['bintang', 'laut', 'laut'];ood;bintang, laut, laut;bintang, laut, laut
+527;['tampil', 'tanggal', 'test', 'usept'];id;tampil, tanggal, test, usept;tampil, tanggal, test, usept
+528;['sebutka', 'lagu', 'populer'];ood;sebutka, lagu, populer;sebutka, lagu, populer
+529;['fasilkom', 'unsri', 'diri'];ood;fasilkom, unsri, diri;fasilkom, unsri, diri
+530;['sks', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;sks, mata, kuliah, algoritma, pemrograman;sks, mata, kuliah, algoritma, pemrograman
+531;['nim'];id;nim;nim
+532;['sebut', 'nama', 'dosen', 'ajar', 'bidang', 'olah', 'citra'];id;sebut, nama, dosen, ajar, bidang, olah, citra;sebut, nama, dosen, ajar, bidang, olah, citra
+533;['tampil', 'angkat'];id;tampil, angkat;tampil, angkat
+534;['batas', 'maksimum', 'ambil', 'semester', 'pendek'];id;batas, maksimum, ambil, semester, pendek;batas, maksimum, ambil, semester, pendek
+535;['tampil', 'daftar', 'nama', 'mahasiswa', 'jenis', 'kelamin', 'perempuan', 'jurus', 'teknik', 'informatika', 'angkat'];id;tampil, daftar, nama, mahasiswa, jenis, kelamin, perempuan, jurus, teknik, informatika, angkat;tampil, daftar, nama, mahasiswa, jenis, kelamin, perempuan, jurus, teknik, informatika, angkat
+536;['nama', 'dosen', 'ampu', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;nama, dosen, ampu, mata, kuliah, algoritma, pemrograman;nama, dosen, ampu, mata, kuliah, algoritma, pemrograman
+537;['tampil', 'nama', 'pribadi', 'sesuai', 'tera', 'akademik'];id;tampil, nama, pribadi, sesuai, tera, akademik;tampil, nama, pribadi, sesuai, tera, akademik
+538;['nim', 'mahasiswa', 'nama', 'virani', 'amanda'];id;nim, mahasiswa, nama, virani, amanda;nim, mahasiswa, nama, virani, amanda
+539;['tampil', 'sks', 'semester'];id;tampil, sks, semester;tampil, sks, semester
+540;['harga', 'buku', 'kalkulus'];ood;harga, buku, kalkulus;harga, buku, kalkulus
+541;['tampil', 'ipk', 'semester'];id;tampil, ipk, semester;tampil, ipk, semester
+542;['tampil', 'history', 'suliet'];id;tampil, history, suliet;tampil, history, suliet
+543;['nomor', 'induk', 'pegawai', 'dosen', 'pa'];id;nomor, induk, pegawai, dosen, pa;nomor, induk, pegawai, dosen, pa
+544;['unsri', 'diri'];ood;unsri, diri;unsri, diri
+545;['cipta', 'lagu', 'merdeka'];ood;cipta, lagu, merdeka;cipta, lagu, merdeka
+546;['virus', 'corona'];ood;virus, corona;virus, corona
+547;['muncul', 'nama', 'mahasiswa', 'angkat', 'selesai', 'skripsi'];id;muncul, nama, mahasiswa, angkat, selesai, skripsi;muncul, nama, mahasiswa, angkat, selesai, skripsi
+548;['temu', 'bola', 'lampu'];ood;temu, bola, lampu;temu, bola, lampu
