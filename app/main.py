@@ -150,7 +150,7 @@ def upload():
     # response.headers.add('Access-Control-Allow-Origin', '*')
     if request.method == 'POST':
         # try:
-        app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path, '')
+        app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path, '../')
         file = request.files['file']
         filename = secure_filename('dataset.csv')
         # filecsv = filename
