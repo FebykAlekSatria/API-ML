@@ -60,7 +60,7 @@ def tfidf():
     X_tfidf = vectorizer_tfidf.fit_transform(df['Lowers'])
     tabelTFIDF = pd.DataFrame(
         X_tfidf.todense(), columns=vectorizer_tfidf.get_feature_names())
-    tabelTFIDF.to_csv("data/TFIDF.csv", sep=";")
+    tabelTFIDF.to_csv("TFIDF.csv", sep=";")
 
 # BEST PARAMS
 
@@ -94,10 +94,23 @@ def best_params(df):
 # KLASIFIKASI SVM
 
 
+# def model(df, kernel, c, gamma):
+#     Y = df.Kelas
+#     X = vectorizer_tfidf.fit_transform(df['Lowers'])
+#     modelSVM = svm.SVC(kernel=kernel, C=c, gamma=gamma)
+#     modelSVM.fit(X, Y)
+#     with open("model", "wb") as r:
+#         pickle.dump(modelSVM, r)
+
+
 def classify(df, kernel, c, gamma):
     Y = df.Kelas
     X = vectorizer_tfidf.fit_transform(df['Lowers'])
     model = svm.SVC(kernel=kernel, C=c, gamma=gamma)
+    modelSVM = svm.SVC(kernel=kernel, C=c, gamma=gamma)
+    modelSVM.fit(X, Y)
+    with open("model", "wb") as r:
+        pickle.dump(modelSVM, r)
     scores = []
     confusion_score = []
     scores.append(['Uji ke', 'akurasi', 'precision',
@@ -150,8 +163,9 @@ def upload():
     # response.headers.add('Access-Control-Allow-Origin', '*')
     if request.method == 'POST':
         # try:
-        app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path, '../')
+        app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path, '')
         file = request.files['file']
+        print(file)
         filename = secure_filename('dataset.csv')
         # filecsv = filename
         file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
@@ -239,23 +253,24 @@ def params():
 @app.route("/training", methods=["GET", "POST"])
 def training():
     if request.method == 'POST':
-        try:
-            df = pd.read_csv("Text_prepocessing.csv", sep=';')
-            params = request.get_json()
-            c = params['c']
-            gamma = params['gamma']
-            kernel = params['kernel']
-            score = classify(df, kernel, c, gamma)
-            print(c)
-            lists = np.array(score[12]).tolist()
-            return ({
-                'title': score[0],
-                'score': score[1:11],
-                'means': score[11],
-                'confusion': lists
-            })
-        except:
-            return ('Training Gagal')
+        # try:
+        df = pd.read_csv("Text_prepocessing.csv", sep=';')
+        params = request.get_json()
+        c = params['c']
+        gamma = params['gamma']
+        kernel = params['kernel']
+        # model(df, kernel, c, gamma)
+        score = classify(df, kernel, c, gamma)
+        print(c)
+        lists = np.array(score[12]).tolist()
+        return ({
+            'title': score[0],
+            'score': score[1:11],
+            'means': score[11],
+            'confusion': lists
+        })
+        # except:
+        #     return ('Training Gagal')
 
     else:
         return "<h1>Welcome to OOD API TRINING DATASET</h1>"
@@ -265,24 +280,26 @@ def training():
 def index():
     if request.method == 'POST':
         try:
-            quest = request.json.get('text')
-            Input = clean_punct(quest)
-            Input = Input.lower()
+            quest = request.get_json()
+            string = quest['text']
+            string = string.lower()
+            Input = clean_punct(string)
+            Input = nltk.word_tokenize(Input)
             Input = stopwords_removal(Input)
+            Input = (' ').join(Input)
             Input = stemmed_wrapper(Input)
             Input = vectorizer_tfidf.transform([Input])
-            prediction = model.predict(np.array(Input).tolist()).tolist()
+            prediction = model.predict(Input)
             return ({
-                'pertanyaan': quest,
+                'pertanyaan': quest['text'],
                 'predict': prediction[0]
             })
         except:
-            return ('Tidak ada inputan')
+            return ('Tidak ada inputan/TFIDF belum tersedia')
 
     else:
         return "<h1>Welcome to OOD API</h1>"
 
 
 # if __name__ == "__main__":
-#     app.debug = True
-#     app.run(host='0.0.0.0', port="5000")
+#     app.run()
