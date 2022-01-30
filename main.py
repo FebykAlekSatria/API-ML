@@ -1,3 +1,6 @@
+from werkzeug.utils import secure_filename
+from flask import send_from_directory
+from nltk.corpus import stopwords
 from sklearn.model_selection import KFold
 from sklearn.model_selection import GridSearchCV
 from sklearn import svm
@@ -7,7 +10,6 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from flask import Flask, render_template, request, jsonify, send_file, send_from_directory
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
-import nltk
 import numpy as np
 import pickle
 import pandas as pd
@@ -15,10 +17,8 @@ import re
 import os
 from sklearn.feature_extraction.text import TfidfVectorizer
 from flask_cors import CORS
-from nltk.corpus import stopwords
-from flask import send_from_directory
-from werkzeug.utils import secure_filename
-nltk.download()
+import nltk
+nltk.download('indonesia')
 
 
 clean_spcl = re.compile('[/(){}\[\]\|@,;]')
