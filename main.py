@@ -180,41 +180,41 @@ def upload():
 @app.route("/prepocessing", methods=["GET", "POST"])
 def prepocessing():
     if request.method == 'POST':
-        try:
-            # path = (r"coba\")
-            mentah = pd.read_csv("dataset.csv", sep=';')
-            mentah = mentah.sample(
-                frac=1.0, random_state=1).reset_index(drop=True)
-            lower = mentah.astype(str).apply(lambda x: x.str.lower())
-            df = lower
-            df['Kalimat'] = df['Kalimat'].fillna('').astype(str).str.replace(
-                r'[^A-Za-z ]', '', regex=True).replace('', np.nan, regex=False)
-            df['Kalimat'] = df.apply(
-                lambda row: nltk.word_tokenize(row['Kalimat']), axis=1)
-            df['Kalimat'] = df['Kalimat'].apply(stopwords_removal)
+        # try:
+        # path = (r"coba\")
+        mentah = pd.read_csv("dataset.csv", sep=';')
+        mentah = mentah.sample(
+            frac=1.0, random_state=1).reset_index(drop=True)
+        lower = mentah.astype(str).apply(lambda x: x.str.lower())
+        df = lower
+        df['Kalimat'] = df['Kalimat'].fillna('').astype(str).str.replace(
+            r'[^A-Za-z ]', '', regex=True).replace('', np.nan, regex=False)
+        df['Kalimat'] = df.apply(
+            lambda row: nltk.word_tokenize(row['Kalimat']), axis=1)
+        df['Kalimat'] = df['Kalimat'].apply(stopwords_removal)
 
-            for document in df['Kalimat']:
-                for term in document:
-                    if term not in term_dict:
-                        term_dict[term] = ' '
-            for term in term_dict:
-                term_dict[term] = stemmed_wrapper(term)
+        for document in df['Kalimat']:
+            for term in document:
+                if term not in term_dict:
+                    term_dict[term] = ' '
+        for term in term_dict:
+            term_dict[term] = stemmed_wrapper(term)
 
-            df['Kalimat'] = df['Kalimat'].swifter.apply(get_stemmed_term)
+        df['Kalimat'] = df['Kalimat'].swifter.apply(get_stemmed_term)
 
-            df['Propocessing'] = [", ".join(review)
-                                  for review in df['Kalimat'].values]
-            df['Lowers'] = [", ".join(review)
-                            for review in df['Kalimat'].values]
-            df.to_csv("Text_prepocessing.csv", sep=";")
-            mentah = np.array(mentah).tolist()
-            preprocesiing = np.array(df).tolist()
+        df['Propocessing'] = [", ".join(review)
+                              for review in df['Kalimat'].values]
+        df['Lowers'] = [", ".join(review)
+                        for review in df['Kalimat'].values]
+        df.to_csv("Text_prepocessing.csv", sep=";")
+        mentah = np.array(mentah).tolist()
+        preprocesiing = np.array(df).tolist()
 
-            return ({
-                'data': [mentah[0][0], mentah[1][0], preprocesiing[0][2], preprocesiing[1][2]]
-            })
-        except:
-            return ("dataset salah")
+        return ({
+            'data': [mentah[0][0], mentah[1][0], preprocesiing[0][2], preprocesiing[1][2]]
+        })
+        # except:
+        #     return ("dataset salah")
 
     else:
         return "<h1>Welcome to OOD API PREPOCESSING DATASET</h1>"
