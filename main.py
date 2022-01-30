@@ -1,6 +1,4 @@
 from werkzeug.utils import secure_filename
-from flask import send_from_directory
-from nltk.corpus import stopwords
 from sklearn.model_selection import KFold
 from sklearn.model_selection import GridSearchCV
 from sklearn import svm
@@ -18,7 +16,9 @@ import os
 from sklearn.feature_extraction.text import TfidfVectorizer
 from flask_cors import CORS
 import nltk
-nltk.download('indonesia')
+from nltk.corpus import stopwords
+from flask import send_from_directory
+nltk.download('punkt')
 
 
 clean_spcl = re.compile('[/(){}\[\]\|@,;]')
