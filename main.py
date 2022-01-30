@@ -280,23 +280,23 @@ def training():
 @app.route("/", methods=["GET", "POST"])
 def index():
     if request.method == 'POST':
-        # try:
-        quest = request.get_json()
-        string = quest['text']
-        string = string.lower()
-        Input = clean_punct(string)
-        Input = nltk.word_tokenize(Input)
-        Input = stopwords_removal(Input)
-        Input = (' ').join(Input)
-        Input = stemmed_wrapper(Input)
-        Input = vectorizer_tfidf.transform([Input])
-        prediction = model.predict(Input)
-        return ({
-            'pertanyaan': quest['text'],
-            'predict': prediction[0]
-        })
-        # except:
-        #     return ('Tidak ada inputan/TFIDF belum tersedia')
+        try:
+            quest = request.get_json()
+            string = quest['text']
+            string = string.lower()
+            Input = clean_punct(string)
+            Input = nltk.word_tokenize(Input)
+            Input = stopwords_removal(Input)
+            Input = (' ').join(Input)
+            Input = stemmed_wrapper(Input)
+            Input = vectorizer_tfidf.transform([Input])
+            prediction = model.predict(Input)
+            return ({
+                'pertanyaan': quest['text'],
+                'predict': prediction[0]
+            })
+        except:
+            return ('Tidak ada inputan/TFIDF belum tersedia')
 
     else:
         return "<h1>Welcome to OOD API</h1>"
