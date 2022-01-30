@@ -18,6 +18,7 @@ from flask_cors import CORS
 from nltk.corpus import stopwords
 from flask import send_from_directory
 from werkzeug.utils import secure_filename
+nltk.download()
 
 
 clean_spcl = re.compile('[/(){}\[\]\|@,;]')
