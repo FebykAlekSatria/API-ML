@@ -207,7 +207,7 @@ def prepocessing():
                                   for review in df['Kalimat'].values]
             df['Lowers'] = [", ".join(review)
                             for review in df['Kalimat'].values]
-            df.to_csv("Text_prepocessing.csv", sep=";")
+            df.to_csv("data/Text_prepocessing.csv", sep=";")
             mentah = np.array(mentah).tolist()
             preprocesiing = np.array(df).tolist()
 
