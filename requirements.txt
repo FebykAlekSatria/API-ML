@@ -5,8 +5,9 @@ itsdangerous==2.0.1
 Jinja2==3.0.3
 MarkupSafe>=1.1.1
 Werkzeug==2.0.1
-numpy
+numpy==1.14.6
 scikit-learn==1.0
+scipy==1.1.0
 pandas
 Sastrawi
 flask_cors
