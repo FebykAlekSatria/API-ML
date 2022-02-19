@@ -34,7 +34,7 @@ Siapa penulis buku Bumi?;OOD
 Siapa penulis buku yang berjudul Rindu?;OOD
 Siapa Nama Dekan Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Sriwijaya?;OOD
 Bagaimana caranya agar orang yang dekat dengan kita memberikan kita kepastian ?;OOD
-Apakah mahasiswa dengan nim xxx memiliki kesempatan lulus dengan pujian?;OOD
+Apakah mahasiswa memiliki kesempatan lulus dengan pujian?;OOD
 Bagaimana cara menabung dengan konsisten?;OOD
 Siapa penemu bola lampu?;OOD
 Tolong cari pedagang martabak dengan harga jual termurah;OOD
@@ -226,7 +226,7 @@ Tolong berikan daftar nama mahasiswa yang berjenis kelamin wanita;ID
 mahasiswa bimbingan abdiansyah;ID
 Berikan data mahasiswa dengan IPK > 3.8;ID
 Carikan data mahasiswa dengan NIM 09021281823051;ID
-Siapa pembimbing TA dari mahasiswa nim xxxxxxxx;ID
+Siapa pembimbing TA dari mahasiswa nim;ID
 sebutkan mata kuliah pilihan pada semester 7;ID
 Siapa saja dosen teknik informatika yang berjenis kelamin laki-laki?;ID
 Berikan data mahasiswa dengan IPK > 3.8;ID
@@ -237,7 +237,7 @@ Temukan kode mata kuliah Probabilitas dan Statistika;ID
 Munculkan nama mahasiswa angkatan 2018 yang sudah menyelesaikan skripsi;ID
 Temukan kode mata kuliah kalkulus;ID
 Berapa NIP dosen atas nama abdiansyah?;ID
-Tampilkan nilai saya xxxx;ID
+Tampilkan nilai saya;ID
 Berapa jumlah mahasiswa Teknik Informatika Reguler 2018?;ID
 Berapa jumlah mahasiswa teknik infromatika 2021?;ID
 Siapa nama mahasiswa yang memiliki NIM 09021281823039?;ID
@@ -548,3 +548,191 @@ siapa mahasiswa yang uasnya bernilai 90;ID
  tanggal test usept;ID
  hasil test suliet;ID
  hasil test usept;ID
+asapnya terus mendekatiku .;OOD
+kembali ke kampung halaman , kukira aku akan dapat sashimi ...;OOD
+tapi yang kudapatkan hanyalah usus babi ?;OOD
+hai , ikan mentah di seoul paling murah dan paling segar .;OOD
+semua yang ada disini dibawa dari seoul .;OOD
+tapi kami dekat dengan laut !;OOD
+ini , daging mentah !;OOD
+hai , kenapa si berandal itu belum datang ?;OOD
+apa tahun ini dia tidak akan hadir juga ?;OOD
+menurutmu dia akan datang ?;OOD
+dia belum menampakkan batang hidungnya tahun ini .;OOD
+dia masih tidak bisa melupakan gadis itu ?;OOD
+siapa ?;OOD
+har sueun sudah meninggal .;OOD
+benarkah ?;OOD
+ini sudah dimasak atau belum ?;OOD
+jika pacar pertamamu meninggal , apa kamu mudah melupakannya ?;OOD
+lupakan itu .;OOD
+dia lupa atau tidak , itu adalah kehidupannya sendiri .;OOD
+senang bisa melihatmu .;OOD
+aku juga .;OOD
+sudah lama .;OOD
+bisa kamu dengar aku ?;OOD
+sueun , pria ini , suho masih tidak bisa melupakanmu .;OOD
+hentikan itu !;OOD
+otaknya kecil , tapi penuh dengan pikiran mengenai dirimu .;OOD
+lepaskan temanku !;OOD
+kumohon , sueun !;OOD
+pagerku ...;OOD
+kami mencarimu kemanamana .;OOD
+apa yang kamu lakukan disini ?;OOD
+aku tidak tahu .;OOD
+kakiku kejang .;OOD
+apa kalian menyelamatkanku ?;OOD
+apa kamu bermimpi ?;OOD
+dimana , mana ?;OOD
+iya tuhan !;OOD
+oh , kamu .;OOD
+apa ini terlalu sempit ?;OOD
+kenapa kamu tibatiba keluar seperti itu ?;OOD
+kamu mengagetkanku .;OOD
+apa peti mati itu untukmu ?;OOD
+memangnya aku akan segera mati .;OOD
+kamu dan aku tumbuh bersama , hatihatilah dengan omonganmu .;OOD
+lalu untuk siapa ?;OOD
+ayahnya pak kades ?;OOD
+aku suka yang ini .;OOD
+yang itu mahal .;OOD
+kalau begitu berikan diskon .;OOD
+iya , apapun .;OOD
+kami memasak sup kacang buncis , mampirlah jika kamu sempat .;OOD
+baik .;OOD
+jaga diri .;OOD
+wow , ini cuaca pembunuh !;OOD
+kamu tidak boleh gunakan kata itu disini .;OOD
+kenapa ?;OOD
+tidak ada yang akan meninggal disini .;OOD
+wow , ini bir pembunuh .;OOD
+kamu berlebihan .;OOD
+apa tn .;OOD
+park akan meninggal ?;OOD
+semua orang akan meninggal cepat atau lambat .;OOD
+biarkan beristirahat .;OOD
+istirahat dalam damai ?;OOD
+dimana ?;OOD
+wow , ini cuaca pembunuh .;OOD
+di bawah naungan pohon magnolia ,;OOD
+aku baca surat werther .;OOD
+bermain seruling di atas bukit diselimuti kawanan bungabunga .;OOD
+aku datang dari tempat jauh , membawa perahu dari dermaga tidak bernama .;OOD
+bulan april menyalakan kembali obor kehidupan .;OOD
+impian akan musim yang bersinar ,;OOD
+musim yang diisi air mata pelangi .;OOD
+di bawah naungan pohon magnolia ,;OOD
+aku baca surat werther .;OOD
+apa yang harus kulakukan ?;OOD
+aku harus konsentrasi belajar .;OOD
+apa ?;OOD
+sueun yang disana itu , dia terus memandangiku .;OOD
+aku perkirakan , dia akan mengajakku kencan minggu ini .;OOD
+aku harus belajar .;OOD
+ada apa dengan gadis zaman sekarang ?;OOD
+mereka punya standar yang tinggi .;OOD
+kamu pergi duluan .;OOD
+tidak , kamu yang duluan .;OOD
+aku ke kanan , dan kamu ke kiri .;OOD
+maksudmu , kananmu ?;OOD
+hai !;OOD
+belikan aku kroket .;OOD
+kenapa ?;OOD
+ingin saja .;OOD
+tapi , jika aku membelikanmu kroket , akan sulit bagi kami berdua ada di sekolah;OOD
+kenapa ?;OOD
+karena .;OOD
+permisi ...;OOD
+suho !;OOD
+bodoh kamu !;OOD
+kamu hanya dijadikannya mainan .;OOD
+apa yang kamu bicarakan ?;OOD
+kamu pikir masuk akal ?;OOD
+kenapa sueun , gadis tercantik di sekolah , bisa menyukaimu ?;OOD
+dia sudah bosan dengan priapria tampan , jadi dia merasa harus merubah langkah .;OOD
+kamu tahu younggu dari ekskul judo ?;OOD
+dia sudah menandai .;OOD
+kamu sedang dicari !;OOD
+aku hanya membelikannya kroket !;OOD
+tunggu saja .;OOD
+kroket hanya sebagai awal saja ...;OOD
+kamu hanya dijadikan mainan .;OOD
+saat dia puas , dia akan membuangmu !;OOD
+apa kamu cemas pada temanmu , atau kamu cemburu ?;OOD
+siapa yang cemburu ?;OOD
+aku tidak mengerti .;OOD
+kenapa suho bukannya aku ?;OOD
+kamu juga bukan !;OOD
+apa kamu berandalan yang berkencan dengan sueun ?;OOD
+apa ada orang lain disini ?;OOD
+kamu atau bukan ?;OOD
+aku tidak berkencan dengannya .;OOD
+aku benci pengecut sepertimu melebihi apapun .;OOD
+akan kuberi kamu pelajaran .;OOD
+tunggu , tunggu ...;OOD
+apa kami berkencan atau tidak ?;OOD
+tolonglah , aku sedang ...;OOD
+apa kamu sedang berkencan dengan tikus ini , atau tidak ?;OOD
+kami sedang berkencan .;OOD
+suho !;OOD
+naik , cepat !;OOD
+maju kecepatan penuh !;OOD
+hai , tangkap dia , cepat !;OOD
+susul sepeda itu !;OOD
+hai , aku seorang guru !;OOD
+kalian tidak bisa lakukan itu !;OOD
+berhenti , berhenti !;OOD
+aku lebih berat dari perkiraanmu ?;OOD
+tidak , beratmu seperti yang aku kira .;OOD
+laut sangat biru .;OOD
+selalu seperti itu .;OOD
+sepertinya bisa membuat tanganku jadi biru .;OOD
+oh , kamu bisa renang ?;OOD
+tentu aku bisa !;OOD
+kenapa kamu tertawa ?;OOD
+kamu tidak terluka ?;OOD
+oh , si bodoh itu , younggu ...;OOD
+mereka menyelamatkanku .;OOD
+apa kamu suka bermain sepak bola ?;OOD
+aku sering memainkannya saat smp , tapi sekarang tidak .;OOD
+kamu jadi kiper ?;OOD
+iya , supaya aku tidak perlu lari .;OOD
+tapi kenapa kamu tahu itu ?;OOD
+waktu itu kami satu kelas .;OOD
+oh , kamu benar .;OOD
+rumah kakekmu ada di lingkunganku kan ?;OOD
+kamu juga tahu itu ?;OOD
+kamu ingat kami pernah piket bersama ?;OOD
+kami pernah ?;OOD
+kamu ingat apa yang kamu tanyakan ?;OOD
+apa itu ?;OOD
+apa arti su dalam sueun ?;OOD
+oh , su artinya hidup !;OOD
+dan arti su dalam namamu luar biasa !;OOD
+belikan aku pager .;OOD
+pager ?;OOD
+punyaku hilang karena kamu , jadi kamu harus menggantinya .;OOD
+karena aku ?;OOD
+dasar bodoh .;OOD
+lautnya sangat merah .;OOD
+selalu begitu di waktu seperti ini .;OOD
+lalu , kenapa wajahmu merah ?;OOD
+iya , pada saat seperti ini , biasanya begitu .;OOD
+iya ?;OOD
+hanya ingin memanggil namamu .;OOD
+aku tahu !;OOD
+hah ?;OOD
+kamu akan pindah sekolah .;OOD
+itulah kenapa kamu mulai bicara dan tertawa denganku .;OOD
+hah ?;OOD
+apa arti eun dalam sueun ?;OOD
+ingin membakarku dengan tatapanmu ?;OOD
+matamu seperti mau keluar .;OOD
+ibu .;OOD
+hah , kamu membuatku takut dengan suaramu itu .;OOD
+jika kamu memanggilku , itu berarti ada yang kamu inginkan .;OOD
+aku sangat mencintaimu ?;OOD
+boleh aku pinjam uang .;OOD
+ibu , pager .;OOD
+apa ?;OOD
+terompet ?;OOD

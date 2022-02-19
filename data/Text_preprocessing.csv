@@ -1,0 +1,738 @@
+;Kalimat;Kelas;Lowers
+0;['tampilkan', 'jadwal', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil jadwal mata kuliah algoritma pemrograman
+1;['tampilkan', 'semester', 'yang', 'sedang', 'dijalani', 'saat', 'ini'];id;tampil semester yang sedang jalan saat ini
+2;['jumlah', 'sks', 'pada', 'semester'];id;jumlah sks pada semester
+3;['batas', 'akhir', 'pengisian', 'kprs'];id;batas akhir isi kprs
+4;['seberapa', 'penting', 'bisa', 'berbahasa', 'inggris'];ood;berapa penting bisa bahasa inggris
+5;['tampilkan', 'nomor', 'induk', 'pegawai', 'dosen', 'pembimbing', 'akademik'];id;tampil nomor induk pegawai dosen bimbing akademik
+6;['program', 'studi'];id;program studi
+7;['transkip', 'nilai'];id;transkip nilai
+8;['kroket', 'hanya', 'sebagai', 'awal', 'saja'];ood;kroket hanya bagai awal saja
+9;['sebutkan', 'mata', 'kuliah', 'pilihan', 'pada', 'semester'];id;sebut mata kuliah pilih pada semester
+10;['selalu', 'begitu', 'di', 'waktu', 'seperti', 'ini'];ood;selalu begitu di waktu seperti ini
+11;['apa', 'yang', 'harus', 'kulakukan'];ood;apa yang harus laku
+12;['tampilkan', 'batas', 'sks', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'ini'];id;tampil batas sks maksimum yang boleh ambil pada semester ini
+13;['apa', 'saja', 'kegiatan', 'mahasiswa', 'yang', 'didukung', 'oleh', 'pihak', 'universitas', 'diluar', 'akademik'];ood;apa saja giat mahasiswa yang dukung oleh pihak universitas luar akademik
+14;['siapa', 'nama', 'mahasiswa', 'yang', 'memiliki', 'nim'];id;siapa nama mahasiswa yang milik nim
+15;['buku', 'yang', 'berjudul', 'tentang', 'kamu', 'ditulis', 'oleh'];ood;buku yang judul tentang kamu tulis oleh
+16;['tampilkan', 'krs', 'pada', 'semester', 'ini'];id;tampil krs pada semester ini
+17;['siapa', 'penulis', 'buku', 'saddha'];ood;siapa tulis buku saddha
+18;['tampilkan', 'ruangan', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil ruang mata kuliah algoritma pemrograman
+19;['siapa', 'raja', 'pertama', 'korea', 'selatan'];ood;siapa raja pertama korea selatan
+20;['nama', 'pribadi', 'sesuai', 'yang', 'tertera', 'pada', 'akademik'];id;nama pribadi sesuai yang tera pada akademik
+21;['apa', 'yang', 'menjadi', 'alasanlandasan', 'anda', 'dalam', 'membuat', 'chatbot'];ood;apa yang jadi alasanlandasan anda dalam buat chatbot
+22;['sebutkan', 'nama', 'kelas', 'dan', 'nilai', 'uas'];id;sebut nama kelas dan nilai uas
+23;['bagaimana', 'cara', 'mengubah', 'warna', 'font', 'di', 'web'];ood;bagaimana cara ubah warna font di web
+24;['siapa', 'penulis', 'puisi', 'aku', 'berada', 'kembali'];ood;siapa tulis puisi aku ada kembali
+25;['dimana', 'letak', 'ruangan', 'laboratorium', 'data', 'science', 'di', 'fakultas', 'ilmu', 'komputer', 'unsri'];ood;mana letak ruang laboratorium data science di fakultas ilmu komputer unsri
+26;['tampilkan', 'kartu', 'rencana', 'studi', 'pada', 'semester', 'ini'];id;tampil kartu rencana studi pada semester ini
+27;['ip', 'pada', 'semester'];id;ip pada semester
+28;['tampilkan', 'data', 'pribadi'];id;tampil data pribadi
+29;['bulan', 'berapa', 'unsri', 'didirikan'];ood;bulan berapa unsri diri
+30;['ruangan', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;ruang mata kuliah algoritma pemrograman
+31;['nomor', 'induk', 'mahasiswa'];id;nomor induk mahasiswa
+32;['kamu', 'akan', 'pindah', 'sekolah'];ood;kamu akan pindah sekolah
+33;['suho'];ood;suho
+34;['tunggu', 'tunggu'];ood;tunggu tunggu
+35;['tampilkan', 'batas', 'akhir', 'pengisian', 'kprs'];id;tampil batas akhir isi kprs
+36;['tampilkan', 'jumlah', 'sks', 'pada', 'semester'];id;tampil jumlah sks pada semester
+37;['nama', 'dosen', 'yang', 'mengampu', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;nama dosen yang ampu mata kuliah algoritma pemrograman
+38;['temukan', 'lokasi', 'fasilkom'];ood;temu lokasi fasilkom
+39;['mata', 'kuliah', 'dengan', 'nilai', 'd'];id;mata kuliah dengan nilai d
+40;['aku', 'hanya', 'membelikannya', 'kroket'];ood;aku hanya beli kroket
+41;['siapa', 'nama', 'president', 'ri', 'yang', 'ke'];ood;siapa nama president ri yang ke
+42;['kartu', 'rencana', 'studi', 'semester', 'pendek'];id;kartu rencana studi semester pendek
+43;['mereka', 'menyelamatkanku'];ood;mereka selamat
+44;['kapan', 'universitas', 'sriwijaya', 'didirikan'];ood;kapan universitas sriwijaya diri
+45;['total', 'sks', 'yang', 'sudah', 'ditempuh'];id;total sks yang sudah tempuh
+46;['mereka', 'punya', 'standar', 'yang', 'tinggi'];ood;mereka punya standar yang tinggi
+47;['apa', 'kalian', 'menyelamatkanku'];ood;apa kalian selamat
+48;['apakah', 'letak', 'gedung', 'fmipa', 'unsri', 'indralaya', 'dekat', 'dengan', 'gedung', 'fp'];ood;apakah letak gedung fmipa unsri indralaya dekat dengan gedung fp
+49;['buku', 'yang', 'berjudul', 'rembulan', 'tenggelam', 'di', 'wajah', 'mu', 'adalah', 'karya'];ood;buku yang judul rembulan tenggelam di wajah mu adalah karya
+50;['hai', 'kenapa', 'si', 'berandal', 'itu', 'belum', 'datang'];ood;hai kenapa si berandal itu belum datang
+51;['tampilkan', 'kelas', 'dan', 'nilai'];id;tampil kelas dan nilai
+52;['tampilkan', 'tanggal', 'mulai', 'pengisian', 'kprs'];id;tampil tanggal mulai isi kprs
+53;['tampilkan', 'semester', 'pendek', 'pada', 'semester'];id;tampil semester pendek pada semester
+54;['siapa', 'penulis', 'buku', 'amor', 'fati'];ood;siapa tulis buku amor fati
+55;['tampilkan', 'khs', 'semester', 'pendek'];id;tampil khs semester pendek
+56;['berapa', 'jumlah', 'mahasiswa', 'teknik', 'informatika', 'bilingual'];id;berapa jumlah mahasiswa teknik informatika bilingual
+57;['kamu', 'dan', 'aku', 'tumbuh', 'bersama', 'hatihatilah', 'dengan', 'omonganmu'];ood;kamu dan aku tumbuh sama hatihatilah dengan omong
+58;['banyak', 'sks', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'ini'];id;banyak sks maksimum yang boleh ambil pada semester ini
+59;['beasiswa', 'apa', 'saja', 'yang', 'ada', 'di', 'unsri'];ood;beasiswa apa saja yang ada di unsri
+60;['kumohon', 'sueun'];ood;mohon sueun
+61;['wow', 'ini', 'cuaca', 'pembunuh'];ood;wow ini cuaca bunuh
+62;['mata', 'kuliah', 'dengan', 'nilai', 'b'];id;mata kuliah dengan nilai b
+63;['tolong', 'temukan', 'lokasi', 'unsri'];ood;tolong temu lokasi unsri
+64;['tampilkan', 'jadwal', 'mata', 'kuliah', 'matriks', 'dan', 'vektor'];id;tampil jadwal mata kuliah matriks dan vektor
+65;['tampilkan', 'ipk', 'pada', 'semester'];id;tampil ipk pada semester
+66;['siapa', 'nama', 'wakil', 'direktur', 'utama'];ood;siapa nama wakil direktur utama
+67;['bermain', 'seruling', 'di', 'atas', 'bukit', 'diselimuti', 'kawanan', 'bungabunga'];ood;main seruling di atas bukit limut kawan bungabunga
+68;['kamu', 'tidak', 'boleh', 'gunakan', 'kata', 'itu', 'disini'];ood;kamu tidak boleh guna kata itu sini
+69;['rekomendasi', 'situs', 'web', 'yang', 'wajib', 'diketahui', 'oleh', 'mahasiswa'];ood;rekomendasi situs web yang wajib tahu oleh mahasiswa
+70;['saat', 'dia', 'puas', 'dia', 'akan', 'membuangmu'];ood;saat dia puas dia akan buang
+71;['temukan', 'nama', 'mahasiswa', 'yang', 'memiliki', 'nim'];id;temu nama mahasiswa yang milik nim
+72;['tampilkan', 'ip', 'pada', 'semester'];id;tampil ip pada semester
+73;['mahasiswa', 'bimbingan', 'abdiansyah'];id;mahasiswa bimbing abdiansyah
+74;['lebih', 'susah', 'belajar', 'matematika', 'atau', 'bahasa', 'inggris'];ood;lebih susah ajar matematika atau bahasa inggris
+75;['apakah', 'skill', 'pemrograman', 'itu', 'penting'];ood;apakah skill pemrograman itu penting
+76;['aku', 'cantik', 'ga'];ood;aku cantik ga
+77;['berikan', 'data', 'dosen', 'pembimbing', 'nadia', 'rizky', 'hairunnisa'];id;ikan data dosen bimbing nadia rizky hairunnisa
+78;['ingin', 'membakarku', 'dengan', 'tatapanmu'];ood;ingin bakar dengan tatap
+79;['oh', 'kamu', 'benar'];ood;oh kamu benar
+80;['ipk', 'pada', 'semester'];id;ipk pada semester
+81;['buku', 'yang', 'berjudul', 'daun', 'yang', 'jatuh', 'tak', 'pernah', 'membeci', 'angin', 'ditulis', 'oleh'];ood;buku yang judul daun yang jatuh tak pernah membeci angin tulis oleh
+82;['apa', 'saja', 'aturan', 'yang', 'mengikat', 'puisi', 'lama'];ood;apa saja atur yang ikat puisi lama
+83;['hai', 'tangkap', 'dia', 'cepat'];ood;hai tangkap dia cepat
+84;['tampilkan', 'nama', 'dan', 'nip', 'kepala', 'jurusan', 'teknik', 'informatika'];id;tampil nama dan nip kepala jurus teknik informatika
+85;['sks', 'pada', 'mata', 'kuliah', 'struktur', 'data'];id;sks pada mata kuliah struktur data
+86;['dimana', 'letak', 'bumi'];ood;mana letak bumi
+87;['ipk', 'pada', 'semester'];id;ipk pada semester
+88;['kenapa'];ood;kenapa
+89;['dia', 'sudah', 'bosan', 'dengan', 'priapria', 'tampan', 'jadi', 'dia', 'merasa', 'harus', 'merubah', 'langkah'];ood;dia sudah bosan dengan priapria tampan jadi dia rasa harus rubah langkah
+90;['memangnya', 'aku', 'akan', 'segera', 'mati'];ood;memang aku akan segera mati
+91;['siapa', 'kepala', 'program', 'studi', 'ilmu', 'keperawatan', 'unsri', 'yang', 'pertama'];ood;siapa kepala program studi ilmu awat unsri yang pertama
+92;['tampilkan', 'ip', 'pada', 'semester'];id;tampil ip pada semester
+93;['index', 'prestasi', 'kumulatif'];id;index prestasi kumulatif
+94;['berapa', 'jumlah', 'tulang', 'rusuk', 'lakilaki'];ood;berapa jumlah tulang rusuk lakilaki
+95;['siapa', 'pendiri', 'unsri'];ood;siapa diri unsri
+96;['tampilkan', 'awal', 'pengisian', 'krs'];id;tampil awal isi krs
+97;['kenapa', 'huruf', 'b', 'itu', 'di', 'antara', 'a', 'dan', 'c'];ood;kenapa huruf b itu di antara a dan c
+98;['tampilkan', 'ipk'];id;tampil ipk
+99;['apakah', 'mahasiswa', 'memiliki', 'kesempatan', 'lulus', 'dengan', 'pujian'];ood;apakah mahasiswa milik sempat lulus dengan puji
+100;['pagerku'];ood;pagerku
+101;['semua', 'orang', 'akan', 'meninggal', 'cepat', 'atau', 'lambat'];ood;semua orang akan tinggal cepat atau lambat
+102;['apa', 'arti', 'eun', 'dalam', 'sueun'];ood;apa arti eun dalam sueun
+103;['berapa', 'jumlah', 'sks', 'yang', 'harus', 'ditempuh', 'untuk', 'lulus', 'di', 'jurusan', 'teknik', 'informatika'];id;berapa jumlah sks yang harus tempuh untuk lulus di jurus teknik informatika
+104;['bagaimana', 'agar', 'ipk'];ood;bagaimana agar ipk
+105;['prodi'];id;prodi
+106;['kamu', 'mengagetkanku'];ood;kamu kaget
+107;['nama', 'dekan', 'fasilkom'];ood;nama dekan fasilkom
+108;['kamu', 'tidak', 'terluka'];ood;kamu tidak luka
+109;['jurusan', 's', 'yang', 'sesuai', 'dengan', 'passion', 'dan', 'skill', 'desain'];ood;jurus s yang sesuai dengan passion dan skill desain
+110;['aku', 'ke', 'kanan', 'dan', 'kamu', 'ke', 'kiri'];ood;aku ke kanan dan kamu ke kiri
+111;['ibu', 'pager'];ood;ibu pager
+112;['tampilkan', 'nama', 'dosen', 'pa'];id;tampil nama dosen pa
+113;['tampilkan', 'nomor', 'induk', 'pegawai', 'dosen', 'pa'];id;tampil nomor induk pegawai dosen pa
+114;['bagaimana', 'cara', 'menajemen', 'waktu', 'antara', 'kuliah', 'dan', 'organisasi'];ood;bagaimana cara menajemen waktu antara kuliah dan organisasi
+115;['tampilkan', 'mata', 'kuliah', 'apa', 'saja', 'yang', 'dapat', 'diambil', 'pada', 'semester', 'ini'];id;tampil mata kuliah apa saja yang dapat ambil pada semester ini
+116;['jumlah', 'sks', 'yang', 'diambil', 'pada', 'semster', 'pendek'];id;jumlah sks yang ambil pada semster pendek
+117;['siapa', 'nama', 'hero', 'di', 'blackclover'];ood;siapa nama hero di blackclover
+118;['siapa', 'yang', 'disebut', 'sebagai', 'bapak', 'astronomi', 'observasional'];ood;siapa yang sebut bagai bapak astronomi observasional
+119;['dia', 'masih', 'tidak', 'bisa', 'melupakan', 'gadis', 'itu'];ood;dia masih tidak bisa lupa gadis itu
+120;['tampilkan', 'mata', 'kuliah', 'dengan', 'nilai', 'd'];id;tampil mata kuliah dengan nilai d
+121;['bagaimana', 'agar', 'nilai', 'tidak', 'turun'];ood;bagaimana agar nilai tidak turun
+122;['kartu', 'rencana', 'studi', 'pada', 'semester', 'ini'];id;kartu rencana studi pada semester ini
+123;['kode', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;kode mata kuliah algoritma pemrograman
+124;['maksudmu', 'kananmu'];ood;maksud kanan
+125;['tanggal', 'tenggat', 'pengisian', 'kprs'];id;tanggal tenggat isi kprs
+126;['kenapa'];ood;kenapa
+127;['kamu', 'ingat', 'kami', 'pernah', 'piket', 'bersama'];ood;kamu ingat kami pernah piket sama
+128;['bagaimana', 'cara', 'mengekstraksi', 'dbpedia'];ood;bagaimana cara ekstraksi dbpedia
+129;['kartu', 'hasil', 'studi', 'untuk', 'semester'];id;kartu hasil studi untuk semester
+130;['history', 'usept'];id;history usept
+131;['tampilkan', 'mata', 'kuliah', 'dengan', 'nilai', 'e'];id;tampil mata kuliah dengan nilai e
+132;['wow', 'ini', 'cuaca', 'pembunuh'];ood;wow ini cuaca bunuh
+133;['tampilkan', 'mahasiswa', 'teknik', 'informatika', 'angkatan', 'yang', 'masih', 'belum', 'lulus'];id;tampil mahasiswa teknik informatika angkat yang masih belum lulus
+134;['siapa', 'pencetus', 'abjad'];ood;siapa cetus abjad
+135;['ipk', 'pada', 'semester'];id;ipk pada semester
+136;['siapa', 'nama', 'kucing', 'peliharaan', 'anda'];ood;siapa nama kucing pelihara anda
+137;['tampilkan', 'nip', 'dosen', 'pa'];id;tampil nip dosen pa
+138;['berapa', 'banyak', 'organisasi', 'mahasiswa', 'yang', 'ada', 'di', 'unsri'];ood;berapa banyak organisasi mahasiswa yang ada di unsri
+139;['tentu', 'aku', 'bisa'];ood;tentu aku bisa
+140;['biarkan', 'beristirahat'];ood;biar istirahat
+141;['tampilkan', 'keseluruhan', 'sks', 'yang', 'sedang', 'ditempuh'];id;tampil seluruh sks yang sedang tempuh
+142;['tampilkan', 'jumlah', 'sks', 'yang', 'sudah', 'diambil', 'oleh', 'mahasiswa', 'dengan', 'nim'];id;tampil jumlah sks yang sudah ambil oleh mahasiswa dengan nim
+143;['nomor', 'induk', 'pegawai', 'dosen', 'pembimbing', 'akademik'];id;nomor induk pegawai dosen bimbing akademik
+144;['siapa', 'penulis', 'buku', 'atomic', 'habit'];ood;siapa tulis buku atomic habit
+145;['boleh', 'aku', 'pinjam', 'uang'];ood;boleh aku pinjam uang
+146;['siapa', 'nama', 'dekan', 'fakultas', 'teknik', 'universitas', 'sriwijaya'];ood;siapa nama dekan fakultas teknik universitas sriwijaya
+147;['apa', 'kamu', 'berandalan', 'yang', 'berkencan', 'dengan', 'sueun'];ood;apa kamu berandal yang kencan dengan sueun
+148;['aku', 'tidak', 'berkencan', 'dengannya'];ood;aku tidak kencan dengan
+149;['tampilkan', 'kartu', 'hasil', 'studi', 'untuk', 'semester'];id;tampil kartu hasil studi untuk semester
+150;['kamu', 'tahu', 'younggu', 'dari', 'ekskul', 'judo'];ood;kamu tahu younggu dari ekskul judo
+151;['keseluruhan', 'sks', 'yang', 'sedang', 'ditempuh'];id;seluruh sks yang sedang tempuh
+152;['darimana', 'bayi', 'lahir'];ood;darimana bayi lahir
+153;['jaga', 'diri'];ood;jaga diri
+154;['bagaimana', 'cara', 'membuat', 'kartu', 'anggota', 'perpustakaan'];ood;bagaimana cara buat kartu anggota pustaka
+155;['tolong', 'temukan', 'jodoh', 'saya'];ood;tolong temu jodoh saya
+156;['tampilkan', 'tanggal', 'tenggat', 'pengisian', 'krs'];id;tampil tanggal tenggat isi krs
+157;['berhenti', 'berhenti'];ood;henti henti
+158;['apa', 'saja', 'warnawarna', 'primer'];ood;apa saja warnawarna primer
+159;['tapi', 'jika', 'aku', 'membelikanmu', 'kroket', 'akan', 'sulit', 'bagi', 'kami', 'berdua', 'ada', 'di', 'sekolah'];ood;tapi jika aku beli kroket akan sulit bagi kami dua ada di sekolah
+160;['tampilkan', 'mata', 'kuliah', 'dengan', 'nilai', 'b'];id;tampil mata kuliah dengan nilai b
+161;['bagaimana', 'cara', 'agar', 'kita', 'tidak', 'malas', 'belajar'];ood;bagaimana cara agar kita tidak malas ajar
+162;['menurutmu', 'dia', 'akan', 'datang'];ood;turut dia akan datang
+163;['ipk', 'pada', 'semester'];id;ipk pada semester
+164;['bagaimana', 'caranya', 'agar', 'orang', 'yang', 'dekat', 'dengan', 'kita', 'memberikan', 'kita', 'kepastian'];ood;bagaimana cara agar orang yang dekat dengan kita beri kita pasti
+165;['berikan', 'data', 'dosen', 'pembimbing', 'adi', 'kurniawan'];id;ikan data dosen bimbing adi kurniawan
+166;['jumlah', 'sks', 'pada', 'semester'];id;jumlah sks pada semester
+167;['hah', 'kamu', 'membuatku', 'takut', 'dengan', 'suaramu', 'itu'];ood;hah kamu buat takut dengan suara itu
+168;['tampilkan', 'jumlah', 'sks', 'pada', 'semester'];id;tampil jumlah sks pada semester
+169;['laut', 'sangat', 'biru'];ood;laut sangat biru
+170;['hanya', 'ingin', 'memanggil', 'namamu'];ood;hanya ingin panggil nama
+171;['punyaku', 'hilang', 'karena', 'kamu', 'jadi', 'kamu', 'harus', 'menggantinya'];ood;punya hilang karena kamu jadi kamu harus ganti
+172;['apakah', 'novel', 'tere', 'liye', 'termasuk', 'karya', 'sastra'];ood;apakah novel tere liye masuk karya sastra
+173;['siapa', 'nama', 'rektor', 'unsri', 'saat', 'ini'];ood;siapa nama rektor unsri saat ini
+174;['tampilkan', 'banyak', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'pendek'];id;tampil banyak maksimum yang boleh ambil pada semester pendek
+175;['tampilkan', 'banyak', 'sks', 'yang', 'diambil', 'pada', 'semster', 'pendek'];id;tampil banyak sks yang ambil pada semster pendek
+176;['aku', 'lebih', 'berat', 'dari', 'perkiraanmu'];ood;aku lebih berat dari kira
+177;['siapa', 'nama', 'rektor', 'universitas', 'sriwijaya'];ood;siapa nama rektor universitas sriwijaya
+178;['dimana', 'fakultas', 'mipa', 'unsri'];ood;mana fakultas mipa unsri
+179;['kartu', 'hasil', 'studi', 'untuk', 'semester'];id;kartu hasil studi untuk semester
+180;['siapa', 'orang', 'tercerdas', 'di', 'dunia'];ood;siapa orang cerdas di dunia
+181;['tampilkan', 'sks', 'pada', 'mata', 'kuliah', 'kalkulus'];id;tampil sks pada mata kuliah kalkulus
+182;['lihat', 'nilai', 'uas', 'dan', 'uts'];id;lihat nilai uas dan uts
+183;['banyak', 'sks', 'yang', 'diambil', 'pada', 'semester', 'ini'];id;banyak sks yang ambil pada semester ini
+184;['temukan', 'mahasiswa', 'kalkulus', 'dengan', 'nilai', 'e'];id;temu mahasiswa kalkulus dengan nilai e
+185;['kode', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;kode mata kuliah algoritma pemrograman
+186;['tampilkan', 'tanggal', 'test', 'suliet'];id;tampil tanggal test suliet
+187;['temukan', 'lokasi', 'pedagang', 'martabak', 'terdekat'];ood;temu lokasi dagang martabak dekat
+188;['tampilkan', 'nama', 'dosen', 'pembimbing', 'akademik'];id;tampil nama dosen bimbing akademik
+189;['kartu', 'hasil', 'studi', 'semester', 'pendek'];id;kartu hasil studi semester pendek
+190;['siapa', 'dosen', 'yang', 'mengajar', 'mata', 'kuliah', 'matematika', 'dasar'];id;siapa dosen yang ajar mata kuliah matematika dasar
+191;['tampilkan', 'mata', 'kuliah', 'dengan', 'nilai', 'a'];id;tampil mata kuliah dengan nilai a
+192;['bagaimana', 'cara', 'menentukan', 'waktu', 'belajar', 'yang', 'baik'];ood;bagaimana cara tentu waktu ajar yang baik
+193;['kapan', 'tere', 'liye', 'menerbitkan', 'buku', 'lagi'];ood;kapan tere liye terbit buku lagi
+194;['otaknya', 'kecil', 'tapi', 'penuh', 'dengan', 'pikiran', 'mengenai', 'dirimu'];ood;otak kecil tapi penuh dengan pikir kena diri
+195;['keseluruhan', 'sks', 'yang', 'sudah', 'ditempuh'];id;seluruh sks yang sudah tempuh
+196;['apa', 'saja', 'varian', 'martabak', 'spesial', 'yang', 'tersedia'];ood;apa saja varian martabak spesial yang sedia
+197;['jadwal', 'mata', 'kuliah', 'struktur', 'data'];id;jadwal mata kuliah struktur data
+198;['tampilkan', 'nip', 'dosen', 'pembimbing', 'akademik'];id;tampil nip dosen bimbing akademik
+199;['iya', 'pada', 'saat', 'seperti', 'ini', 'biasanya', 'begitu'];ood;iya pada saat seperti ini biasa begitu
+200;['tampilkan', 'jumlah', 'sks', 'pada', 'semester'];id;tampil jumlah sks pada semester
+201;['dimana', 'mana'];ood;mana mana
+202;['impian', 'akan', 'musim', 'yang', 'bersinar'];ood;impi akan musim yang sinar
+203;['tampilkan', 'jadwal', 'mata', 'kuliah', 'struktur', 'data'];id;tampil jadwal mata kuliah struktur data
+204;['ip', 'pada', 'semester'];id;ip pada semester
+205;['siapa', 'nama', 'manajer', 'ebi'];ood;siapa nama manajer ebi
+206;['bagaimana', 'cara', 'menurunkan', 'berat', 'badan', 'yang', 'sehat'];ood;bagaimana cara turun berat badan yang sehat
+207;['siapakah', 'penemu', 'aplikasi', 'chatbot', 'pertama', 'di', 'dunia'];ood;siapa temu aplikasi chatbot pertama di dunia
+208;['siapa', 'penulis', 'buku', 'bumi'];ood;siapa tulis buku bumi
+209;['itulah', 'kenapa', 'kamu', 'mulai', 'bicara', 'dan', 'tertawa', 'denganku'];ood;itu kenapa kamu mulai bicara dan tertawa dengan
+210;['tampilkan', 'mahasiswa', 'dengan', 'ipk', 'diatas'];id;tampil mahasiswa dengan ipk atas
+211;['tampilkan', 'total', 'sks', 'yang', 'sudah', 'ditempuh'];id;tampil total sks yang sudah tempuh
+212;['lihat', 'mahasiswa', 'yang', 'nimnya'];id;lihat mahasiswa yang nimnya
+213;['semester', 'pendek', 'pada', 'semester'];id;semester pendek pada semester
+214;['apa', 'kami', 'berkencan', 'atau', 'tidak'];ood;apa kami kencan atau tidak
+215;['tampilkan', 'mata', 'kuliah', 'apa', 'saja', 'yang', 'mengulang'];id;tampil mata kuliah apa saja yang ulang
+216;['kapan', 'konser', 'bts', 'tahun', 'dilaksanakan'];ood;kapan konser bts tahun laksana
+217;['jumlah', 'mutu'];id;jumlah mutu
+218;['tolong', 'berikan', 'daftar', 'nama', 'mahasiswa', 'yang', 'berjenis', 'kelamin', 'wanita'];id;tolong ikan daftar nama mahasiswa yang jenis kelamin wanita
+219;['tampilkan', 'informasi', 'data', 'pribadi'];id;tampil informasi data pribadi
+220;['mengapa', 'harus', 'belajar', 'pemrograman'];ood;mengapa harus ajar pemrograman
+221;['tampilkan', 'banyak', 'sks', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'ini'];id;tampil banyak sks maksimum yang boleh ambil pada semester ini
+222;['permisi'];ood;permisi
+223;['jumlah', 'sks', 'pada', 'semester'];id;jumlah sks pada semester
+224;['rumah', 'kakekmu', 'ada', 'di', 'lingkunganku', 'kan'];ood;rumah kakek ada di lingkung kan
+225;['semester', 'pendek', 'pada', 'semester'];id;semester pendek pada semester
+226;['dimana'];ood;mana
+227;['tampilkan', 'mata', 'kuliah', 'apa', 'saja', 'yang', 'bisa', 'diambil', 'pada', 'semester', 'ini'];id;tampil mata kuliah apa saja yang bisa ambil pada semester ini
+228;['berapa', 'luas', 'unsri'];ood;berapa luas unsri
+229;['tidak', 'ada', 'yang', 'akan', 'meninggal', 'disini'];ood;tidak ada yang akan tinggal sini
+230;['salah', 'satu', 'merk', 'sepatu', 'ternama'];ood;salah satu merk sepatu nama
+231;['apa', 'peti', 'mati', 'itu', 'untukmu'];ood;apa peti mati itu untuk
+232;['ip', 'pada', 'semester'];id;ip pada semester
+233;['tanggal', 'test', 'usept'];id;tanggal test usept
+234;['tampilkan', 'tahun', 'angkatan'];id;tampil tahun angkat
+235;['bagaimana', 'kriteria', 'mahasiswa', 'yang', 'baik'];ood;bagaimana kriteria mahasiswa yang baik
+236;['banyak', 'mutu'];id;banyak mutu
+237;['sks', 'pada', 'mata', 'kuliah', 'struktur', 'data'];id;sks pada mata kuliah struktur data
+238;['nama', 'pribadi', 'sesuai', 'yang', 'tercantum', 'pada', 'akademik'];id;nama pribadi sesuai yang cantum pada akademik
+239;['tampilkan', 'ruangan', 'mata', 'kuliah', 'kalkulus'];id;tampil ruang mata kuliah kalkulus
+240;['apa', 'ini', 'terlalu', 'sempit'];ood;apa ini terlalu sempit
+241;['rekap', 'nilai'];id;rekap nilai
+242;['tampilkan', 'kode', 'mata', 'kuliah', 'struktur', 'data'];id;tampil kode mata kuliah struktur data
+243;['bagaimana', 'kondisi', 'kampus', 'anda'];ood;bagaimana kondisi kampus anda
+244;['kapan', 'fasilkom', 'didirikan'];ood;kapan fasilkom diri
+245;['iya', 'apapun'];ood;iya apa
+246;['siapa', 'aktor', 'korea', 'yang', 'kamu', 'suka'];ood;siapa aktor korea yang kamu suka
+247;['kode', 'mata', 'kuliah', 'kalkulus'];id;kode mata kuliah kalkulus
+248;['tampilkan', 'nama', 'dosen', 'yang', 'mengampu', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil nama dosen yang ampu mata kuliah algoritma pemrograman
+249;['tampilkan', 'ipk', 'pada', 'semester'];id;tampil ipk pada semester
+250;['tampilkan', 'daftar', 'mata', 'kuliah', 'yang', 'sudah', 'diambil', 'oleh', 'mahasiswa', 'dengan', 'nim'];id;tampil daftar mata kuliah yang sudah ambil oleh mahasiswa dengan nim
+251;['park', 'akan', 'meninggal'];ood;park akan tinggal
+252;['tampilkan', 'mahasiswa'];id;tampil mahasiswa
+253;['jika', 'febyk', 'sedang', 'marah', 'annisa', 'sedang', 'merajuk', 'siapakah', 'yang', 'cantik'];ood;jika febyk sedang marah annisa sedang rajuk siapa yang cantik
+254;['sebutkan', 'nama', 'alamat', 'dan', 'kota', 'mahasiswa'];id;sebut nama alamat dan kota mahasiswa
+255;['banyak', 'sks', 'yang', 'diambil', 'pada', 'semster', 'pendek'];id;banyak sks yang ambil pada semster pendek
+256;['kamu', 'hanya', 'dijadikannya', 'mainan'];ood;kamu hanya jadi main
+257;['tampilkan', 'mata', 'kuliah', 'apa', 'saja', 'yang', 'dapat', 'diambil', 'pada', 'semester', 'pendek'];id;tampil mata kuliah apa saja yang dapat ambil pada semester pendek
+258;['siapa', 'penulis', 'buku', 'jika', 'kita', 'tak', 'pernah', 'jadi', 'apaapa'];ood;siapa tulis buku jika kita tak pernah jadi apaapa
+259;['dimana', 'teori', 'hujan', 'ditemukan', 'pertama', 'kali'];ood;mana teori hujan temu pertama kali
+260;['lepaskan', 'temanku'];ood;lepas teman
+261;['siapakah', 'pemilik', 'nim'];id;siapa milik nim
+262;['kapan', 'pemerintah', 'kota', 'bandung', 'didirikan'];ood;kapan perintah kota bandung diri
+263;['mata', 'kuliah', 'apa', 'saja', 'yang', 'dapat', 'diambil', 'pada', 'semester', 'pendek'];id;mata kuliah apa saja yang dapat ambil pada semester pendek
+264;['ip', 'pada', 'semester'];id;ip pada semester
+265;['apa', 'yang', 'kamu', 'lakukan', 'disini'];ood;apa yang kamu laku sini
+266;['saya', 'hobi', 'nonton'];ood;saya hobi nonton
+267;['ipk', 'pada', 'semester'];id;ipk pada semester
+268;['tampilkan', 'index', 'prestasi', 'kumulatif'];id;tampil index prestasi kumulatif
+269;['hai', 'ikan', 'mentah', 'di', 'seoul', 'paling', 'murah', 'dan', 'paling', 'segar'];ood;hai ikan mentah di seoul paling murah dan paling segar
+270;['berapa', 'harga', 'martabak', 'varian', 'spesial'];ood;berapa harga martabak varian spesial
+271;['mengapa', 'kita', 'perlu', 'minum'];ood;mengapa kita perlu minum
+272;['kami', 'mencarimu', 'kemanamana'];ood;kami cari kemanamana
+273;['kartu', 'hasil', 'studi', 'untuk', 'semester'];id;kartu hasil studi untuk semester
+274;['siapa', 'nama', 'mahasiswa', 'yang', 'memiliki', 'nim'];id;siapa nama mahasiswa yang milik nim
+275;['ruangan', 'mata', 'kuliah', 'struktur', 'data'];id;ruang mata kuliah struktur data
+276;['lihat', 'kelas', 'mahasiswa'];id;lihat kelas mahasiswa
+277;['siapa', 'yang', 'cemburu'];ood;siapa yang cemburu
+278;['tolong', 'cari', 'pedagang', 'martabak', 'dengan', 'harga', 'jual', 'termurah'];ood;tolong cari dagang martabak dengan harga jual murah
+279;['ada', 'apa', 'dengan', 'gadis', 'zaman', 'sekarang'];ood;ada apa dengan gadis zaman sekarang
+280;['tampilkan', 'jadwal', 'mata', 'kuliah', 'struktur', 'data'];id;tampil jadwal mata kuliah struktur data
+281;['tampilkan', 'program', 'studi'];id;tampil program studi
+282;['bagaimana', 'cara', 'mengumpulkan', 'tugas', 'pada', 'website', 'elarning', 'unsri'];ood;bagaimana cara kumpul tugas pada website elarning unsri
+283;['bagaimana', 'cara', 'bersyukur'];ood;bagaimana cara syukur
+284;['mengapa', 'kampus', 'memberlakukan', 'skripsi'];ood;mengapa kampus laku skripsi
+285;['berapa', 'kali', 'manusia', 'harus', 'minum', 'dalam', 'satu', 'hari'];ood;berapa kali manusia harus minum dalam satu hari
+286;['siapakah', 'orang', 'yang', 'mampu', 'menerima', 'trust', 'issue', 'annisa', 'fitri'];ood;siapa orang yang mampu terima trust issue annisa fitri
+287;['siapa', 'nama', 'dekan', 'fakultas', 'matematika', 'dan', 'ilmu', 'pengetahuan', 'alam', 'universitas', 'sriwijaya'];ood;siapa nama dekan fakultas matematika dan ilmu tahu alam universitas sriwijaya
+288;['istirahat', 'dalam', 'damai'];ood;istirahat dalam damai
+289;['tampilkan', 'ipk', 'pada', 'semester'];id;tampil ipk pada semester
+290;['apa', 'saja', 'judul', 'buku', 'yang', 'ditulis', 'oleh', 'syahidmuhammad'];ood;apa saja judul buku yang tulis oleh syahidmuhammad
+291;['mata', 'kuliah', 'dengan', 'nilai', 'a'];id;mata kuliah dengan nilai a
+292;['ini', 'daging', 'mentah'];ood;ini daging mentah
+293;['temukan', 'kode', 'mata', 'kuliah', 'kalkulus'];id;temu kode mata kuliah kalkulus
+294;['tampilkan', 'nim'];id;tampil nim
+295;['tampilkan', 'hasil', 'test', 'suliet'];id;tampil hasil test suliet
+296;['apa', 'kamu', 'sedang', 'berkencan', 'dengan', 'tikus', 'ini', 'atau', 'tidak'];ood;apa kamu sedang kencan dengan tikus ini atau tidak
+297;['yang', 'itu', 'mahal'];ood;yang itu mahal
+298;['tampilkan', 'banyak', 'mutu'];id;tampil banyak mutu
+299;['hentikan', 'itu'];ood;henti itu
+300;['bagaimana', 'cara', 'mendaftar', 'atau', 'pengajuan', 'beasiswa', 'di', 'kampus', 'unsri'];ood;bagaimana cara daftar atau aju beasiswa di kampus unsri
+301;['jumlah', 'sks', 'pada', 'semester'];id;jumlah sks pada semester
+302;['kamu', 'atau', 'bukan'];ood;kamu atau bukan
+303;['tampilkan', 'data', 'nim', 'seluruh', 'mahasiswa', 'angkatan'];id;tampil data nim seluruh mahasiswa angkat
+304;['tampilkan', 'kode', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil kode mata kuliah algoritma pemrograman
+305;['berapa', 'uang', 'yang', 'diperlukan', 'untuk', 'membeli', 'sebuah', 'komputer', 'bekas'];ood;berapa uang yang perlu untuk beli buah komputer bekas
+306;['semester', 'saat', 'ini'];id;semester saat ini
+307;['tampilkan', 'banyak', 'sks', 'yang', 'diambil', 'pada', 'semester', 'ini'];id;tampil banyak sks yang ambil pada semester ini
+308;['tampilkan', 'daftar', 'nama', 'dosen'];id;tampil daftar nama dosen
+309;['kamu', 'juga', 'tahu', 'itu'];ood;kamu juga tahu itu
+310;['apa', 'saja', 'judul', 'puisi', 'karya', 'supardi', 'djoko', 'damono'];ood;apa saja judul puisi karya supardi djoko damono
+311;['daftar', 'mata', 'kuliah', 'apa', 'saja', 'yang', 'mengulang'];id;daftar mata kuliah apa saja yang ulang
+312;['siapa', 'nama', 'fisikawan', 'teoretis', 'kelahiran', 'jerman'];ood;siapa nama fisikawan teoretis lahir jerman
+313;['bagaimana', 'cara', 'menjadi', 'design', 'web', 'yang', 'profesional'];ood;bagaimana cara jadi design web yang profesional
+314;['tampilkan', 'history', 'mata', 'kuliah', 'kalkulus'];id;tampil history mata kuliah kalkulus
+315;['baik'];ood;baik
+316;['tampilkan', 'daftar', 'nama', 'mahasiswa', 'teknik', 'informatika', 'reguler'];id;tampil daftar nama mahasiswa teknik informatika reguler
+317;['tanggal', 'mulai', 'pengisian', 'kprs'];id;tanggal mulai isi kprs
+318;['kamu', 'jadi', 'kiper'];ood;kamu jadi kiper
+319;['tampilkan', 'history', 'mata', 'kuliah', 'algoritma', 'pemrogramman'];id;tampil history mata kuliah algoritma pemrogramman
+320;['apa', 'yang', 'menyebabkan', 'terjadinya', 'kanker'];ood;apa yang sebab jadi kanker
+321;['khs', 'semester', 'pendek'];id;khs semester pendek
+322;['tampilkan', 'nilai', 'uas', 'diurutkan', 'berdasarkan', 'paling', 'kecil'];id;tampil nilai uas urut dasar paling kecil
+323;['tampilkan', 'keseluruhan', 'sks', 'yang', 'sudah', 'ditempuh'];id;tampil seluruh sks yang sudah tempuh
+324;['tapi', 'yang', 'kudapatkan', 'hanyalah', 'usus', 'babi'];ood;tapi yang dapat hanya usus babi
+325;['apa', 'itu'];ood;apa itu
+326;['jumlah', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'pendek'];id;jumlah maksimum yang boleh ambil pada semester pendek
+327;['siapa', 'penulis', 'buku', 'egosentris'];ood;siapa tulis buku egosentris
+328;['ipk'];id;ipk
+329;['semester', 'yang', 'sedang', 'dijalani', 'saat', 'ini'];id;semester yang sedang jalan saat ini
+330;['oh', 'su', 'artinya', 'hidup'];ood;oh su arti hidup
+331;['tampilkan', 'history', 'mata', 'kuliah', 'struktur', 'diskrit'];id;tampil history mata kuliah struktur diskrit
+332;['tampilkan', 'jumlah', 'sks', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'ini'];id;tampil jumlah sks maksimum yang boleh ambil pada semester ini
+333;['semua', 'yang', 'ada', 'disini', 'dibawa', 'dari', 'seoul'];ood;semua yang ada sini bawa dari seoul
+334;['buku', 'yang', 'berjudul', 'pergi', 'adalah', 'karya'];ood;buku yang judul pergi adalah karya
+335;['siapa', 'nama', 'dekan', 'fakultas', 'kesehatan', 'masyarakat', 'universitas', 'sriwijaya'];ood;siapa nama dekan fakultas sehat masyarakat universitas sriwijaya
+336;['berapa', 'harga', 'buku', 'pemrograman', 'web'];ood;berapa harga buku pemrograman web
+337;['mata', 'kuliah', 'apa', 'saja', 'yang', 'bisa', 'diambil', 'pada', 'semester', 'ini'];id;mata kuliah apa saja yang bisa ambil pada semester ini
+338;['kamu', 'berlebihan'];ood;kamu lebih
+339;['siapakah', 'kucing', 'yang', 'paling', 'menyebalkan', 'dalam', 'student', 'center'];ood;siapa kucing yang paling sebal dalam student center
+340;['jumlah', 'sks', 'pada', 'semester'];id;jumlah sks pada semester
+341;['kapan', 'indonesia', 'merdeka'];ood;kapan indonesia merdeka
+342;['makanan'];ood;makan
+343;['kapan', 'waktu', 'yang', 'tepat', 'untuk', 'tidur'];ood;kapan waktu yang tepat untuk tidur
+344;['asapnya', 'terus', 'mendekatiku'];ood;asap terus dekat
+345;['iya'];ood;iya
+346;['tampilkan', 'transkip', 'nilai'];id;tampil transkip nilai
+347;['tampilkan', 'kartu', 'hasil', 'studi', 'semester', 'pendek'];id;tampil kartu hasil studi semester pendek
+348;['history', 'mata', 'kuliah', 'kalkulus'];id;history mata kuliah kalkulus
+349;['berapa', 'kurun', 'waktu', 'tercepat', 'proses', 'move', 'on', 'setelah', 'ditinggalkan', 'pasca', 'hubungan', 'tanpa', 'status'];ood;berapa kurun waktu cepat proses move on telah tinggal pasca hubung tanpa status
+350;['lalu', 'untuk', 'siapa'];ood;lalu untuk siapa
+351;['siapa', 'nama', 'dekan', 'fakultas', 'ilmu', 'komputer', 'universitas', 'sriwijaya'];ood;siapa nama dekan fakultas ilmu komputer universitas sriwijaya
+352;['tampilkan', 'kartu', 'hasil', 'studi', 'untuk', 'semester'];id;tampil kartu hasil studi untuk semester
+353;['bisa', 'kamu', 'dengar', 'aku'];ood;bisa kamu dengar aku
+354;['berapa', 'nip', 'dosen', 'atas', 'nama', 'abdiansyah'];id;berapa nip dosen atas nama abdiansyah
+355;['kalian', 'tidak', 'bisa', 'lakukan', 'itu'];ood;kalian tidak bisa laku itu
+356;['buku', 'yang', 'berjudul', 'hujan', 'adalah', 'karya'];ood;buku yang judul hujan adalah karya
+357;['tampilkan', 'data', 'mahasiswa', 'per', 'angkatan', 'yang', 'blm', 'lulus'];id;tampil data mahasiswa per angkat yang blm lulus
+358;['kami', 'sedang', 'berkencan'];ood;kami sedang kencan
+359;['kenapa'];ood;kenapa
+360;['tampilkan', 'data', 'mahasiswa', 'bernama', 'dahlia'];id;tampil data mahasiswa nama dahlia
+361;['iya', 'supaya', 'aku', 'tidak', 'perlu', 'lari'];ood;iya supaya aku tidak perlu lari
+362;['tampilkan', 'ipk', 'pada', 'semester'];id;tampil ipk pada semester
+363;['jumlah', 'sks', 'pada', 'semester'];id;jumlah sks pada semester
+364;['saya', 'lebih', 'suka', 'dirinya', 'yang', 'memakai', 'hijab'];ood;saya lebih suka diri yang pakai hijab
+365;['hah'];ood;hah
+366;['lalu', 'kenapa', 'wajahmu', 'merah'];ood;lalu kenapa wajah merah
+367;['tolong', 'cari', 'kode', 'mata', 'kuliah', 'kalkulus'];id;tolong cari kode mata kuliah kalkulus
+368;['tampilkan', 'batas', 'akhir', 'pengisian', 'krs'];id;tampil batas akhir isi krs
+369;['apa', 'itu', 'belajar'];ood;apa itu ajar
+370;['apa', 'arti', 'su', 'dalam', 'sueun'];ood;apa arti su dalam sueun
+371;['berikan', 'data', 'mahasiswa', 'dengan', 'ipk'];id;ikan data mahasiswa dengan ipk
+372;['siapakah', 'yang', 'membawa', 'kucing', 'menyebrangi', 'pulau'];ood;siapa yang bawa kucing menyebrangi pulau
+373;['tanggal', 'berapa', 'unsri', 'didirikan'];ood;tanggal berapa unsri diri
+374;['sebutkan', 'mata', 'kuliah', 'pilihan', 'pada', 'semester'];id;sebut mata kuliah pilih pada semester
+375;['tampilkan', 'ip', 'pada', 'semester'];id;tampil ip pada semester
+376;['siapa', 'pembimbing', 'ta', 'dari', 'mahasiswa', 'nim'];id;siapa bimbing ta dari mahasiswa nim
+377;['di', 'bawah', 'naungan', 'pohon', 'magnolia'];ood;di bawah naung pohon magnolia
+378;['tapi', 'kami', 'dekat', 'dengan', 'laut'];ood;tapi kami dekat dengan laut
+379;['tampilkan', 'kode', 'mata', 'kuliah', 'kalkulus'];id;tampil kode mata kuliah kalkulus
+380;['tampilkan', 'ipk', 'pada', 'semester'];id;tampil ipk pada semester
+381;['tidak', 'beratmu', 'seperti', 'yang', 'aku', 'kira'];ood;tidak berat seperti yang aku kira
+382;['dia', 'lupa', 'atau', 'tidak', 'itu', 'adalah', 'kehidupannya', 'sendiri'];ood;dia lupa atau tidak itu adalah hidup sendiri
+383;['kembali', 'ke', 'kampung', 'halaman', 'kukira', 'aku', 'akan', 'dapat', 'sashimi'];ood;kembali ke kampung halaman kira aku akan dapat sashimi
+384;['sebutkan', 'mahasiswa', 'yang', 'nilai', 'uasnya', 'sampai'];id;sebut mahasiswa yang nilai uasnya sampai
+385;['youtuber', 'no', 'di', 'indonesia'];ood;youtuber no di indonesia
+386;['nilai', 'mahasiswa', 'nim'];id;nilai mahasiswa nim
+387;['apa', 'nama', 'mata', 'kuliah', 'dengan', 'kode', 'kelas', 'fik'];id;apa nama mata kuliah dengan kode kelas fik
+388;['tampilkan', 'batas', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'pendek'];id;tampil batas maksimum yang boleh ambil pada semester pendek
+389;['tampilkan', 'ip', 'pada', 'semester'];id;tampil ip pada semester
+390;['ruangan', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;ruang mata kuliah algoritma pemrograman
+391;['apa', 'visi', 'misi', 'unsri'];ood;apa visi misi unsri
+392;['siapakah', 'orang', 'yang', 'pertama', 'kali', 'mendarat', 'di', 'pluto'];ood;siapa orang yang pertama kali darat di pluto
+393;['siapa', 'nama', 'dekan', 'fakultas', 'ekonomi', 'universitas', 'sriwijaya'];ood;siapa nama dekan fakultas ekonomi universitas sriwijaya
+394;['jika', 'kamu', 'memanggilku', 'itu', 'berarti', 'ada', 'yang', 'kamu', 'inginkan'];ood;jika kamu panggil itu arti ada yang kamu ingin
+395;['iya', 'tuhan'];ood;iya tuhan
+396;['bagaimana', 'cara', 'menabung', 'dengan', 'konsisten'];ood;bagaimana cara tabung dengan konsisten
+397;['nip', 'dosen', 'pa'];id;nip dosen pa
+398;['tampilkan', 'hasil', 'test', 'usept'];id;tampil hasil test usept
+399;['tampilkan', 'tanggal', 'mulai', 'pengisian', 'krs'];id;tampil tanggal mulai isi krs
+400;['ipk', 'pada', 'semester'];id;ipk pada semester
+401;['berapa', 'nip', 'pak', 'naufal', 'rachmatullah'];id;berapa nip pak naufal rachmatullah
+402;['berapa', 'jumlah', 'sks', 'untuk', 'mata', 'kuliah', 'kalkulus'];id;berapa jumlah sks untuk mata kuliah kalkulus
+403;['sebutkan', 'nama', 'dosen', 'yang', 'mengajar', 'pada', 'bidang', 'jaringan', 'komputer'];id;sebut nama dosen yang ajar pada bidang jaring komputer
+404;['tampilkan', 'profil', 'dosen', 'atas', 'nama', 'abdiansyah'];id;tampil profil dosen atas nama abdiansyah
+405;['tampilkan', 'tanggal', 'tenggat', 'pengisian', 'kprs'];id;tampil tanggal tenggat isi kprs
+406;['kode', 'mata', 'kuliah', 'struktur', 'data'];id;kode mata kuliah struktur data
+407;['benarkah'];ood;benar
+408;['dan', 'arti', 'su', 'dalam', 'namamu', 'luar', 'biasa'];ood;dan arti su dalam nama luar biasa
+409;['history', 'mata', 'kuliah', 'struktur', 'diskrit'];id;history mata kuliah struktur diskrit
+410;['tampilkan', 'nomor', 'induk', 'mahasiswa'];id;tampil nomor induk mahasiswa
+411;['tampilkan', 'data', 'mahasiswa', 'yang', 'sudah', 'lulus'];id;tampil data mahasiswa yang sudah lulus
+412;['mengapa', 'ilmu', 'komputer', 'harus', 'lulus', 'suliet'];ood;mengapa ilmu komputer harus lulus suliet
+413;['tampilkan', 'nama', 'mahasiswa', 'yang', 'jenis', 'kelaminnya', 'perempuan'];id;tampil nama mahasiswa yang jenis kelamin perempuan
+414;['apa'];ood;apa
+415;['bagaimana', 'cara', 'membuat', 'surat', 'resmi'];ood;bagaimana cara buat surat resmi
+416;['aku', 'perkirakan', 'dia', 'akan', 'mengajakku', 'kencan', 'minggu', 'ini'];ood;aku kira dia akan ajak kencan minggu ini
+417;['kalau', 'begitu', 'berikan', 'diskon'];ood;kalau begitu ikan diskon
+418;['apa', 'tn'];ood;apa tn
+419;['berapa', 'jumlah', 'mahasiswa', 'teknik', 'informatika', 'reguler'];id;berapa jumlah mahasiswa teknik informatika reguler
+420;['siapa', 'penulis', 'buku', 'kamu', 'gak', 'sendiri'];ood;siapa tulis buku kamu gak sendiri
+421;['kami', 'pernah'];ood;kami pernah
+422;['tampilkan', 'semester', 'pendek', 'pada', 'semester'];id;tampil semester pendek pada semester
+423;['di', 'bawah', 'naungan', 'pohon', 'magnolia'];ood;di bawah naung pohon magnolia
+424;['siapa', 'penjaga', 'perpustakaan', 'fasilkom'];ood;siapa jaga pustaka fasilkom
+425;['mata', 'kuliah', 'apa', 'saja', 'yang', 'dapat', 'diambil', 'pada', 'semester', 'ini'];id;mata kuliah apa saja yang dapat ambil pada semester ini
+426;['ip', 'pada', 'semester'];id;ip pada semester
+427;['apakah', 'hujan', 'dapat', 'menyebabkan', 'banjir'];ood;apakah hujan dapat sebab banjir
+428;['awal', 'pengisian', 'krs'];id;awal isi krs
+429;['susul', 'sepeda', 'itu'];ood;susul sepeda itu
+430;['tampilkan', 'prodi'];id;tampil prodi
+431;['bagaimana', 'cara', 'mengupload', 'jurnal'];ood;bagaimana cara mengupload jurnal
+432;['tampilkan', 'jumlah', 'sks', 'yang', 'diambil', 'pada', 'semster', 'pendek'];id;tampil jumlah sks yang ambil pada semster pendek
+433;['history', 'mata', 'kuliah', 'algoritma', 'pemrogramman'];id;history mata kuliah algoritma pemrogramman
+434;['berapa', 'ipk', 'tertinggi', 'lulusan', 'tahun', 'di', 'unsri'];ood;berapa ipk tinggi lulus tahun di unsri
+435;['kira', 'kira', 'kalau', 'saya', 'lanjut', 's', 'jurusan', 'apa', 'yang', 'cocok', 'untuk', 'saya'];ood;kira kira kalau saya lanjut s jurus apa yang cocok untuk saya
+436;['tolonglah', 'aku', 'sedang'];ood;tolong aku sedang
+437;['siapa', 'aktor', 'termahal', 'sekarang'];ood;siapa aktor mahal sekarang
+438;['suho'];ood;suho
+439;['siapa', 'nama', 'dekan', 'fakultas', 'hukum', 'universitas', 'sriwijaya'];ood;siapa nama dekan fakultas hukum universitas sriwijaya
+440;['siapa', 'nama', 'penemu', 'awan'];ood;siapa nama temu awan
+441;['tampilkan', 'jadwal', 'mata', 'kuliah', 'kalkulus'];id;tampil jadwal mata kuliah kalkulus
+442;['siapa', 'nama', 'mahasiswa', 'berprestasi'];ood;siapa nama mahasiswa prestasi
+443;['bagaimana', 'cara', 'dapat', 'nilai', 'yang', 'tinggi', 'di', 'setiap', 'semester'];ood;bagaimana cara dapat nilai yang tinggi di tiap semester
+444;['jumlah', 'sks', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'ini'];id;jumlah sks maksimum yang boleh ambil pada semester ini
+445;['siapa', 'penulis', 'buku', 'jam'];ood;siapa tulis buku jam
+446;['kartu', 'hasil', 'studi', 'untuk', 'semester'];id;kartu hasil studi untuk semester
+447;['carikan', 'data', 'mahasiswa', 'dengan', 'nim'];id;cari data mahasiswa dengan nim
+448;['ibu'];ood;ibu
+449;['sudah', 'lama'];ood;sudah lama
+450;['mata', 'kuliah', 'dengan', 'nilai', 'c'];id;mata kuliah dengan nilai c
+451;['bagaimana', 'cara', 'tidur', 'cepat'];ood;bagaimana cara tidur cepat
+452;['tampilkan', 'ip', 'pada', 'semester'];id;tampil ip pada semester
+453;['tampilkan', 'total', 'sks', 'yang', 'sedang', 'ditempuh'];id;tampil total sks yang sedang tempuh
+454;['hai'];ood;hai
+455;['apa', 'yang', 'harus', 'dipersiapkan', 'untuk', 'melanjutkan', 'pendidikan', 'ke', 'perguruan', 'tinggi'];ood;apa yang harus siap untuk lanjut didik ke guru tinggi
+456;['kartu', 'hasil', 'studi', 'untuk', 'semester'];id;kartu hasil studi untuk semester
+457;['dasar', 'bodoh'];ood;dasar bodoh
+458;['khs', 'pada', 'semester', 'ini'];id;khs pada semester ini
+459;['tampilkan', 'mahasiswa', 'yang', 'berjenis', 'kelamin', 'perempuan', 'dan', 'tinggal', 'di', 'bandung'];id;tampil mahasiswa yang jenis kelamin perempuan dan tinggal di bandung
+460;['tampilkan', 'nama', 'dosen', 'yang', 'mengampu', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil nama dosen yang ampu mata kuliah algoritma pemrograman
+461;['tampilkan', 'jumlah', 'mutu'];id;tampil jumlah mutu
+462;['rekomendasi', 'channel', 'youtube', 'yang', 'dibutuhkan'];ood;rekomendasi channel youtube yang butuh
+463;['belikan', 'aku', 'kroket'];ood;belikan aku kroket
+464;['ipk', 'pada', 'semester'];id;ipk pada semester
+465;['apa', 'yang', 'membuat', 'laptop', 'mudah', 'panas'];ood;apa yang buat laptop mudah panas
+466;['terompet'];ood;terompet
+467;['history', 'suliet'];id;history suliet
+468;['jika', 'pacar', 'pertamamu', 'meninggal', 'apa', 'kamu', 'mudah', 'melupakannya'];ood;jika pacar pertama tinggal apa kamu mudah lupa
+469;['tampilkan', 'nilai', 'saya'];id;tampil nilai saya
+470;['dimana', 'saja', 'letak', 'kampus', 'unsri'];ood;mana saja letak kampus unsri
+471;['aku', 'sangat', 'mencintaimu'];ood;aku sangat cinta
+472;['ip', 'pada', 'semester'];id;ip pada semester
+473;['karena'];ood;karena
+474;['tampilkan', 'jadwal', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil jadwal mata kuliah algoritma pemrograman
+475;['lihat', 'mahasiswa', 'yang', 'tinggal', 'di', 'bandung', 'dan', 'namanya', 'ahmad'];id;lihat mahasiswa yang tinggal di bandung dan nama ahmad
+476;['mengapa', 'langit', 'berwarna', 'biru'];ood;mengapa langit warna biru
+477;['apa', 'saja', 'mata', 'kuliah', 'pilihan', 'yang', 'bisa', 'diambil', 'pada', 'semester'];id;apa saja mata kuliah pilih yang bisa ambil pada semester
+478;['siapa', 'penemu', 'perangkat', 'lunak'];ood;siapa temu perangkat lunak
+479;['apa', 'kamu', 'suka', 'bermain', 'sepak', 'bola'];ood;apa kamu suka main sepak bola
+480;['jadwal', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;jadwal mata kuliah algoritma pemrograman
+481;['saya', 'lebih', 'bagus', 'cari', 'kerja', 'atau', 'mulai', 'usaha'];ood;saya lebih bagus cari kerja atau mulai usaha
+482;['jumlah', 'sks', 'pada', 'semester'];id;jumlah sks pada semester
+483;['berikan', 'data', 'dosen', 'pembimbing', 'febyk', 'alek', 'satria'];id;ikan data dosen bimbing febyk alek satria
+484;['tampilkan', 'krs', 'semester', 'pendek'];id;tampil krs semester pendek
+485;['ipk', 'pada', 'semester'];id;ipk pada semester
+486;['siapa', 'nama', 'dekan', 'fakultas', 'ilmu', 'sosial', 'dan', 'politik', 'universitas', 'sriwijaya'];ood;siapa nama dekan fakultas ilmu sosial dan politik universitas sriwijaya
+487;['tampilkan', 'history', 'mata', 'kuliah', 'algoritma', 'pemrogramman'];id;tampil history mata kuliah algoritma pemrogramman
+488;['mengapa', 'jumlah', 'core', 'di', 'sebuah', 'procesor', 'mempengaruhi', 'kinerja', 'laptop'];ood;mengapa jumlah core di buah procesor pengaruh kerja laptop
+489;['kakiku', 'kejang'];ood;kaki kejang
+490;['ukt', 'tertinggi', 'di', 'unsri'];ood;ukt tinggi di unsri
+491;['tampilkan', 'kartu', 'hasil', 'studi', 'untuk', 'semester'];id;tampil kartu hasil studi untuk semester
+492;['tampilkan', 'mahasiswa', 'berdasarkan', 'jenis', 'kelamin'];id;tampil mahasiswa dasar jenis kelamin
+493;['total', 'sks', 'yang', 'sedang', 'ditempuh'];id;total sks yang sedang tempuh
+494;['jelaskan', 'tentang', 'laut', 'mati'];ood;jelas tentang laut mati
+495;['apa', 'peran', 'orang', 'tua', 'dalam', 'mendukung', 'pendidikan', 'anak'];ood;apa peran orang tua dalam dukung didik anak
+496;['naik', 'cepat'];ood;naik cepat
+497;['buku', 'yang', 'berjudul', 'bulan', 'adalah', 'karya'];ood;buku yang judul bulan adalah karya
+498;['berikan', 'ip', 'semster', 'sampai', 'ip', 'semester', 'untuk', 'mahasiswa', 'bernama', 'adi', 'kurniawan'];id;ikan ip semster sampai ip semester untuk mahasiswa nama adi kurniawan
+499;['dia', 'adalah', 'seorang', 'dokter', 'gigi'];ood;dia adalah orang dokter gigi
+500;['tampilkan', 'kartu', 'hasil', 'studi', 'untuk', 'semester'];id;tampil kartu hasil studi untuk semester
+501;['tampilkan', 'jumlah', 'sks', 'pada', 'semester'];id;tampil jumlah sks pada semester
+502;['tampilkan', 'jumlah', 'sks', 'pada', 'semester'];id;tampil jumlah sks pada semester
+503;['karena', 'aku'];ood;karena aku
+504;['tampilkan', 'kartu', 'rencana', 'studi', 'semester', 'pendek'];id;tampil kartu rencana studi semester pendek
+505;['berika', 'daftar', 'nama', 'mahasiswa', 'berjenis', 'kelamin', 'perempuan', 'angkatan'];id;berika daftar nama mahasiswa jenis kelamin perempuan angkat
+506;['berapa', 'tinggi', 'monumen', 'nasional'];ood;berapa tinggi monumen nasional
+507;['siapa', 'penulis', 'buku', 'rehat', 'dulu'];ood;siapa tulis buku rehat dulu
+508;['tampilkan', 'kartu', 'hasil', 'studi', 'pada', 'semester', 'ini'];id;tampil kartu hasil studi pada semester ini
+509;['ip', 'pada', 'semester'];id;ip pada semester
+510;['hah'];ood;hah
+511;['dia', 'belum', 'menampakkan', 'batang', 'hidungnya', 'tahun', 'ini'];ood;dia belum tampak batang hidung tahun ini
+512;['berapa', 'jumlah', 'mahasiswa', 'teknik', 'infromatika'];id;berapa jumlah mahasiswa teknik infromatika
+513;['berikan', 'data', 'mahasiswa', 'dengan', 'ipk'];id;ikan data mahasiswa dengan ipk
+514;['tampilkan', 'sks', 'pada', 'mata', 'kuliah', 'struktur', 'data'];id;tampil sks pada mata kuliah struktur data
+515;['batas', 'sks', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'ini'];id;batas sks maksimum yang boleh ambil pada semester ini
+516;['jadwal', 'mata', 'kuliah', 'struktur', 'data'];id;jadwal mata kuliah struktur data
+517;['siapa', 'penulis', 'buku', 'kala'];ood;siapa tulis buku kala
+518;['siapa', 'penulis', 'buku', 'geez', 'and', 'ann'];ood;siapa tulis buku geez and ann
+519;['berapa', 'banyak', 'penjual', 'martabak', 'di', 'indralaya'];ood;berapa banyak jual martabak di indralaya
+520;['tampilkan', 'daftar', 'nama', 'mahasiswa', 'yang', 'berjenis', 'kelamin', 'perempuan', 'pada', 'jurusan', 'teknik', 'informatika', 'angkatan'];id;tampil daftar nama mahasiswa yang jenis kelamin perempuan pada jurus teknik informatika angkat
+521;['nama', 'dosen', 'pa'];id;nama dosen pa
+522;['bagaimana', 'cara', 'agar', 'mendapatkan', 'beasiswa', 'full', 'saat', 'kuliah'];ood;bagaimana cara agar dapat beasiswa full saat kuliah
+523;['tampilkan', 'sks', 'pada', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil sks pada mata kuliah algoritma pemrograman
+524;['aku', 'baca', 'surat', 'werther'];ood;aku baca surat werther
+525;['kamu', 'hanya', 'dijadikan', 'mainan'];ood;kamu hanya jadi main
+526;['mengapa', 'indonesia', 'masih', 'menjadi', 'negara', 'berkembang'];ood;mengapa indonesia masih jadi negara kembang
+527;['ayahnya', 'pak', 'kades'];ood;ayah pak kades
+528;['kamu', 'juga', 'bukan'];ood;kamu juga bukan
+529;['siapa', 'saja', 'dosen', 'teknik', 'informatika', 'yang', 'berjenis', 'kelamin', 'lakilaki'];id;siapa saja dosen teknik informatika yang jenis kelamin lakilaki
+530;['kamu', 'pergi', 'duluan'];ood;kamu pergi duluan
+531;['bagaimana', 'cara', 'memperbaiki', 'tabel', 'berantakan'];ood;bagaimana cara baik tabel beranta
+532;['tampilkan', 'ip', 'pada', 'semester'];id;tampil ip pada semester
+533;['ip', 'pada', 'semester'];id;ip pada semester
+534;['tapi', 'kenapa', 'kamu', 'tahu', 'itu'];ood;tapi kenapa kamu tahu itu
+535;['apa', 'arti', 'kata', 'i', 'love', 'you', 'dalam', 'bahasa', 'indonesia'];ood;apa arti kata i love you dalam bahasa indonesia
+536;['tampilkan', 'history', 'usept'];id;tampil history usept
+537;['pager'];ood;pager
+538;['apa'];ood;apa
+539;['siapa', 'saja', 'dosen', 'pengampu', 'mata', 'kuliah', 'algoritma', 'dan', 'pemrograman'];id;siapa saja dosen ampu mata kuliah algoritma dan pemrograman
+540;['nama', 'dosen', 'pembimbing', 'akademik'];id;nama dosen bimbing akademik
+541;['ruangan', 'mata', 'kuliah', 'struktur', 'data'];id;ruang mata kuliah struktur data
+542;['tampilkan', 'jumlah', 'sks', 'pada', 'semester'];id;tampil jumlah sks pada semester
+543;['mengapa', 'universitas', 'menerapkan', 'sistem', 'sks'];ood;mengapa universitas terap sistem sks
+544;['drama', 'korea', 'apa', 'yang', 'bagus', 'ditonton', 'saat', 'ini'];ood;drama korea apa yang bagus tonton saat ini
+545;['saat', 'sudah', 'lulus', 'kamu', 'akan', 'lamar', 'kerja', 'diperusahaan', 'mana'];ood;saat sudah lulus kamu akan lamar kerja usaha mana
+546;['berapa', 'jumlah', 'mahasiswa', 'aktif', 'teknik', 'informatika', 'saat', 'ini'];id;berapa jumlah mahasiswa aktif teknik informatika saat ini
+547;['apakah', 'direktur', 'utama', 'ukm', 'uread', 'periode', 'akan', 'meminta', 'maaf', 'kepada', 'sekretaris', 'umum', 'periode'];ood;apakah direktur utama ukm uread periode akan minta maaf kepada sekretaris umum periode
+548;['awal', 'pengisian', 'kprs'];id;awal isi kprs
+549;['siapa', 'penulis', 'buku', 'yang', 'berjudul', 'rindu'];ood;siapa tulis buku yang judul rindu
+550;['siapa', 'penulis', 'buku', 'duduk', 'dulu'];ood;siapa tulis buku duduk dulu
+551;['asal', 'usul', 'batik', 'menjadi', 'kebanggaan', 'di', 'indonesia'];ood;asal usul batik jadi bangga di indonesia
+552;['tampilkan', 'kode', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil kode mata kuliah algoritma pemrograman
+553;['siapa', 'saja', 'dosen', 'teknik', 'informatika', 'yang', 'berjenis', 'kelamin', 'perempuan'];id;siapa saja dosen teknik informatika yang jenis kelamin perempuan
+554;['berapa', 'ipk', 'anda'];ood;berapa ipk anda
+555;['tampilkan', 'ip', 'pada', 'semester'];id;tampil ip pada semester
+556;['bagaimana', 'cara', 'meminjam', 'buku', 'di', 'perpus', 'unsri'];ood;bagaimana cara pinjam buku di pus unsri
+557;['kenapa', 'suho', 'bukannya', 'aku'];ood;kenapa suho bukan aku
+558;['aku', 'tidak', 'mengerti'];ood;aku tidak erti
+559;['siapa', 'nama', 'dekan', 'fakultas', 'keguruan', 'ilmu', 'pendidikan', 'universitas', 'sriwijaya'];ood;siapa nama dekan fakultas guru ilmu didik universitas sriwijaya
+560;['aku', 'tahu'];ood;aku tahu
+561;['tanggal', 'test', 'suliet'];id;tanggal test suliet
+562;['sks', 'pada', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;sks pada mata kuliah algoritma pemrograman
+563;['hasil', 'test', 'suliet'];id;hasil test suliet
+564;['siapa', 'penemu', 'bola', 'lampu'];ood;siapa temu bola lampu
+565;['sebutkan', 'nama', 'mahasiswa', 'dan', 'nilai', 'uas'];id;sebut nama mahasiswa dan nilai uas
+566;['tampilkan', 'daftar', 'mata', 'kuliah', 'apa', 'saja', 'yang', 'mengulang'];id;tampil daftar mata kuliah apa saja yang ulang
+567;['dia', 'sudah', 'menandai'];ood;dia sudah tanda
+568;['tampilkan', 'ruangan', 'mata', 'kuliah', 'struktur', 'data'];id;tampil ruang mata kuliah struktur data
+569;['semester', 'pendek', 'pada', 'semester'];id;semester pendek pada semester
+570;['bulan', 'april', 'menyalakan', 'kembali', 'obor', 'kehidupan'];ood;bulan april nyala kembali obor hidup
+571;['temukan', 'kode', 'mata', 'kuliah', 'probabilitas', 'dan', 'statistika'];id;temu kode mata kuliah probabilitas dan statistika
+572;['apa', 'tahun', 'ini', 'dia', 'tidak', 'akan', 'hadir', 'juga'];ood;apa tahun ini dia tidak akan hadir juga
+573;['jadwal', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;jadwal mata kuliah algoritma pemrograman
+574;['kartu', 'hasil', 'studi', 'untuk', 'semester'];id;kartu hasil studi untuk semester
+575;['apa', 'yang', 'kamu', 'bicarakan'];ood;apa yang kamu bicara
+576;['tampilkan', 'jumlah', 'sks', 'yang', 'diambil', 'pada', 'semester', 'ini'];id;tampil jumlah sks yang ambil pada semester ini
+577;['kenapa', 'sueun', 'gadis', 'tercantik', 'di', 'sekolah', 'bisa', 'menyukaimu'];ood;kenapa sueun gadis cantik di sekolah bisa suka
+578;['cari', 'data', 'mahasiswa', 'yang', 'memiliki', 'nilai', 'suliet'];id;cari data mahasiswa yang milik nilai suliet
+579;['ingin', 'saja'];ood;ingin saja
+580;['tampilkan', 'semester', 'pendek', 'pada', 'semester'];id;tampil semester pendek pada semester
+581;['dimana', 'negara', 'dengan', 'penduduk', 'paling', 'sedikit'];ood;mana negara dengan duduk paling sedikit
+582;['kartu', 'hasil', 'studi', 'untuk', 'semester'];id;kartu hasil studi untuk semester
+583;['tampilkan', 'sks', 'pada', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil sks pada mata kuliah algoritma pemrograman
+584;['temukan', 'data', 'mahasiswa', 'dengan', 'nama', 'adi'];id;temu data mahasiswa dengan nama adi
+585;['semester', 'pendek', 'pada', 'semester'];id;semester pendek pada semester
+586;['siapa', 'istri', 'adam', 'smith'];ood;siapa istri adam smith
+587;['mata', 'kuliah', 'apa', 'saja', 'yang', 'mengulang'];id;mata kuliah apa saja yang ulang
+588;['temukan', 'mahasiswa', 'yang', 'berjenis', 'kelamin', 'wanita'];id;temu mahasiswa yang jenis kelamin wanita
+589;['belikan', 'aku', 'pager'];ood;belikan aku pager
+590;['oh', 'kamu', 'bisa', 'renang'];ood;oh kamu bisa renang
+591;['maju', 'kecepatan', 'penuh'];ood;maju cepat penuh
+592;['nip', 'dosen', 'pembimbing', 'akademik'];id;nip dosen bimbing akademik
+593;['kami', 'memasak', 'sup', 'kacang', 'buncis', 'mampirlah', 'jika', 'kamu', 'sempat'];ood;kami masak sup kacang buncis mampir jika kamu sempat
+594;['minta', 'daftar', 'dosen', 'teknik', 'informatika'];id;minta daftar dosen teknik informatika
+595;['tampilkan', 'nim', 'mahasiswa', 'yang', 'namanya', 'jamal'];id;tampil nim mahasiswa yang nama jamal
+596;['senang', 'bisa', 'melihatmu'];ood;senang bisa lihat
+597;['tampilkan', 'nama', 'dosen', 'yang', 'mengampu', 'mata', 'kuliah', 'struktur', 'data'];id;tampil nama dosen yang ampu mata kuliah struktur data
+598;['apa', 'yang', 'membuat', 'wanita', 'jatuh', 'hati', 'ke', 'seorang', 'pria'];ood;apa yang buat wanita jatuh hati ke orang pria
+599;['aku', 'harus', 'belajar'];ood;aku harus ajar
+600;['waktu', 'itu', 'kami', 'satu', 'kelas'];ood;waktu itu kami satu kelas
+601;['kode', 'mata', 'kuliah', 'struktur', 'data'];id;kode mata kuliah struktur data
+602;['tampilkan', 'jumlah', 'sks', 'pada', 'semester'];id;tampil jumlah sks pada semester
+603;['bagaimana', 'cara', 'mendapatkan', 'jodoh', 'hihihi'];ood;bagaimana cara dapat jodoh hihihi
+604;['siapa', 'nama', 'dekan', 'fakultas', 'pertanian', 'universitas', 'sriwijaya'];ood;siapa nama dekan fakultas tani universitas sriwijaya
+605;['tampilkan', 'nama', 'mahasiswa'];id;tampil nama mahasiswa
+606;['hai', 'aku', 'seorang', 'guru'];ood;hai aku orang guru
+607;['lupakan', 'itu'];ood;lupa itu
+608;['mengapa', 'daun', 'berwarna', 'hijau'];ood;mengapa daun warna hijau
+609;['tampilkan', 'sks', 'pada', 'mata', 'kuliah', 'struktur', 'data'];id;tampil sks pada mata kuliah struktur data
+610;['siapa', 'penulis', 'puisi', 'pada', 'suatu', 'hari', 'nanti'];ood;siapa tulis puisi pada suatu hari nanti
+611;['nama', 'dosen', 'yang', 'mengampu', 'mata', 'kuliah', 'struktur', 'data'];id;nama dosen yang ampu mata kuliah struktur data
+612;['aku', 'datang', 'dari', 'tempat', 'jauh', 'membawa', 'perahu', 'dari', 'dermaga', 'tidak', 'bernama'];ood;aku datang dari tempat jauh bawa perahu dari dermaga tidak nama
+613;['tampilkan', 'kartu', 'hasil', 'studi', 'untuk', 'semester'];id;tampil kartu hasil studi untuk semester
+614;['banyak', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'pendek'];id;banyak maksimum yang boleh ambil pada semester pendek
+615;['berapa', 'fakultas', 'di', 'unsri'];ood;berapa fakultas di unsri
+616;['tampilkan', 'jumlah', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'pendek'];id;tampil jumlah maksimum yang boleh ambil pada semester pendek
+617;['aku', 'harus', 'konsentrasi', 'belajar'];ood;aku harus konsentrasi ajar
+618;['mata', 'kuliah', 'apa', 'saja', 'yang', 'bisa', 'diambil', 'pada', 'semester', 'pendek'];id;mata kuliah apa saja yang bisa ambil pada semester pendek
+619;['sueun', 'pria', 'ini', 'suho', 'masih', 'tidak', 'bisa', 'melupakanmu'];ood;sueun pria ini suho masih tidak bisa lupa
+620;['wow', 'ini', 'bir', 'pembunuh'];ood;wow ini bir bunuh
+621;['jam', 'berapa', 'kah', 'admin', 'berada', 'dalam', 'ruangan', 'jurusan'];ood;jam berapa kah admin ada dalam ruang jurus
+622;['data', 'untuk', 'apa'];ood;data untuk apa
+623;['siapa', 'mahasiswa', 'yang', 'uasnya', 'bernilai'];id;siapa mahasiswa yang uasnya nila
+624;['sks', 'pada', 'mata', 'kuliah', 'kalkulus'];id;sks pada mata kuliah kalkulus
+625;['bagaimana', 'cara', 'mendownload', 'jurnal', 'secara', 'gratis'];ood;bagaimana cara mendownload jurnal cara gratis
+626;['apa', 'kamu', 'cemas', 'pada', 'temanmu', 'atau', 'kamu', 'cemburu'];ood;apa kamu cemas pada teman atau kamu cemburu
+627;['mengapa', 'lampu', 'lalu', 'lintas', 'untuk', 'berhenti', 'berwarna', 'merah'];ood;mengapa lampu lalu lintas untuk henti warna merah
+628;['tampilkan', 'kartu', 'hasil', 'studi', 'untuk', 'semester'];id;tampil kartu hasil studi untuk semester
+629;['siapa', 'penulis', 'buku', 'dengan', 'judul', 'paradigma'];ood;siapa tulis buku dengan judul paradigma
+630;['berapa', 'nip', 'pak', 'qurhanul', 'rizqie'];id;berapa nip pak qurhanul rizqie
+631;['matamu', 'seperti', 'mau', 'keluar'];ood;mata seperti mau keluar
+632;['aku', 'juga'];ood;aku juga
+633;['hasil', 'test', 'usept'];id;hasil test usept
+634;['aku', 'sering', 'memainkannya', 'saat', 'smp', 'tapi', 'sekarang', 'tidak'];ood;aku sering main saat smp tapi sekarang tidak
+635;['history', 'mata', 'kuliah', 'algoritma', 'pemrogramman'];id;history mata kuliah algoritma pemrogramman
+636;['sepertinya', 'bisa', 'membuat', 'tanganku', 'jadi', 'biru'];ood;seperti bisa buat tangan jadi biru
+637;['tampilkan', 'kode', 'mata', 'kuliah', 'struktur', 'data'];id;tampil kode mata kuliah struktur data
+638;['kapan', 'disahkannya', 'gelar', 'administrasi', 'negara', 'menjadi', 'administrasi', 'publik', 'di', 'unsri'];ood;kapan sah gelar administrasi negara jadi administrasi publik di unsri
+639;['apakah', 'saya', 'merupakan', 'robot'];ood;apakah saya rupa robot
+640;['tampilkan', 'kartu', 'hasil', 'studi', 'untuk', 'semester'];id;tampil kartu hasil studi untuk semester
+641;['siapa', 'rektor', 'unsri', 'saat', 'ini'];ood;siapa rektor unsri saat ini
+642;['selalu', 'seperti', 'itu'];ood;selalu seperti itu
+643;['tanggal', 'tenggat', 'pengisian', 'krs'];id;tanggal tenggat isi krs
+644;['oh', 'si', 'bodoh', 'itu', 'younggu'];ood;oh si bodoh itu younggu
+645;['nama', 'dosen', 'yang', 'mengampu', 'mata', 'kuliah', 'struktur', 'data'];id;nama dosen yang ampu mata kuliah struktur data
+646;['ini', 'sudah', 'dimasak', 'atau', 'belum'];ood;ini sudah masak atau belum
+647;['jadwal', 'mata', 'kuliah', 'kalkulus'];id;jadwal mata kuliah kalkulus
+648;['berapa', 'nip', 'pak', 'abdiansah'];id;berapa nip pak abdiansah
+649;['tampilkan', 'rekap', 'nilai'];id;tampil rekap nilai
+650;['tampilkan', 'ruangan', 'mata', 'kuliah', 'struktur', 'data'];id;tampil ruang mata kuliah struktur data
+651;['dimana', 'suna', 'alkayuni', 'aresta', 'lahir'];ood;mana suna alkayuni aresta lahir
+652;['tampilkan', 'khs', 'pada', 'semester', 'ini'];id;tampil khs pada semester ini
+653;['kapan', 'islam', 'pertama', 'kali', 'datang', 'ke', 'indonesia'];ood;kapan islam pertama kali datang ke indonesia
+654;['oh', 'kamu'];ood;oh kamu
+655;['tampilkan', 'semester', 'saat', 'ini'];id;tampil semester saat ini
+656;['cari', 'nama', 'dosen', 'yang', 'mengajar', 'mata', 'kuliah', 'algoritma', 'dan', 'pemrograman', 'iii'];id;cari nama dosen yang ajar mata kuliah algoritma dan pemrograman iii
+657;['berapa', 'luas', 'kampus', 'unsri'];ood;berapa luas kampus unsri
+658;['tunggu', 'saja'];ood;tunggu saja
+659;['akan', 'kuberi', 'kamu', 'pelajaran'];ood;akan beri kamu ajar
+660;['kartu', 'hasil', 'studi', 'untuk', 'semester'];id;kartu hasil studi untuk semester
+661;['tampilkan', 'ip', 'pada', 'semester'];id;tampil ip pada semester
+662;['kamu', 'pikir', 'masuk', 'akal'];ood;kamu pikir masuk akal
+663;['siapa', 'pemilik', 'perusahaan', 'terbesar', 'di', 'indonesia'];ood;siapa milik usaha besar di indonesia
+664;['aku', 'suka', 'yang', 'ini'];ood;aku suka yang ini
+665;['kenapa', 'kamu', 'tertawa'];ood;kenapa kamu tertawa
+666;['apa', 'si', 'keuntungan', 'chatbot', 'ini'];ood;apa si untung chatbot ini
+667;['tampilkan', 'nama', 'pribadi', 'sesuai', 'yang', 'tercantum', 'pada', 'akademik'];id;tampil nama pribadi sesuai yang cantum pada akademik
+668;['tampilkan', 'history', 'mata', 'kuliah', 'struktur', 'diskrit'];id;tampil history mata kuliah struktur diskrit
+669;['tampilkan', 'ipk', 'pada', 'semester'];id;tampil ipk pada semester
+670;['siapa', 'penulis', 'buku', 'kata'];ood;siapa tulis buku kata
+671;['mengapa', 'ikan', 'hidup', 'di', 'air'];ood;mengapa ikan hidup di air
+672;['aku', 'baca', 'surat', 'werther'];ood;aku baca surat werther
+673;['apa', 'ada', 'orang', 'lain', 'disini'];ood;apa ada orang lain sini
+674;['tampilkan', 'ipk', 'pada', 'semester'];id;tampil ipk pada semester
+675;['ruangan', 'mata', 'kuliah', 'kalkulus'];id;ruang mata kuliah kalkulus
+676;['tampilkan', 'awal', 'pengisian', 'kprs'];id;tampil awal isi kprs
+677;['apa', 'saja', 'fasilitas', 'di', 'unsri'];ood;apa saja fasilitas di unsri
+678;['kapan', 'tere', 'liye', 'menerbitkan', 'buku', 'pertama', 'kali'];ood;kapan tere liye terbit buku pertama kali
+679;['siapa', 'nama', 'dekan', 'fakultas', 'kedokteran', 'universitas', 'sriwijaya'];ood;siapa nama dekan fakultas dokter universitas sriwijaya
+680;['apa', 'yang', 'membuat', 'tere', 'liye', 'sukses'];ood;apa yang buat tere liye sukses
+681;['nama', 'dosen', 'yang', 'mengampu', 'mata', 'kuliah', 'kalkulus'];id;nama dosen yang ampu mata kuliah kalkulus
+682;['tampilkan', 'semester', 'pendek', 'pada', 'semester'];id;tampil semester pendek pada semester
+683;['musim', 'yang', 'diisi', 'air', 'mata', 'pelangi'];ood;musim yang isi air mata pelangi
+684;['tampilkan', 'mata', 'kuliah', 'apa', 'saja', 'yang', 'bisa', 'diambil', 'pada', 'semester', 'pendek'];id;tampil mata kuliah apa saja yang bisa ambil pada semester pendek
+685;['apakah', 'orang', 'yang', 'bertemu', 'dalam', 'satu', 'organisasi', 'diperbolehkan', 'menikah'];ood;apakah orang yang temu dalam satu organisasi boleh meni
+686;['kenapa', 'kamu', 'tibatiba', 'keluar', 'seperti', 'itu'];ood;kenapa kamu tibatiba keluar seperti itu
+687;['siapa', 'penulis', 'buku'];ood;siapa tulis buku
+688;['krs', 'semester', 'pendek'];id;krs semester pendek
+689;['tanggal', 'mulai', 'pengisian', 'krs'];id;tanggal mulai isi krs
+690;['kamu', 'ingat', 'apa', 'yang', 'kamu', 'tanyakan'];ood;kamu ingat apa yang kamu tanya
+691;['siapa'];ood;siapa
+692;['krs', 'pada', 'semester', 'ini'];id;krs pada semester ini
+693;['tampilkan', 'mata', 'kuliah', 'dengan', 'nilai', 'c'];id;tampil mata kuliah dengan nilai c
+694;['siapa', 'perempuan', 'paling', 'cantik', 'di', 'alam', 'barzah'];ood;siapa perempuan paling cantik di alam barzah
+695;['mata', 'kuliah', 'dengan', 'nilai', 'e'];id;mata kuliah dengan nilai e
+696;['jumlah', 'sks', 'yang', 'diambil', 'pada', 'semester', 'ini'];id;jumlah sks yang ambil pada semester ini
+697;['tidak', 'kamu', 'yang', 'duluan'];ood;tidak kamu yang duluan
+698;['jumlah', 'sks', 'pada', 'semester'];id;jumlah sks pada semester
+699;['sueun', 'yang', 'disana', 'itu', 'dia', 'terus', 'memandangiku'];ood;sueun yang sana itu dia terus pandang
+700;['kamu', 'sedang', 'dicari'];ood;kamu sedang cari
+701;['tampilkan', 'kartu', 'hasil', 'studi', 'untuk', 'semester'];id;tampil kartu hasil studi untuk semester
+702;['berapa', 'ipk', 'mahasiswa', 'dengan', 'nim'];id;berapa ipk mahasiswa dengan nim
+703;['tampilkan', 'nama', 'dosen', 'yang', 'mengampu', 'mata', 'kuliah', 'struktur', 'data'];id;tampil nama dosen yang ampu mata kuliah struktur data
+704;['batas', 'akhir', 'pengisian', 'krs'];id;batas akhir isi krs
+705;['tampilkan', 'nama', 'dosen', 'yang', 'mengampu', 'mata', 'kuliah', 'kalkulus'];id;tampil nama dosen yang ampu mata kuliah kalkulus
+706;['history', 'mata', 'kuliah', 'struktur', 'diskrit'];id;history mata kuliah struktur diskrit
+707;['tampilkan', 'ruangan', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;tampil ruang mata kuliah algoritma pemrograman
+708;['mengapa', 'bintang', 'laut', 'berada', 'di', 'laut'];ood;mengapa bintang laut ada di laut
+709;['tampilkan', 'tanggal', 'test', 'usept'];id;tampil tanggal test usept
+710;['sebutka', 'lagu', 'yang', 'populer', 'pada', 'tahun'];ood;sebutka lagu yang populer pada tahun
+711;['tahun', 'berapa', 'fasilkom', 'unsri', 'berdiri'];ood;tahun berapa fasilkom unsri diri
+712;['sks', 'pada', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;sks pada mata kuliah algoritma pemrograman
+713;['nim'];id;nim
+714;['sebutkan', 'nama', 'dosen', 'yang', 'mengajar', 'pada', 'bidang', 'pengolahan', 'citra'];id;sebut nama dosen yang ajar pada bidang olah citra
+715;['aku', 'tidak', 'tahu'];ood;aku tidak tahu
+716;['har', 'sueun', 'sudah', 'meninggal'];ood;har sueun sudah tinggal
+717;['tampilkan', 'angkatan'];id;tampil angkat
+718;['aku', 'benci', 'pengecut', 'sepertimu', 'melebihi', 'apapun'];ood;aku benci kecut seperti lebih apa
+719;['batas', 'maksimum', 'yang', 'boleh', 'diambil', 'pada', 'semester', 'pendek'];id;batas maksimum yang boleh ambil pada semester pendek
+720;['tampilkan', 'daftar', 'nama', 'mahasiswa', 'yang', 'berjenis', 'kelamin', 'perempuan', 'pada', 'jurusan', 'teknik', 'informatika', 'angkatan'];id;tampil daftar nama mahasiswa yang jenis kelamin perempuan pada jurus teknik informatika angkat
+721;['nama', 'dosen', 'yang', 'mengampu', 'mata', 'kuliah', 'algoritma', 'pemrograman'];id;nama dosen yang ampu mata kuliah algoritma pemrograman
+722;['tampilkan', 'nama', 'pribadi', 'sesuai', 'yang', 'tertera', 'pada', 'akademik'];id;tampil nama pribadi sesuai yang tera pada akademik
+723;['berapa', 'nim', 'mahasiswa', 'bernama', 'virani', 'amanda'];id;berapa nim mahasiswa nama virani amanda
+724;['tampilkan', 'jumlah', 'sks', 'pada', 'semester'];id;tampil jumlah sks pada semester
+725;['harga', 'buku', 'kalkulus'];ood;harga buku kalkulus
+726;['tampilkan', 'ipk', 'pada', 'semester'];id;tampil ipk pada semester
+727;['tampilkan', 'history', 'suliet'];id;tampil history suliet
+728;['nomor', 'induk', 'pegawai', 'dosen', 'pa'];id;nomor induk pegawai dosen pa
+729;['apa', 'kamu', 'bermimpi'];ood;apa kamu mimpi
+730;['tahun', 'berapa', 'unsri', 'didirikan'];ood;tahun berapa unsri diri
+731;['siapa', 'pencipta', 'lagu', 'hari', 'merdeka'];ood;siapa cipta lagu hari merdeka
+732;['bodoh', 'kamu'];ood;bodoh kamu
+733;['lautnya', 'sangat', 'merah'];ood;laut sangat merah
+734;['dari', 'mana', 'asal', 'virus', 'corona'];ood;dari mana asal virus corona
+735;['munculkan', 'nama', 'mahasiswa', 'angkatan', 'yang', 'sudah', 'menyelesaikan', 'skripsi'];id;muncul nama mahasiswa angkat yang sudah selesai skripsi
+736;['siapa', 'penemu', 'bola', 'lampu'];ood;siapa temu bola lampu
