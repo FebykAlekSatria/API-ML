@@ -130,7 +130,8 @@ class main():
                 prediction.lower_case()
                 prediction.clean_punct()
                 prediction.stopwords_removal()
-                prediction = detect.predict()
+                prediction.stemming()
+                prediction = prediction.predict()
                 return ({
                     'pertanyaan': quest['text'],
                     'predict': prediction[0]
