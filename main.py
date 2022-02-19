@@ -61,7 +61,7 @@ class main():
             return "<h1>Welcome to OOD API PREPROCESSING DATASET</h1>"
 
     @app.route("/tfidf", methods=["GET", "POST"])
-    def download():
+    def tfidf_api():
         try:
             if request.method == 'POST':
                 result_tfidf = tfidf()
@@ -78,7 +78,7 @@ class main():
             return ("0")
 
     @app.route("/best", methods=["GET", "POST"])
-    def best():
+    def best_api():
         if request.method == 'POST':
             try:
                 best_param = best_params()
@@ -96,7 +96,7 @@ class main():
             return "<h1>Welcome to OOD API BEST PARAMS</h1>"
 
     @app.route("/training", methods=["GET", "POST"])
-    def training():
+    def training_api():
         if request.method == 'POST':
             try:
                 params = request.get_json()
@@ -120,7 +120,7 @@ class main():
             return "<h1>Welcome to OOD API TRINING DATASET</h1>"
 
     @app.route("/", methods=["GET", "POST"])
-    def prediction():
+    def detection_api():
         if request.method == 'POST':
             try:
                 quest = request.get_json()
