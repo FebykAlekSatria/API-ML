@@ -34,14 +34,14 @@ class training():
         confusion_score = []
         scores.append(['Uji ke', 'akurasi', 'precision',
                        'recall', 'f- measure', 'waktu Komputasi'])
-        cv = KFold(n_splits=10)
+        cv = KFold(n_splits=10, shuffle=True)
         index = 1
         for train_index, test_index in cv.split(X):
             X_train, X_test, Y_train, Y_test = X[train_index], X[test_index], Y[train_index], Y[test_index]
             start_time = time.time()
             model.fit(X_train, Y_train)
             Y_pred = model.predict(X_test)
-            [tn, fp], [fn, tp] = confusion_matrix(Y_test, Y_pred)
+            [[tn, fp], [fn, tp]] = confusion_matrix(Y_test, Y_pred)
 
             acc = round(accuracy_score(Y_test, Y_pred), 4)
             pre = round(precision_score(Y_test, Y_pred, pos_label='ood'), 4)

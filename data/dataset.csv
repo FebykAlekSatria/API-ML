@@ -27,7 +27,6 @@ Saat sudah lulus, kamu akan lamar kerja diperusahaan mana?;OOD
 Apa saja fasilitas di unsri? ;OOD
 Apakah 2 orang yang bertemu dalam satu organisasi diperbolehkan menikah ?;OOD
 Siapa Nama Dekan Fakultas Hukum Universitas Sriwijaya?;OOD
-Berapa Ipk anda?;OOD
 Siapa aktor korea yang kamu suka?;OOD
 Bagaimana cara mengupload jurnal?  ;OOD
 Siapa penulis buku Bumi?;OOD
@@ -93,7 +92,6 @@ Bagaimana kondisi kampus anda?;OOD
 Bagaimana cara tidur cepat;OOD
 Berapa banyak organisasi mahasiswa yang ada di UNSRI?;OOD
 Youtuber no 1 di Indonesia? ;OOD
-Berapa IPK tertinggi lulusan tahun 2021 di UNSRI?;OOD
 Mengapa harus belajar pemrograman?;OOD
 Siapa penulis buku dengan judul Paradigma?;OOD
 Siapakah kucing yang paling menyebalkan dalam student center ?;OOD
@@ -138,7 +136,7 @@ Bagaimana kriteria mahasiswa yang baik?  ;OOD
 Asal usul batik menjadi kebanggaan di Indonesia?;OOD
 Siapa istri Adam Smith?;OOD
 Apa peran orang tua dalam mendukung pendidikan anak?;OOD
-Apa saja warna-warna primer?;OOD
+Apa saja warna warna primer?;OOD
 Data untuk apa;OOD
 Sebutka lagu yang populer pada tahun 2021?;OOD
 Berapa kurun waktu tercepat proses move on setelah ditinggalkan pasca hubungan tanpa status ?;OOD
@@ -155,7 +153,7 @@ Bagaimana cara mendownload jurnal secara gratis? ;OOD
 Berapa uang yang diperlukan untuk membeli sebuah komputer bekas;OOD
 Kenapa huruf b itu di antara a dan c;OOD
 Apa si keuntungan chatbot ini;OOD
-Berapa harga buku Pemrograman Web?;OOD
+Berapa harga buku Fisika?;OOD
 Siapa penulis buku Egosentris?;OOD
 Siapa Nama Dekan Fakultas Ekonomi Universitas Sriwijaya?;OOD
 Siapa nama kucing peliharaan Anda ?;OOD
@@ -172,12 +170,14 @@ Apakah direktur utama UKM U-READ periode 2019/2020 akan meminta maaf kepada sekr
 Siapa Nama Dekan Fakultas Pertanian Universitas Sriwijaya?;OOD
 Siapa penulis buku 25 Jam?;OOD
 Siapa orang tercerdas di dunia?;OOD
+Mengapa saya terlalu pintar;OOD
+Bagaiamana cara untuk pintar;OOD
 Siapa Nama Manajer EBI 2019/2020?;OOD
 Mengapa jumlah Core di sebuah procesor mempengaruhi kinerja laptop?;OOD
 Siapa penulis buku Amor Fati?;OOD
 Mengapa daun berwarna hijau ?;OOD
-Makanan ;OOD
-Harga buku kalkulus? ;OOD
+kepanjangan dari UNSRI adalah;OOD
+Harga buku dongeng? ;OOD
 Saya hobi nonton;OOD
 Siapa nama hero di blackclover ? ;OOD
 Bagaimana cara mengekstraksi DBpedia?;OOD
@@ -198,6 +198,429 @@ Seberapa penting bisa berbahasa Inggris?;OOD
 Kapan Tere Liye menerbitkan buku pertama kali?;OOD
 Mengapa kita perlu minum ?;OOD
 Siapa penulis puisi Pada Suatu Hari Nanti?;OOD
+asapnya terus mendekatiku .;OOD
+kembali ke kampung halaman , kukira aku akan dapat sashimi ...;OOD
+tapi yang kudapatkan hanyalah usus babi ?;OOD
+hai , ikan mentah di seoul paling murah dan paling segar .;OOD
+semua yang ada disini dibawa dari seoul .;OOD
+tapi kami dekat dengan laut !;OOD
+ini , daging mentah !;OOD
+hai , kenapa si berandal itu belum datang ?;OOD
+apa tahun ini dia tidak akan hadir juga ?;OOD
+menurutmu dia akan datang ?;OOD
+dia belum menampakkan batang hidungnya tahun ini .;OOD
+dia masih tidak bisa melupakan gadis itu ?;OOD
+siapa kamu?;OOD
+har sueun sudah meninggal .;OOD
+benarkah ?;OOD
+ini sudah dimasak atau belum ?;OOD
+jika pacar pertamamu meninggal , apa kamu mudah melupakannya ?;OOD
+lupakan itu .;OOD
+dia lupa atau tidak , itu adalah kehidupannya sendiri .;OOD
+senang bisa melihatmu .;OOD
+aku juga .;OOD
+sudah lama .;OOD
+bisa kamu dengar aku ?;OOD
+sueun , pria ini , suho masih tidak bisa melupakanmu .;OOD
+hentikan itu !;OOD
+otaknya kecil , tapi penuh dengan pikiran mengenai dirimu .;OOD
+lepaskan temanku !;OOD
+kumohon , sueun !;OOD
+saya ingin meminjam buku;OOD
+kami mencarimu kemanamana .;OOD
+apa yang kamu lakukan disini ?;OOD
+aku tidak tahu .;OOD
+kakiku kejang .;OOD
+apa kalian menyelamatkanku ?;OOD
+apa kamu bermimpi ?;OOD
+dimana , mana ?;OOD
+iya tuhan !;OOD
+oh , kamu .;OOD
+apa ini terlalu sempit ?;OOD
+kenapa kamu tibatiba keluar seperti itu ?;OOD
+kamu mengagetkanku .;OOD
+apa peti mati itu untukmu ?;OOD
+memangnya aku akan segera mati .;OOD
+kamu dan aku tumbuh bersama , hatihatilah dengan omonganmu .;OOD
+lalu untuk siapa ?;OOD
+ayahnya pak kades ?;OOD
+aku suka yang ini .;OOD
+yang itu mahal .;OOD
+kalau begitu berikan diskon .;OOD
+iya , apapun .;OOD
+kami memasak sup kacang buncis , mampirlah jika kamu sempat .;OOD
+baik .;OOD
+jaga diri .;OOD
+wow , ini cuaca pembunuh !;OOD
+kamu tidak boleh gunakan kata itu disini .;OOD
+kenapa ?;OOD
+tidak ada yang akan meninggal disini .;OOD
+wow , ini bir pembunuh .;OOD
+kamu berlebihan .;OOD
+apa tn .;OOD
+park akan meninggal ?;OOD
+semua orang akan meninggal cepat atau lambat .;OOD
+biarkan beristirahat .;OOD
+istirahat dalam damai ?;OOD
+dimana ?;OOD
+wow , ini cuaca pembunuh .;OOD
+di bawah naungan pohon magnolia ,;OOD
+aku baca surat werther .;OOD
+bermain seruling di atas bukit diselimuti kawanan bungabunga .;OOD
+aku datang dari tempat jauh , membawa perahu dari dermaga tidak bernama .;OOD
+bulan april menyalakan kembali obor kehidupan .;OOD
+impian akan musim yang bersinar ,;OOD
+musim yang diisi air mata pelangi .;OOD
+di bawah naungan pohon magnolia ,;OOD
+aku baca surat kabar;OOD
+apa yang harus kulakukan ?;OOD
+aku harus konsentrasi belajar .;OOD
+apa ?;OOD
+sueun yang disana itu , dia terus memandangiku .;OOD
+aku perkirakan , dia akan mengajakku kencan minggu ini .;OOD
+aku harus belajar .;OOD
+ada apa dengan gadis zaman sekarang ?;OOD
+mereka punya standar yang tinggi .;OOD
+kamu pergi duluan .;OOD
+tidak , kamu yang duluan .;OOD
+aku ke kanan , dan kamu ke kiri .;OOD
+maksudmu , kananmu ?;OOD
+hai !;OOD
+belikan aku kroket .;OOD
+kenapa ?;OOD
+ingin saja .;OOD
+tapi , jika aku membelikanmu kroket , akan sulit bagi kami berdua ada di sekolah;OOD
+kenapa ?;OOD
+karena .;OOD
+permisi ...;OOD
+suho !;OOD
+bodoh kamu !;OOD
+kamu hanya dijadikannya mainan .;OOD
+apa yang kamu bicarakan ?;OOD
+kamu pikir masuk akal ?;OOD
+kenapa sueun , gadis tercantik di sekolah , bisa menyukaimu ?;OOD
+dia sudah bosan dengan priapria tampan , jadi dia merasa harus merubah langkah .;OOD
+kamu tahu younggu dari ekskul judo ?;OOD
+dia sudah menandai .;OOD
+kamu sedang dicari !;OOD
+aku hanya membelikannya kroket !;OOD
+tunggu saja .;OOD
+kroket hanya sebagai awal saja ...;OOD
+kamu hanya dijadikan mainan .;OOD
+saat dia puas , dia akan membuangmu !;OOD
+apa kamu cemas pada temanmu , atau kamu cemburu ?;OOD
+siapa yang cemburu ?;OOD
+aku tidak mengerti .;OOD
+kenapa suho bukannya aku ?;OOD
+kamu juga bukan !;OOD
+apa kamu berandalan yang berkencan dengan sueun ?;OOD
+apa ada orang lain disini ?;OOD
+kamu atau bukan ?;OOD
+aku tidak berkencan dengannya .;OOD
+aku benci pengecut sepertimu melebihi apapun .;OOD
+akan kuberi kamu pelajaran .;OOD
+tunggu , tunggu ...;OOD
+apa kami berkencan atau tidak ?;OOD
+tolonglah , aku sedang ...;OOD
+apa kamu sedang berkencan dengan tikus ini , atau tidak ?;OOD
+kami sedang berkencan .;OOD
+siapa nama kamu robtot;OOD
+naik , cepat !;OOD
+maju kecepatan penuh !;OOD
+hai , tangkap dia , cepat !;OOD
+susul sepeda itu !;OOD
+hai , aku seorang guru !;OOD
+kalian tidak bisa lakukan itu !;OOD
+berhenti , berhenti !;OOD
+aku lebih berat dari perkiraanmu ?;OOD
+tidak , beratmu seperti yang aku kira .;OOD
+laut sangat biru .;OOD
+selalu seperti itu .;OOD
+sepertinya bisa membuat tanganku jadi biru .;OOD
+oh , kamu bisa renang ?;OOD
+tentu aku bisa !;OOD
+kenapa kamu tertawa ?;OOD
+kamu tidak terluka ?;OOD
+oh , si bodoh itu , younggu ...;OOD
+mereka menyelamatkanku .;OOD
+apa kamu suka bermain sepak bola ?;OOD
+aku sering memainkannya saat smp , tapi sekarang tidak .;OOD
+kamu jadi kiper ?;OOD
+iya , supaya aku tidak perlu lari .;OOD
+tapi kenapa kamu tahu itu ?;OOD
+waktu itu kami satu kelas .;OOD
+oh , kamu benar .;OOD
+rumah kakekmu ada di lingkunganku kan ?;OOD
+kamu juga tahu itu ?;OOD
+kamu ingat kami pernah piket bersama ?;OOD
+kami pernah ?;OOD
+kamu ingat apa yang kamu tanyakan ?;OOD
+apa itu ?;OOD
+apa arti su dalam sueun ?;OOD
+oh , su artinya hidup !;OOD
+dan arti su dalam namamu luar biasa !;OOD
+belikan aku pager .;OOD
+bagaimana lulus dengan pujian ?;OOD
+punyaku hilang karena kamu , jadi kamu harus menggantinya .;OOD
+karena aku ?;OOD
+dasar bodoh .;OOD
+lautnya sangat merah .;OOD
+selalu begitu di waktu seperti ini .;OOD
+lalu , kenapa wajahmu merah ?;OOD
+iya , pada saat seperti ini , biasanya begitu .;OOD
+iya ?;OOD
+hanya ingin memanggil namamu .;OOD
+aku tahu !;OOD
+hah ?;OOD
+kamu akan pindah sekolah .;OOD
+itulah kenapa kamu mulai bicara dan tertawa denganku .;OOD
+hah ?;OOD
+apa arti eun dalam sueun ?;OOD
+ingin membakarku dengan tatapanmu ?;OOD
+matamu seperti mau keluar .;OOD
+ibu .;OOD
+hah , kamu membuatku takut dengan suaramu itu .;OOD
+jika kamu memanggilku , itu berarti ada yang kamu inginkan .;OOD
+aku sangat mencintaimu ?;OOD
+boleh aku pinjam uang .;OOD
+ibu , pager .;OOD
+apa ?;OOD
+terompet ?;OOD
+dimana mereka ?;OOD
+kenapa kamu dirumah ?;OOD
+kapalnya berangkat menit lagi .;OOD
+kami tidak pergi .;OOD
+apa ?;OOD
+kami sudah bicarakan , dan memutuskan tidak ikut untuk kebaikanmu .;OOD
+kamu senang ?;OOD
+apa kamu gila ?;OOD
+jangan purapura tidak suka .;OOD
+carilah alasan , dan jangan gagap .;OOD
+ada masalah ?;OOD
+tidak ada ...;OOD
+mereka tidak datang ?;OOD
+kamu benar ...;OOD
+ini akalakalan .;OOD
+kamu sudah merencanakannya , benar ?;OOD
+tidak , bukan begitu ...;OOD
+kamu pikir aku ...;OOD
+kamu ...;OOD
+dua tiket untuk keberangkatan jam dua .;OOD
+kamu sedang apa ?;OOD
+apa yang kamu doakan ?;OOD
+bagaimana denganmu ?;OOD
+kamu bilang dulu .;OOD
+tidak , kamu duluan .;OOD
+kami lakukan bersamasama ?;OOD
+satu , dua , tiga ...;OOD
+semoga tiap hari bisa seperti ini !;OOD
+pembawa sial !;OOD
+kamu mengenaiku .;OOD
+dia sangat cantik ,;OOD
+apa kalian pengantin baru ?;OOD
+sepertinya dia tidak bisa melihat dengan baik .;OOD
+itulah yang terjadi saat kamu sudah tua .;OOD
+sepertinya pendengarannya bagus .;OOD
+iya , hanya telingaku .;OOD
+semuanya terlalu bising .;OOD
+saat kamu tua lebih baik mati .;OOD
+lebih baik mati .;OOD
+kamu mau lagi ?;OOD
+silakan ambil sendiri .;OOD
+malam ini , bintang pun tidur .;OOD
+kamu memandang laut sendirian ...;OOD
+ombak menari tarian kesepian ...;OOD
+aku memikirkan tentang ...;OOD
+barang hilang ?;OOD
+barangbarang yang tertinggal ?;OOD
+sayangku , apa kamu lupa wajah dan hatiku ?;OOD
+apa angin yang dingin menghapus cintamu ?;OOD
+semuanya sama seperti sebelumnya , dan tidak alasan untuk sesuatu untuk berubah .;OOD
+tapi yang membuatku merindukanmu adalah mimpi di malam musim panas ...;OOD
+hujan ini mengingatkanku sesuatu .;OOD
+saat ayah dan nenekku masih hidup ,;OOD
+malam itu , aku khawatir tentang hujan yang jatuh seperti untaian .;OOD
+aku masih ragu .;OOD
+bagaimana hujan jatuh ?;OOD
+dalam untaian ...;OOD
+dalam tetesan ...;OOD
+kapan aku bisa tahu ?;OOD
+kamu sedang apa ?;OOD
+kamu tidak bisa tidur ?;OOD
+iya .;OOD
+hujannya berhenti .;OOD
+di tengah pusaran angin topan , tidak ada hujan atau angin , hanya kesunyian .;OOD
+lalau , apa kami ada di tengah pusaran angin topan ?;OOD
+cantik .;OOD
+berapa kemungkinan kami melihat sesuatu seperti ini ?;OOD
+berapa kemungkinannya kami bisa bertemu lagi ?;OOD
+sama dengan kemungkinan melihat bintang saat terjadi topan .;OOD
+aku sudah putuskan .;OOD
+aku akan menangis untukmu , tertawa untukmu , dan hidup untukmu .;OOD
+kamu adalah pusat duniaku .;OOD
+kamu mudah tersinggung , pencemburu , kaku dan gagap saat kamu bohong ,;OOD
+tapi aku suka itu semua .;OOD
+semoga kami bisa tinggal disini selamanya .;OOD
+dia mengobati orang yang sedang sakit .;OOD
+sebenarnya , kakekku adalah kepala rumah sakit ini .;OOD
+kamar yang bagus , iya ?;OOD
+oh iya tuhan !;OOD
+oh , kakek , kamu sedang ronda ?;OOD
+aku suka langit .;OOD
+awan , juga .;OOD
+dan matahari tenggelam .;OOD
+dan pelangi diatas langit .;OOD
+dan kamu ?;OOD
+aku suka seragam sekolah .;OOD
+aku pasti gila .;OOD
+kenapa mereka sangat cantik ?;OOD
+aku benci bau amis ikan dari ibuku .;OOD
+yang paling kubenci adalah makanan berbahan dasar ikan .;OOD
+kamu memang telah bergabung .;OOD
+kami tidak membiarkan begitu saja orang lain berlatih bersama kami .;OOD
+tidak , aku sedang membicarakan masalah pekerjaan ..;OOD
+apapun pekerjaan yang kalian kerjakan , kamu ingin bergabung di dalamnya .;OOD
+apa masalah kamu ?;OOD
+apa yang kalian pikirkan , aku seorang agen polisi atau semacamnya ?;OOD
+ayolah .;OOD
+aturan yang kedua , kamu menjauhlah dari chinatown .;OOD
+bahkan jika kamu tidak sedang bekerja .;OOD
+kenapa seperti itu ?;OOD
+aku sedang mengundang kamu untuk duduk di meja makan malam .;OOD
+tunjukan pada aku bagaimana kamu bisa menjadi seorang tamu yang baik .;OOD
+kerja yang bagus .;OOD
+apa yang sedang terjadi ?;OOD
+kamu membuat beberapa gerakan yang serius di luar sana , kawan .;OOD
+kawan , kami mendengar tentang bis itu .;OOD
+itu benar benar gila !;OOD
+dan kamu , pak , kamu adalah bajingan !;OOD
+hai , ini tidak apa apa , kawan .;OOD
+kami hanya memastikan kamu memiliki bantuan dari kami .;OOD
+kamu keluarga kami sekarang .;OOD
+bagaimana menurut kamu ?;OOD
+aku pikir kalian adalah sekumpulan bajingan .;OOD
+Tampilkan NIK dosen pembimbing akademik;ID
+Tampilkan nomor induk mahasiswa dengan nama febyk alek satria;ID
+Tampilkan rekap nilai semester satu;ID
+Tampilkan rekap nilai semester dua;ID
+Tampilkan rekap nilai semester tiga;ID
+Tampilkan rekap nilai semester empat;ID
+Tampilkan rekap nilai semester lima;ID
+Tampilkan rekap nilai semester enam;ID
+Tampilkan rekap nilai semester tujuh;ID
+Tampilkan rekap nilai semester delapan;ID
+Tampilkan seluruh NIM mahasiswa semester satu;ID
+Tampilkan seluruh NIM mahasiswa semester dua;ID
+Tampilkan seluruh NIM mahasiswa semester tiga;ID
+Tampilkan seluruh NIM mahasiswa semester empat;ID
+Tampilkan seluruh NIM mahasiswa semester lima;ID
+Tampilkan seluruh NIM mahasiswa semester enam;ID
+Tampilkan seluruh NIM mahasiswa semester tujuh;ID
+Tampilkan seluruh NIM mahasiswa semester delapan;ID
+Tampilkan kartu hasil studi untuk semester satu;ID
+Tampilkan kartu hasil studi untuk semester dua;ID
+Tampilkan kartu hasil studi untuk semester tiga;ID
+Tampilkan kartu hasil studi untuk semester empat;ID
+Tampilkan kartu hasil studi untuk semester lima;ID
+Tampilkan kartu hasil studi untuk semester enam;ID
+Tampilkan kartu hasil studi untuk semester tujuh;ID
+Tampilkan kartu hasil studi untuk semester delapan;ID
+Tampilkan jumlah sks pada semester satu;ID
+Tampilkan jumlah sks pada semester dua;ID
+Tampilkan jumlah sks pada semester tiga;ID
+Tampilkan jumlah sks pada semester empat;ID
+Tampilkan jumlah sks pada semester lima;ID
+Tampilkan jumlah sks pada semester enam;ID
+Tampilkan jumlah sks pada semester tujuh;ID
+Tampilkan jumlah sks pada semester delapan;ID
+Tampilkan ipk pada semester sembilan;ID
+Tampilkan ipk pada semester dua;ID
+Tampilkan ipk pada semester tiga;ID
+Tampilkan ipk pada semester empat;ID
+Tampilkan ipk pada semester lima;ID
+Tampilkan ipk pada semester enam;ID
+Tampilkan ipk pada semester tujuh;ID
+Tampilkan ipk pada semester delapan;ID
+Tampilkan ip pada semester satu;ID
+Tampilkan ip pada semester dua;ID
+Tampilkan ip pada semester tiga;ID
+Tampilkan ip pada semester empat;ID
+Tampilkan ip pada semester lima;ID
+Tampilkan ip pada semester enam;ID
+Tampilkan ip pada semester tujuh;ID
+Tampilkan ip pada semester delapan;ID
+Tampilkan semester pendek pada semester dua;ID
+Tampilkan semester pendek pada semester empat;ID
+Tampilkan semester pendek pada semester enam;ID
+Tampilkan semester pendek pada semester delapan;ID
+Tampilkan jadwal mata kuliah struktur data satu;ID
+Tampilkan jadwal mata kuliah struktur data dua;ID
+Tampilkan jadwal mata kuliah pemograman web satu;ID
+Tampilkan jadwal mata kuliah pemograman web dua;ID
+Tampilkan jumlah mahasiswa yang mengambil pemograman web satu;ID
+Tampilkan jumlah mahasiswa yang mengambil pemograman web 1;ID
+Tampilkan daftar nilai kalkulus mahasiswa semester tiga;ID
+NIK dosen pembimbing akademik;ID
+nomor induk mahasiswa dengan nama febyk alek satria;ID
+rekap nilai semester satu;ID
+rekap nilai semester dua;ID
+rekap nilai semester tiga;ID
+rekap nilai semester empat;ID
+rekap nilai semester lima;ID
+rekap nilai semester enam;ID
+rekap nilai semester tujuh;ID
+rekap nilai semester delapan;ID
+seluruh NIM mahasiswa semester satu;ID
+seluruh NIM mahasiswa semester dua;ID
+seluruh NIM mahasiswa semester tiga;ID
+seluruh NIM mahasiswa semester empat;ID
+seluruh NIM mahasiswa semester lima;ID
+seluruh NIM mahasiswa semester enam;ID
+seluruh NIM mahasiswa semester tujuh;ID
+seluruh NIM mahasiswa semester delapan;ID
+kartu hasil studi untuk semester satu;ID
+kartu hasil studi untuk semester dua;ID
+kartu hasil studi untuk semester tiga;ID
+kartu hasil studi untuk semester empat;ID
+kartu hasil studi untuk semester lima;ID
+kartu hasil studi untuk semester enam;ID
+kartu hasil studi untuk semester tujuh;ID
+kartu hasil studi untuk semester delapan;ID
+jumlah sks pada semester satu;ID
+jumlah sks pada semester dua;ID
+jumlah sks pada semester tiga;ID
+jumlah sks pada semester empat;ID
+jumlah sks pada semester lima;ID
+jumlah sks pada semester enam;ID
+jumlah sks pada semester tujuh;ID
+jumlah sks pada semester delapan;ID
+ipk pada semester sembilan;ID
+ipk pada semester dua;ID
+ipk pada semester tiga;ID
+pk pada semester empat;ID
+ipk pada semester lima;ID
+ipk pada semester enam;ID
+ipk pada semester tujuh;ID
+ipk pada semester delapan;ID
+ip pada semester satu;ID
+ip pada semester dua;ID
+ip pada semester tiga;ID
+ip pada semester empat;ID
+ip pada semester lima;ID
+ip pada semester enam;ID
+ip pada semester tujuh;ID
+ip pada semester delapan;ID
+semester pendek pada semester dua;ID
+semester pendek pada semester empat;ID
+semester pendek pada semester enam;ID
+semester pendek pada semester delapan;ID
+jadwal mata kuliah struktur data satu;ID
+jadwal mata kuliah struktur data dua;ID
+jadwal mata kuliah pemograman web satu;ID
+jadwal mata kuliah pemograman web dua;ID
+jumlah mahasiswa yang mengambil pemograman web satu;ID
+jumlah mahasiswa yang mengambil pemograman web 1;ID
+daftar nilai kalkulus mahasiswa semester tiga;ID
 Temukan data mahasiswa dengan nama adi;ID
 tampilkan daftar nama dosen ;ID
 Berikan data dosen pembimbing Nadia Rizky Hairunnisa;ID
@@ -223,20 +646,20 @@ Berikan IP semster 1 sampai IP semester 4 untuk mahasiswa bernama Adi Kurniawan;
 Sebutkan nama dosen yang mengajar pada bidang jaringan komputer;ID
 Siapa saja dosen teknik informatika yang berjenis kelamin perempuan?;ID
 Tolong berikan daftar nama mahasiswa yang berjenis kelamin wanita;ID
-mahasiswa bimbingan abdiansyah;ID
-Berikan data mahasiswa dengan IPK > 3.8;ID
+mahasiswa bimbingan saya;ID
+Berikan data mahasiswa dengan IPK > tiga koma delaman;ID
 Carikan data mahasiswa dengan NIM 09021281823051;ID
 Siapa pembimbing TA dari mahasiswa nim;ID
 sebutkan mata kuliah pilihan pada semester 7;ID
 Siapa saja dosen teknik informatika yang berjenis kelamin laki-laki?;ID
-Berikan data mahasiswa dengan IPK > 3.8;ID
+Berikan data mahasiswa dengan IPK > tiga;ID
 Minta daftar dosen teknik informatika;ID
 Tampilkan data mahasiswa per angkatan yang blm lulus;ID
-sebutkan mata kuliah pilihan pada semester 5;ID
+sebutkan mata kuliah pilihan pada semester lima;ID
 Temukan kode mata kuliah Probabilitas dan Statistika;ID
 Munculkan nama mahasiswa angkatan 2018 yang sudah menyelesaikan skripsi;ID
 Temukan kode mata kuliah kalkulus;ID
-Berapa NIP dosen atas nama abdiansyah?;ID
+Berapa NIP dosen atas nama saya?;ID
 Tampilkan nilai saya;ID
 Berapa jumlah mahasiswa Teknik Informatika Reguler 2018?;ID
 Berapa jumlah mahasiswa teknik infromatika 2021?;ID
@@ -245,14 +668,14 @@ Tampilkan jumlah sks yang sudah diambil oleh mahasiswa dengan nim 09021281823165
 Cari nama dosen yang mengajar mata kuliah Algoritma dan Pemrograman III;ID
 Berapa jumlah SKS untuk mata kuliah Kalkulus ?;ID
 Berapa jumlah sks yang harus ditempuh untuk lulus di Jurusan Teknik Informatika?;ID
-Tampilkan profil dosen atas nama abdiansyah;ID
+Tampilkan profil dosen atas nama saya;ID
 Berapa jumlah mahasiswa Teknik Informatika Bilingual 2018?;ID
 Tampilkan daftar mata kuliah yang sudah diambil oleh mahasiswa dengan nim 09021281823165!;ID
 Tampilkan data mahasiswa yang sudah lulus;ID
 Tampilkan daftar nama mahasiswa Teknik Informatika Reguler 2015;ID
 Siapa saja dosen pengampu mata kuliah algoritma dan pemrograman?;ID
 Tampilkan daftar nama mahasiswa yang berjenis kelamin perempuan pada jurusan Teknik Informatika angkatan 2018;ID
-Berapa nip pak Abdiansah ?;ID
+Berapa nip pak dosen pa saya ?;ID
 Berapa nim mahasiswa bernama Virani Amanda ?;ID
 Tampilkan nama dan nip kepala jurusan teknik informatika;ID
 Berika daftar nama mahasiswa berjenis kelamin perempuan angkatan 2020;ID
@@ -310,8 +733,8 @@ Tampilkan banyak sks maksimum yang boleh diambil pada semester ini;ID
 Tampilkan jadwal mata kuliah kalkulus;ID
 Tampilkan jadwal mata kuliah algoritma pemrograman 1;ID
 Tampilkan jadwal mata kuliah algoritma pemrograman 2;ID
-Tampilkan jadwal mata kuliah struktur data 1;ID
-Tampilkan jadwal mata kuliah struktur data 2;ID
+Tampilkan nama dosen yang mengampu mata kuliah struktur data;ID
+Tampilkan jadwal mata kuliah pemograman web;ID
 Tampilkan nama dosen yang mengampu mata kuliah kalkulus;ID
 Tampilkan nama dosen yang mengampu mata kuliah algoritma pemrograman 1;ID
 Tampilkan nama dosen yang mengampu mata kuliah algoritma pemrograman 2;ID
@@ -502,7 +925,7 @@ siapa mahasiswa yang uasnya bernilai 90;ID
  nama dosen PA;ID
  semester saat ini;ID
  semester yang sedang dijalani saat ini;ID
- NIM;ID
+ Tampilkan NIM mahsiswa semester tiga;ID
  nomor induk mahasiswa;ID
  NIP dosen pembimbing akademik;ID
  nomor induk pegawai dosen pembimbing akademik;ID
@@ -511,7 +934,7 @@ siapa mahasiswa yang uasnya bernilai 90;ID
  nama pribadi sesuai yang tercantum pada akademik;ID
  nama pribadi sesuai yang tertera pada akademik;ID
  program studi;ID
- prodi;ID
+Nilai mahasiswa nim 09021181823016 pada matakuliah kalkulus;ID
  batas akhir pengisian KRS;ID
  tanggal tenggat pengisian KRS;ID
  tanggal mulai pengisian KRS;ID
@@ -548,191 +971,31 @@ siapa mahasiswa yang uasnya bernilai 90;ID
  tanggal test usept;ID
  hasil test suliet;ID
  hasil test usept;ID
-asapnya terus mendekatiku .;OOD
-kembali ke kampung halaman , kukira aku akan dapat sashimi ...;OOD
-tapi yang kudapatkan hanyalah usus babi ?;OOD
-hai , ikan mentah di seoul paling murah dan paling segar .;OOD
-semua yang ada disini dibawa dari seoul .;OOD
-tapi kami dekat dengan laut !;OOD
-ini , daging mentah !;OOD
-hai , kenapa si berandal itu belum datang ?;OOD
-apa tahun ini dia tidak akan hadir juga ?;OOD
-menurutmu dia akan datang ?;OOD
-dia belum menampakkan batang hidungnya tahun ini .;OOD
-dia masih tidak bisa melupakan gadis itu ?;OOD
-siapa ?;OOD
-har sueun sudah meninggal .;OOD
-benarkah ?;OOD
-ini sudah dimasak atau belum ?;OOD
-jika pacar pertamamu meninggal , apa kamu mudah melupakannya ?;OOD
-lupakan itu .;OOD
-dia lupa atau tidak , itu adalah kehidupannya sendiri .;OOD
-senang bisa melihatmu .;OOD
-aku juga .;OOD
-sudah lama .;OOD
-bisa kamu dengar aku ?;OOD
-sueun , pria ini , suho masih tidak bisa melupakanmu .;OOD
-hentikan itu !;OOD
-otaknya kecil , tapi penuh dengan pikiran mengenai dirimu .;OOD
-lepaskan temanku !;OOD
-kumohon , sueun !;OOD
-pagerku ...;OOD
-kami mencarimu kemanamana .;OOD
-apa yang kamu lakukan disini ?;OOD
-aku tidak tahu .;OOD
-kakiku kejang .;OOD
-apa kalian menyelamatkanku ?;OOD
-apa kamu bermimpi ?;OOD
-dimana , mana ?;OOD
-iya tuhan !;OOD
-oh , kamu .;OOD
-apa ini terlalu sempit ?;OOD
-kenapa kamu tibatiba keluar seperti itu ?;OOD
-kamu mengagetkanku .;OOD
-apa peti mati itu untukmu ?;OOD
-memangnya aku akan segera mati .;OOD
-kamu dan aku tumbuh bersama , hatihatilah dengan omonganmu .;OOD
-lalu untuk siapa ?;OOD
-ayahnya pak kades ?;OOD
-aku suka yang ini .;OOD
-yang itu mahal .;OOD
-kalau begitu berikan diskon .;OOD
-iya , apapun .;OOD
-kami memasak sup kacang buncis , mampirlah jika kamu sempat .;OOD
-baik .;OOD
-jaga diri .;OOD
-wow , ini cuaca pembunuh !;OOD
-kamu tidak boleh gunakan kata itu disini .;OOD
-kenapa ?;OOD
-tidak ada yang akan meninggal disini .;OOD
-wow , ini bir pembunuh .;OOD
-kamu berlebihan .;OOD
-apa tn .;OOD
-park akan meninggal ?;OOD
-semua orang akan meninggal cepat atau lambat .;OOD
-biarkan beristirahat .;OOD
-istirahat dalam damai ?;OOD
-dimana ?;OOD
-wow , ini cuaca pembunuh .;OOD
-di bawah naungan pohon magnolia ,;OOD
-aku baca surat werther .;OOD
-bermain seruling di atas bukit diselimuti kawanan bungabunga .;OOD
-aku datang dari tempat jauh , membawa perahu dari dermaga tidak bernama .;OOD
-bulan april menyalakan kembali obor kehidupan .;OOD
-impian akan musim yang bersinar ,;OOD
-musim yang diisi air mata pelangi .;OOD
-di bawah naungan pohon magnolia ,;OOD
-aku baca surat werther .;OOD
-apa yang harus kulakukan ?;OOD
-aku harus konsentrasi belajar .;OOD
-apa ?;OOD
-sueun yang disana itu , dia terus memandangiku .;OOD
-aku perkirakan , dia akan mengajakku kencan minggu ini .;OOD
-aku harus belajar .;OOD
-ada apa dengan gadis zaman sekarang ?;OOD
-mereka punya standar yang tinggi .;OOD
-kamu pergi duluan .;OOD
-tidak , kamu yang duluan .;OOD
-aku ke kanan , dan kamu ke kiri .;OOD
-maksudmu , kananmu ?;OOD
-hai !;OOD
-belikan aku kroket .;OOD
-kenapa ?;OOD
-ingin saja .;OOD
-tapi , jika aku membelikanmu kroket , akan sulit bagi kami berdua ada di sekolah;OOD
-kenapa ?;OOD
-karena .;OOD
-permisi ...;OOD
-suho !;OOD
-bodoh kamu !;OOD
-kamu hanya dijadikannya mainan .;OOD
-apa yang kamu bicarakan ?;OOD
-kamu pikir masuk akal ?;OOD
-kenapa sueun , gadis tercantik di sekolah , bisa menyukaimu ?;OOD
-dia sudah bosan dengan priapria tampan , jadi dia merasa harus merubah langkah .;OOD
-kamu tahu younggu dari ekskul judo ?;OOD
-dia sudah menandai .;OOD
-kamu sedang dicari !;OOD
-aku hanya membelikannya kroket !;OOD
-tunggu saja .;OOD
-kroket hanya sebagai awal saja ...;OOD
-kamu hanya dijadikan mainan .;OOD
-saat dia puas , dia akan membuangmu !;OOD
-apa kamu cemas pada temanmu , atau kamu cemburu ?;OOD
-siapa yang cemburu ?;OOD
-aku tidak mengerti .;OOD
-kenapa suho bukannya aku ?;OOD
-kamu juga bukan !;OOD
-apa kamu berandalan yang berkencan dengan sueun ?;OOD
-apa ada orang lain disini ?;OOD
-kamu atau bukan ?;OOD
-aku tidak berkencan dengannya .;OOD
-aku benci pengecut sepertimu melebihi apapun .;OOD
-akan kuberi kamu pelajaran .;OOD
-tunggu , tunggu ...;OOD
-apa kami berkencan atau tidak ?;OOD
-tolonglah , aku sedang ...;OOD
-apa kamu sedang berkencan dengan tikus ini , atau tidak ?;OOD
-kami sedang berkencan .;OOD
-suho !;OOD
-naik , cepat !;OOD
-maju kecepatan penuh !;OOD
-hai , tangkap dia , cepat !;OOD
-susul sepeda itu !;OOD
-hai , aku seorang guru !;OOD
-kalian tidak bisa lakukan itu !;OOD
-berhenti , berhenti !;OOD
-aku lebih berat dari perkiraanmu ?;OOD
-tidak , beratmu seperti yang aku kira .;OOD
-laut sangat biru .;OOD
-selalu seperti itu .;OOD
-sepertinya bisa membuat tanganku jadi biru .;OOD
-oh , kamu bisa renang ?;OOD
-tentu aku bisa !;OOD
-kenapa kamu tertawa ?;OOD
-kamu tidak terluka ?;OOD
-oh , si bodoh itu , younggu ...;OOD
-mereka menyelamatkanku .;OOD
-apa kamu suka bermain sepak bola ?;OOD
-aku sering memainkannya saat smp , tapi sekarang tidak .;OOD
-kamu jadi kiper ?;OOD
-iya , supaya aku tidak perlu lari .;OOD
-tapi kenapa kamu tahu itu ?;OOD
-waktu itu kami satu kelas .;OOD
-oh , kamu benar .;OOD
-rumah kakekmu ada di lingkunganku kan ?;OOD
-kamu juga tahu itu ?;OOD
-kamu ingat kami pernah piket bersama ?;OOD
-kami pernah ?;OOD
-kamu ingat apa yang kamu tanyakan ?;OOD
-apa itu ?;OOD
-apa arti su dalam sueun ?;OOD
-oh , su artinya hidup !;OOD
-dan arti su dalam namamu luar biasa !;OOD
-belikan aku pager .;OOD
-pager ?;OOD
-punyaku hilang karena kamu , jadi kamu harus menggantinya .;OOD
-karena aku ?;OOD
-dasar bodoh .;OOD
-lautnya sangat merah .;OOD
-selalu begitu di waktu seperti ini .;OOD
-lalu , kenapa wajahmu merah ?;OOD
-iya , pada saat seperti ini , biasanya begitu .;OOD
-iya ?;OOD
-hanya ingin memanggil namamu .;OOD
-aku tahu !;OOD
-hah ?;OOD
-kamu akan pindah sekolah .;OOD
-itulah kenapa kamu mulai bicara dan tertawa denganku .;OOD
-hah ?;OOD
-apa arti eun dalam sueun ?;OOD
-ingin membakarku dengan tatapanmu ?;OOD
-matamu seperti mau keluar .;OOD
-ibu .;OOD
-hah , kamu membuatku takut dengan suaramu itu .;OOD
-jika kamu memanggilku , itu berarti ada yang kamu inginkan .;OOD
-aku sangat mencintaimu ?;OOD
-boleh aku pinjam uang .;OOD
-ibu , pager .;OOD
-apa ?;OOD
-terompet ?;OOD
+ jumlah maksimal sks yang diambil pada semster tujuh;ID
+ banyak sks yang diambil pada semster pendek;ID
+Tampilkan Nilai mahasiswa nim 09021181823016 pada matakuliah proposal;ID
+semua nilai mahasiswa pada pelajaran kalkulus;ID
+semua nilai mahasiswa pada pelajaran struktur data;ID
+semua nilai mahasiswa pada matakuliah machine learning;ID
+semua nilai mahasiswa pada matakuliah pembelajaran mesin;ID
+tampilkan data mahasiswa yang memiliki nilai Suliet > 600;ID
+tampilkan data mahasiswa yang memiliki nilai Suliet < 500;ID
+nama mahasiswa yang memiliki nilai Suliet < 500;ID
+tampilkan data mahasiswa yang memiliki nilai Suliet lebih dari 600;ID
+tampilkan data mahasiswa yang memiliki nilai Suliet kurang dari 500;ID
+nama mahasiswa yang memiliki nilai Suliet kurang dari 500;ID
+mahasiswa dengan ipk kurang dari 3.00;ID
+mahasiswa dengan ipk < 3.00;ID
+mahasiswa dengan ipk lebih dari 3.00;ID
+mahasiswa dengan ipk > 3.00;ID
+Tampilkan mahasiswa dengan ipk kurang dari 3.00;ID
+Tampilkan mahasiswa dengan ipk < 3.00;ID
+Tampilkan mahasiswa dengan ipk lebih dari 3.00;ID
+Tampilkan mahasiswa dengan ipk > 3.00;ID
+Daftar mahasiswa lulus suliet;ID
+Daftar nama mahasiswa yang lulus usept;ID
+Tampilkan jumlah mahasiswa mengambil matakuliah proposal;ID
+Tampilkan jumlah mahasiswa mengambil matakuliah SKRIPSI;ID
+Tampilkan jumlah mahasiswa angkatan 2018;ID
+jumlah mahasiswa angkatan 2020;ID
+Mahasiswa lulus dengan pujian;ID

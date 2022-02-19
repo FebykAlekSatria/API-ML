@@ -52,7 +52,7 @@ class main():
                 mentah, hasil = preprocess.save_preprocessing()
 
                 return ({
-                    'data': [mentah[0][0], mentah[1][0], hasil[0][2], hasil[1][2]]
+                    'data': [mentah[0][0], mentah[1][0], hasil[0][0], hasil[1][0]]
                 })
             except:
                 return ("0")
@@ -125,11 +125,11 @@ class main():
             try:
                 quest = request.get_json()
                 string = quest['text']
-                detect = detect()
-                detect.text = string
-                detect.lower_case()
-                detect.clean_punct()
-                detect.stopwords_removal()
+                prediction = detect()
+                prediction.text = string
+                prediction.lower_case()
+                prediction.clean_punct()
+                prediction.stopwords_removal()
                 prediction = detect.predict()
                 return ({
                     'pertanyaan': quest['text'],

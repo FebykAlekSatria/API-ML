@@ -16,7 +16,7 @@ class tfidf():
 
     def tfidf(self):
         self.X_tfidf = vectorizer_tfidf.fit_transform(
-            self.df['Lowers'].values.astype('U'))
+            self.df['Kalimat'].values.astype('U'))
         with open("model/tfidf_fit", "wb") as r:
             pickle.dump(self.X_tfidf, r)
         with open("model/tfidf", "wb") as r:

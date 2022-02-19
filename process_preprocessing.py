@@ -17,8 +17,6 @@ class preprocessing():
 
     def read_data(self):
         self.df = pd.read_csv("data/dataset.csv", sep=';')
-        self.df = self.df.sample(
-            frac=1.0, random_state=1).reset_index(drop=True)
         self.mentah = self.df
 
     def clean_punct(self):
@@ -36,12 +34,12 @@ class preprocessing():
         [word for word in self.df['Kalimat'] if word not in list_stopwords]
 
     def lowers(self):
-        self.df['Lowers'] = [", ".join(review)
-                             for review in self.df['Kalimat'].values]
+        self.df['Kalimat'] = [", ".join(review)
+                              for review in self.df['Kalimat'].values]
 
     def stemming(self):
         stemmer = factory.create_stemmer()
-        self.df['Lowers'] = self.df['Lowers'].apply(
+        self.df['Kalimat'] = self.df['Kalimat'].apply(
             lambda text: stemmer.stem(text))
 
     def save_preprocessing(self):
