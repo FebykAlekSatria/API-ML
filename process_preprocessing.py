@@ -1,14 +1,10 @@
 import numpy as np
-import nltk
-import re
-import swifter
-from nltk.corpus import stopwords
+
 import pandas as pd
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory, StopWordRemover, ArrayDictionary
 factory = StemmerFactory()
 stemmer = factory.create_stemmer()
-list_stopwords = stopwords.words('indonesian')
-nltk.download('punkt')
 
 
 class preprocessing():
@@ -26,16 +22,12 @@ class preprocessing():
     def lower_case(self):
         self.df = self.df.astype(str).apply(lambda x: x.str.lower())
 
-    def tokenizing(self):
-        self.df['Kalimat'] = self.df.apply(
-            lambda row: nltk.word_tokenize(row['Kalimat']), axis=1)
-
     def stopwords_removal(self):
-        [word for word in self.df['Kalimat'] if word not in list_stopwords]
-
-    def lowers(self):
-        self.df['Kalimat'] = [", ".join(review)
-                              for review in self.df['Kalimat'].values]
+        data = StopWordRemoverFactory().get_stop_words()
+        dictionary = ArrayDictionary(data)
+        stopword = StopWordRemover(dictionary)
+        self.df['Kalimat'] = self.df['Kalimat'].apply(
+            lambda text: stopword.remove(text))
 
     def stemming(self):
         stemmer = factory.create_stemmer()

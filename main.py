@@ -40,17 +40,13 @@ class main():
     def preprocessing_api():
         if request.method == 'POST':
             try:
-                # path = (r"coba\")
                 preprocess = preprocessing()
                 preprocess.read_data()
-                preprocess.lower_case()
                 preprocess.clean_punct()
-                preprocess.tokenizing()
+                preprocess.lower_case()
                 preprocess.stopwords_removal()
-                preprocess.lowers()
                 preprocess.stemming()
                 mentah, hasil = preprocess.save_preprocessing()
-
                 return ({
                     'data': [mentah[0][0], mentah[1][0], hasil[0][0], hasil[1][0]]
                 })
