@@ -51,7 +51,7 @@ Siapakah penemu aplikasi chatbot pertama di dunia?;OOD
 Siapa Nama Wakil Direktur Utama 2019/2020?;OOD
 Buku yang berjudul Bulan adalah karya?;OOD
 Siapa Nama Dekan Fakultas Kesehatan Masyarakat Universitas Sriwijaya?;OOD
-"Apa arti kata ""I Love You"" dalam bahasa Indonesia?";OOD
+apa yang menyebabkan lulus dengan pujian?;OOD
 Saya lebih bagus cari kerja atau mulai usaha?;OOD
 Bagaimana cara meminjam buku di Perpus unsri? ;OOD
 temukan lokasi fasilkom;OOD
@@ -235,7 +235,7 @@ apa kalian menyelamatkanku ?;OOD
 apa kamu bermimpi ?;OOD
 dimana , mana ?;OOD
 iya tuhan !;OOD
-oh , kamu .;OOD
+tinggi gedung fasilkom?;OOD
 apa ini terlalu sempit ?;OOD
 kenapa kamu tibatiba keluar seperti itu ?;OOD
 kamu mengagetkanku .;OOD
@@ -249,7 +249,7 @@ yang itu mahal .;OOD
 kalau begitu berikan diskon .;OOD
 iya , apapun .;OOD
 kami memasak sup kacang buncis , mampirlah jika kamu sempat .;OOD
-baik .;OOD
+kategori baik;OOD
 jaga diri .;OOD
 wow , ini cuaca pembunuh !;OOD
 kamu tidak boleh gunakan kata itu disini .;OOD
@@ -257,8 +257,8 @@ kenapa ?;OOD
 tidak ada yang akan meninggal disini .;OOD
 wow , ini bir pembunuh .;OOD
 kamu berlebihan .;OOD
-apa tn .;OOD
-park akan meninggal ?;OOD
+bagaiamana mendapat nilai tertinggi.;OOD
+saya mendapatkan nilai tertinggi salama dikampus ?;OOD
 semua orang akan meninggal cepat atau lambat .;OOD
 biarkan beristirahat .;OOD
 istirahat dalam damai ?;OOD
@@ -403,8 +403,8 @@ kamu benar ...;OOD
 ini akalakalan .;OOD
 kamu sudah merencanakannya , benar ?;OOD
 tidak , bukan begitu ...;OOD
-kamu pikir aku ...;OOD
-kamu ...;OOD
+kamu pikir aku takut;OOD
+jumlah orang di pasar;OOD
 dua tiket untuk keberangkatan jam dua .;OOD
 kamu sedang apa ?;OOD
 apa yang kamu doakan ?;OOD
@@ -442,8 +442,8 @@ saat ayah dan nenekku masih hidup ,;OOD
 malam itu , aku khawatir tentang hujan yang jatuh seperti untaian .;OOD
 aku masih ragu .;OOD
 bagaimana hujan jatuh ?;OOD
-dalam untaian ...;OOD
-dalam tetesan ...;OOD
+dalam untaian surat undangan;OOD
+dalam tetesan tangis;OOD
 kapan aku bisa tahu ?;OOD
 kamu sedang apa ?;OOD
 kamu tidak bisa tidur ?;OOD
@@ -772,7 +772,7 @@ Tampilkan nama dosen pembimbing akademik;ID
 Tampilkan nama dosen PA;ID
 Tampilkan semester saat ini;ID
 Tampilkan semester yang sedang dijalani saat ini;ID
-Tampilkan NIM;ID
+Tampilkan bioada lengkap mahasiswa dengan nim 09021181823003;ID
 Tampilkan nomor induk mahasiswa;ID
 Tampilkan NIP dosen pembimbing akademik;ID
 Tampilkan nomor induk pegawai dosen pembimbing akademik;ID
@@ -780,8 +780,8 @@ Tampilkan NIP dosen PA;ID
 Tampilkan nomor induk pegawai dosen PA;ID
 Tampilkan nama pribadi sesuai yang tercantum pada akademik;ID
 Tampilkan nama pribadi sesuai yang tertera pada akademik;ID
-Tampilkan program studi;ID
-Tampilkan prodi;ID
+Tampilkan jadwal mata kuliah alpro I;ID
+Tampilkan jadwal kuliah;ID
 Tampilkan batas akhir pengisian KRS;ID
 Tampilkan tanggal tenggat pengisian KRS;ID
 Tampilkan tanggal mulai pengisian KRS;ID
@@ -839,140 +839,140 @@ sebutkan nama, mahasiswa, dan nilai uas;ID
 sebutkan nama kelas, dan nilai uas;ID
 sebutkan mahasiswa yang nilai uasnya 80 sampai 90;ID
 siapa mahasiswa yang uasnya bernilai 90;ID
- kartu hasil studi untuk semester 1;ID
- kartu hasil studi untuk semester 2;ID
- kartu hasil studi untuk semester 3;ID
- kartu hasil studi untuk semester 4;ID
- kartu hasil studi untuk semester 5;ID
- kartu hasil studi untuk semester 6;ID
- kartu hasil studi untuk semester 7;ID
- kartu hasil studi untuk semester 8;ID
- jumlah sks pada semester 1;ID
- jumlah sks pada semester 2;ID
- jumlah sks pada semester 3;ID
- jumlah sks pada semester 4;ID
- jumlah sks pada semester 5;ID
- jumlah sks pada semester 6;ID
- jumlah sks pada semester 7;ID
- jumlah sks pada semester 8;ID
- ipk pada semester 1;ID
- ipk pada semester 2;ID
- ipk pada semester 3;ID
- ipk pada semester 4;ID
- ipk pada semester 5;ID
- ipk pada semester 6;ID
- ipk pada semester 7;ID
- ipk pada semester 8;ID
- ip pada semester 1;ID
- ip pada semester 2;ID
- ip pada semester 3;ID
- ip pada semester 4;ID
- ip pada semester 5;ID
- ip pada semester 6;ID
- ip pada semester 7;ID
- ip pada semester 8;ID
- semester pendek pada semester 2;ID
- semester pendek pada semester 4;ID
- semester pendek pada semester 6;ID
- semester pendek pada semester 8;ID
- kartu rencana studi pada semester ini;ID
- krs pada semester ini;ID
- khs pada semester ini;ID
- jumlah sks yang diambil pada semester ini;ID
- banyak sks yang diambil pada semester ini;ID
- batas sks maksimum yang boleh diambil pada semester ini;ID
- jumlah sks maksimum yang boleh diambil pada semester ini;ID
- banyak sks maksimum yang boleh diambil pada semester ini;ID
- jadwal mata kuliah kalkulus;ID
- jadwal mata kuliah algoritma pemrograman 1;ID
- jadwal mata kuliah algoritma pemrograman 2;ID
- jadwal mata kuliah struktur data 1;ID
- jadwal mata kuliah struktur data 2;ID
- nama dosen yang mengampu mata kuliah kalkulus;ID
- nama dosen yang mengampu mata kuliah algoritma pemrograman 1;ID
- nama dosen yang mengampu mata kuliah algoritma pemrograman 2;ID
- nama dosen yang mengampu mata kuliah struktur data 1;ID
- nama dosen yang mengampu mata kuliah struktur data 2;ID
- ruangan mata kuliah kalkulus;ID
- ruangan mata kuliah algoritma pemrograman 1;ID
- ruangan mata kuliah algoritma pemrograman 2;ID
- ruangan mata kuliah struktur data 1;ID
- ruangan mata kuliah struktur data 2;ID
- sks pada mata kuliah kalkulus;ID
- sks pada mata kuliah algoritma pemrograman 1;ID
- sks pada mata kuliah algoritma pemrograman 2;ID
- sks pada mata kuliah struktur data 1;ID
- sks pada mata kuliah struktur data 2;ID
- kode mata kuliah kalkulus;ID
- kode mata kuliah algoritma pemrograman 1;ID
- kode mata kuliah algoritma pemrograman 2;ID
- kode mata kuliah struktur data 1;ID
- kode mata kuliah struktur data 2;ID
- mata kuliah apa saja yang dapat diambil pada semester ini;ID
- mata kuliah apa saja yang bisa diambil pada semester ini;ID
- mata kuliah apa saja yang dapat diambil pada semester pendek;ID
- mata kuliah apa saja yang bisa diambil pada semester pendek;ID
- batas maksimum yang boleh diambil pada semester pendek;ID
- jumlah maksimum yang boleh diambil pada semester pendek;ID
- banyak maksimum yang boleh diambil pada semester pendek;ID
- jumlah sks yang diambil pada semster pendek;ID
- banyak sks yang diambil pada semster pendek;ID
- kartu rencana studi semester pendek;ID
- kartu hasil studi semester pendek;ID
- krs semester pendek;ID
- khs semester pendek;ID
- nama dosen pembimbing akademik;ID
- nama dosen PA;ID
- semester saat ini;ID
- semester yang sedang dijalani saat ini;ID
- Tampilkan NIM mahsiswa semester tiga;ID
- nomor induk mahasiswa;ID
- NIP dosen pembimbing akademik;ID
- nomor induk pegawai dosen pembimbing akademik;ID
- NIP dosen PA;ID
- nomor induk pegawai dosen PA;ID
- nama pribadi sesuai yang tercantum pada akademik;ID
- nama pribadi sesuai yang tertera pada akademik;ID
- program studi;ID
-Nilai mahasiswa nim 09021181823016 pada matakuliah kalkulus;ID
- batas akhir pengisian KRS;ID
- tanggal tenggat pengisian KRS;ID
- tanggal mulai pengisian KRS;ID
- awal pengisian KRS;ID
- batas akhir pengisian KPRS;ID
- tanggal tenggat pengisian KPRS;ID
- tanggal mulai pengisian KPRS;ID
- awal pengisian KPRS;ID
- transkip nilai;ID
- rekap nilai;ID
- total sks yang sedang ditempuh;ID
- keseluruhan sks yang sedang ditempuh;ID
- total sks yang sudah ditempuh;ID
- keseluruhan sks yang sudah ditempuh;ID
- ipk;ID
- index prestasi kumulatif;ID
- jumlah mutu;ID
- banyak mutu;ID
- history mata kuliah kalkulus;ID
- history mata kuliah algoritma pemrogramman 1;ID
- history mata kuliah algoritma pemrogramman 2;ID
- history mata kuliah struktur diskrit 1;ID
- history mata kuliah struktur diskrit 2;ID
- mata kuliah apa saja yang mengulang;ID
- daftar mata kuliah apa saja yang mengulang;ID
- mata kuliah dengan nilai A;ID
- mata kuliah dengan nilai B;ID
- mata kuliah dengan nilai C;ID
- mata kuliah dengan nilai D;ID
- mata kuliah dengan nilai E;ID
- history suliet;ID
- history usept;ID
- tanggal test suliet;ID
- tanggal test usept;ID
- hasil test suliet;ID
- hasil test usept;ID
- jumlah maksimal sks yang diambil pada semster tujuh;ID
- banyak sks yang diambil pada semster pendek;ID
+kartu hasil studi untuk semester 1;ID
+kartu hasil studi untuk semester 2;ID
+kartu hasil studi untuk semester 3;ID
+kartu hasil studi untuk semester 4;ID
+kartu hasil studi untuk semester 5;ID
+kartu hasil studi untuk semester 6;ID
+kartu hasil studi untuk semester 7;ID
+kartu hasil studi untuk semester 8;ID
+jumlah sks pada semester 1;ID
+jumlah sks pada semester 2;ID
+jumlah sks pada semester 3;ID
+jumlah sks pada semester 4;ID
+jumlah sks pada semester 5;ID
+jumlah sks pada semester 6;ID
+jumlah sks pada semester 7;ID
+jumlah sks pada semester 8;ID
+ipk pada semester 1;ID
+ipk pada semester 2;ID
+ipk pada semester 3;ID
+ipk pada semester 4;ID
+ipk pada semester 5;ID
+ipk pada semester 6;ID
+ipk pada semester 7;ID
+ipk pada semester 8;ID
+ip pada semester 1;ID
+ip pada semester 2;ID
+ip pada semester 3;ID
+ip pada semester 4;ID
+ip pada semester 5;ID
+ip pada semester 6;ID
+ip pada semester 7;ID
+ip pada semester 8;ID
+semester pendek pada semester 2;ID
+semester pendek pada semester 4;ID
+semester pendek pada semester 6;ID
+semester pendek pada semester 8;ID
+kartu rencana studi pada semester ini;ID
+krs pada semester ini;ID
+khs pada semester ini;ID
+jumlah sks yang diambil pada semester ini;ID
+banyak sks yang diambil pada semester ini;ID
+batas sks maksimum yang boleh diambil pada semester ini;ID
+jumlah sks maksimum yang boleh diambil pada semester ini;ID
+banyak sks maksimum yang boleh diambil pada semester ini;ID
+jadwal mata kuliah kalkulus;ID
+jadwal mata kuliah algoritma pemrograman 1;ID
+jadwal mata kuliah algoritma pemrograman 2;ID
+jadwal mata kuliah struktur data 1;ID
+jadwal mata kuliah struktur data 2;ID
+ama dosen yang mengampu mata kuliah kalkulus;ID
+nama dosen yang mengampu mata kuliah algoritma pemrograman 1;ID
+nama dosen yang mengampu mata kuliah algoritma pemrograman 2;ID
+nama dosen yang mengampu mata kuliah struktur data 1;ID
+nama dosen yang mengampu mata kuliah struktur data 2;ID
+ruangan mata kuliah kalkulus;ID
+ruangan mata kuliah algoritma pemrograman 1;ID
+ruangan mata kuliah algoritma pemrograman 2;ID
+ruangan mata kuliah struktur data 1;ID
+ruangan mata kuliah struktur data 2;ID
+sks pada mata kuliah kalkulus;ID
+sks pada mata kuliah algoritma pemrograman 1;ID
+sks pada mata kuliah algoritma pemrograman 2;ID
+sks pada mata kuliah struktur data 1;ID
+sks pada mata kuliah struktur data 2;ID
+kode mata kuliah kalkulus;ID
+kode mata kuliah algoritma pemrograman 1;ID
+kode mata kuliah algoritma pemrograman 2;ID
+kode mata kuliah struktur data 1;ID
+kode mata kuliah struktur data 2;ID
+mata kuliah apa saja yang dapat diambil pada semester ini;ID
+mata kuliah apa saja yang bisa diambil pada semester ini;ID
+mata kuliah apa saja yang dapat diambil pada semester pendek;ID
+mata kuliah apa saja yang bisa diambil pada semester pendek;ID
+batas maksimum yang boleh diambil pada semester pendek;ID
+jumlah maksimum yang boleh diambil pada semester pendek;ID
+banyak maksimum yang boleh diambil pada semester pendek;ID
+jumlah sks yang diambil pada semster pendek;ID
+banyak sks yang diambil pada semster pendek;ID
+kartu rencana studi semester pendek;ID
+kartu hasil studi semester pendek;ID
+krs semester pendek;ID
+khs semester pendek;ID
+nama dosen pembimbing akademik;ID
+nama dosen PA;ID
+semester saat ini;ID
+semester yang sedang dijalani saat ini;ID
+Tampilkan NIM mahsiswa semester tiga;ID
+nomor induk mahasiswa;ID
+NIP dosen pembimbing akademik;ID
+nomor induk pegawai dosen pembimbing akademik;ID
+NIP dosen PA;ID
+nomor induk pegawai dosen PA;ID
+nama pribadi sesuai yang tercantum pada akademik;ID
+nama pribadi sesuai yang tertera pada akademik;ID
+program studi;ID
+ilai mahasiswa nim 09021181823016 pada matakuliah kalkulus;ID
+batas akhir pengisian KRS;ID
+tanggal tenggat pengisian KRS;ID
+tanggal mulai pengisian KRS;ID
+awal pengisian KRS;ID
+batas akhir pengisian KPRS;ID
+tanggal tenggat pengisian KPRS;ID
+tanggal mulai pengisian KPRS;ID
+awal pengisian KPRS;ID
+transkip nilai;ID
+rekap nilai matakuliah web;ID
+total sks yang sedang ditempuh;ID
+keseluruhan sks yang sedang ditempuh;ID
+total sks yang sudah ditempuh;ID
+keseluruhan sks yang sudah ditempuh;ID
+nim adi kurniawan;ID
+index prestasi kumulatif;ID
+jumlah mutu;ID
+asal daerah febyk;ID
+history mata kuliah kalkulus;ID
+history mata kuliah algoritma pemrogramman 1;ID
+history mata kuliah algoritma pemrogramman 2;ID
+history mata kuliah struktur diskrit I;ID
+history mata kuliah struktur diskrit II;ID
+mata kuliah apa saja yang mengulang;ID
+daftar mata kuliah apa saja yang mengulang;ID
+mata kuliah dengan nilai A;ID
+mata kuliah dengan nilai B;ID
+mata kuliah dengan nilai C;ID
+mata kuliah dengan nilai D;ID
+mata kuliah dengan nilai E;ID
+history suliet;ID
+history usept;ID
+tanggal test suliet;ID
+tanggal test usept;ID
+hasil test suliet;ID
+hasil test usept;ID
+jumlah maksimal sks yang diambil pada semster tujuh;ID
+banyak sks yang diambil pada semster pendek;ID
 Tampilkan Nilai mahasiswa nim 09021181823016 pada matakuliah proposal;ID
 semua nilai mahasiswa pada pelajaran kalkulus;ID
 semua nilai mahasiswa pada pelajaran struktur data;ID

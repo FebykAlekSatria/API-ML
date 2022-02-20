@@ -1,7 +1,4 @@
-import numpy as np
-import nltk
 import re
-import swifter
 import pickle
 from nltk.corpus import stopwords
 import pandas as pd

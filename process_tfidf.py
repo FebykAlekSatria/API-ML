@@ -4,9 +4,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 vectorizer_tfidf = TfidfVectorizer(max_features=500)
 
 
-vectorizer_tfidf = TfidfVectorizer(max_features=500)
-
-
 class tfidf():
     df = None
     X_tfidf = None

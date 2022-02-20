@@ -34,7 +34,7 @@ class training():
         confusion_score = []
         scores.append(['Uji ke', 'akurasi', 'precision',
                        'recall', 'f- measure', 'waktu Komputasi'])
-        cv = KFold(n_splits=10, shuffle=True)
+        cv = KFold(n_splits=10, shuffle=True, random_state=0)
         index = 1
         for train_index, test_index in cv.split(X):
             X_train, X_test, Y_train, Y_test = X[train_index], X[test_index], Y[train_index], Y[test_index]

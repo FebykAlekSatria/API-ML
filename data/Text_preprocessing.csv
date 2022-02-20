@@ -51,7 +51,7 @@
 49;siapa nama wakil direktur utama;ood
 50;buku yang judul bulan adalah karya;ood
 51;siapa nama dekan fakultas sehat masyarakat universitas sriwijaya;ood
-52;apa arti kata i love you dalam bahasa indonesia;ood
+52;apa yang sebab lulus dengan puji;ood
 53;saya lebih bagus cari kerja atau mulai usaha;ood
 54;bagaimana cara pinjam buku di pus unsri;ood
 55;temu lokasi fasilkom;ood
@@ -235,7 +235,7 @@
 233;apa kamu mimpi;ood
 234;mana mana;ood
 235;iya tuhan;ood
-236;oh kamu;ood
+236;tinggi gedung fasilkom;ood
 237;apa ini terlalu sempit;ood
 238;kenapa kamu tibatiba keluar seperti itu;ood
 239;kamu kaget;ood
@@ -249,7 +249,7 @@
 247;kalau begitu ikan diskon;ood
 248;iya apa;ood
 249;kami masak sup kacang buncis mampir jika kamu sempat;ood
-250;baik;ood
+250;kategori baik;ood
 251;jaga diri;ood
 252;wow ini cuaca bunuh;ood
 253;kamu tidak boleh guna kata itu sini;ood
@@ -257,8 +257,8 @@
 255;tidak ada yang akan tinggal sini;ood
 256;wow ini bir bunuh;ood
 257;kamu lebih;ood
-258;apa tn;ood
-259;park akan tinggal;ood
+258;bagaiamana dapat nilai tinggi;ood
+259;saya dapat nilai tinggi salama kampus;ood
 260;semua orang akan tinggal cepat atau lambat;ood
 261;biar istirahat;ood
 262;istirahat dalam damai;ood
@@ -403,8 +403,8 @@
 401;ini akalakalan;ood
 402;kamu sudah rencana benar;ood
 403;tidak bukan begitu;ood
-404;kamu pikir aku;ood
-405;kamu;ood
+404;kamu pikir aku takut;ood
+405;jumlah orang di pasar;ood
 406;dua tiket untuk berangkat jam dua;ood
 407;kamu sedang apa;ood
 408;apa yang kamu doa;ood
@@ -442,8 +442,8 @@
 440;malam itu aku khawatir tentang hujan yang jatuh seperti untai;ood
 441;aku masih ragu;ood
 442;bagaimana hujan jatuh;ood
-443;dalam untai;ood
-444;dalam tetes;ood
+443;dalam untai surat undang;ood
+444;dalam tetes tangis;ood
 445;kapan aku bisa tahu;ood
 446;kamu sedang apa;ood
 447;kamu tidak bisa tidur;ood
@@ -772,7 +772,7 @@
 770;tampil nama dosen pa;id
 771;tampil semester saat ini;id
 772;tampil semester yang sedang jalan saat ini;id
-773;tampil nim;id
+773;tampil bioada lengkap mahasiswa dengan nim;id
 774;tampil nomor induk mahasiswa;id
 775;tampil nip dosen bimbing akademik;id
 776;tampil nomor induk pegawai dosen bimbing akademik;id
@@ -780,8 +780,8 @@
 778;tampil nomor induk pegawai dosen pa;id
 779;tampil nama pribadi sesuai yang cantum pada akademik;id
 780;tampil nama pribadi sesuai yang tera pada akademik;id
-781;tampil program studi;id
-782;tampil prodi;id
+781;tampil jadwal mata kuliah alpro i;id
+782;tampil jadwal kuliah;id
 783;tampil batas akhir isi krs;id
 784;tampil tanggal tenggat isi krs;id
 785;tampil tanggal mulai isi krs;id
@@ -888,7 +888,7 @@
 886;jadwal mata kuliah algoritma pemrograman;id
 887;jadwal mata kuliah struktur data;id
 888;jadwal mata kuliah struktur data;id
-889;nama dosen yang ampu mata kuliah kalkulus;id
+889;ama dosen yang ampu mata kuliah kalkulus;id
 890;nama dosen yang ampu mata kuliah algoritma pemrograman;id
 891;nama dosen yang ampu mata kuliah algoritma pemrograman;id
 892;nama dosen yang ampu mata kuliah struktur data;id
@@ -934,7 +934,7 @@
 932;nama pribadi sesuai yang cantum pada akademik;id
 933;nama pribadi sesuai yang tera pada akademik;id
 934;program studi;id
-935;nilai mahasiswa nim pada matakuliah kalkulus;id
+935;ilai mahasiswa nim pada matakuliah kalkulus;id
 936;batas akhir isi krs;id
 937;tanggal tenggat isi krs;id
 938;tanggal mulai isi krs;id
@@ -944,20 +944,20 @@
 942;tanggal mulai isi kprs;id
 943;awal isi kprs;id
 944;transkip nilai;id
-945;rekap nilai;id
+945;rekap nilai matakuliah web;id
 946;total sks yang sedang tempuh;id
 947;seluruh sks yang sedang tempuh;id
 948;total sks yang sudah tempuh;id
 949;seluruh sks yang sudah tempuh;id
-950;ipk;id
+950;nim adi kurniawan;id
 951;index prestasi kumulatif;id
 952;jumlah mutu;id
-953;banyak mutu;id
+953;asal daerah febyk;id
 954;history mata kuliah kalkulus;id
 955;history mata kuliah algoritma pemrogramman;id
 956;history mata kuliah algoritma pemrogramman;id
-957;history mata kuliah struktur diskrit;id
-958;history mata kuliah struktur diskrit;id
+957;history mata kuliah struktur diskrit i;id
+958;history mata kuliah struktur diskrit ii;id
 959;mata kuliah apa saja yang ulang;id
 960;daftar mata kuliah apa saja yang ulang;id
 961;mata kuliah dengan nilai a;id
