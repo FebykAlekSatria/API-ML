@@ -19,7 +19,7 @@ CORS(app)
 
 class main():
     @app.route("/upload", methods=["GET", "POST"])
-    def upload():
+    def save_file():
         if request.method == 'POST':
             try:
                 app.config['UPLOAD_FOLDER'] = os.path.join(
@@ -29,7 +29,7 @@ class main():
                 filename = secure_filename('dataset.csv')
                 # filecsv = filename
                 file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-                return ('sukses')
+                return ('succses')
             except:
                 return ("0")
 
@@ -46,9 +46,9 @@ class main():
                 preprocess.lower_case()
                 preprocess.stopwords_removal()
                 preprocess.stemming()
-                mentah, hasil = preprocess.save_preprocessing()
+                row, result = preprocess.save_preprocessing()
                 return ({
-                    'data': [mentah[0][0], mentah[1][0], hasil[0][0], hasil[1][0]]
+                    'data': [row[0][0], row[1][0], result[0][0], result[1][0]]
                 })
             except:
                 return ("0")
@@ -77,13 +77,13 @@ class main():
     def best_api():
         if request.method == 'POST':
             try:
-                best_param = best_params()
-                best_param.read_data()
-                params = best_param.best_params()
+                best = best_params()
+                best.read_data()
+                acc, kernel, c = best.best_params()
                 return ({
-                    'kernel': params['kernel'],
-                    'c': params['C'],
-                    'gamma': params['gamma']
+                    'kernel': kernel,
+                    'c': c,
+                    'accurasy': acc
                 })
             except:
                 return ("0")
@@ -99,13 +99,11 @@ class main():
                 clasify = training()
                 clasify.kernel = params['kernel']
                 clasify.c = params['c']
-                clasify.gamma = params['gamma']
                 clasify.read_data()
                 score = clasify.classify()
                 lists = np.array(score[12]).tolist()
                 return ({
-                    'title': score[0],
-                    'score': score[1:11],
+                    'score': score[1:12],
                     'means': score[11],
                     'confusion': lists
                 })
@@ -123,13 +121,13 @@ class main():
                 string = quest['text']
                 prediction = detect()
                 prediction.text = string
-                prediction.lower_case()
                 prediction.clean_punct()
+                prediction.lower_case()
                 prediction.stopwords_removal()
                 prediction.stemming()
                 prediction = prediction.predict()
                 return ({
-                    'pertanyaan': quest['text'],
+                    'text': quest['text'],
                     'predict': prediction[0]
                 })
             except:
