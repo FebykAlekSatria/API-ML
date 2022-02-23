@@ -1,5 +1,4 @@
 import numpy as np
-
 import pandas as pd
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory, StopWordRemover, ArrayDictionary
@@ -8,12 +7,12 @@ stemmer = factory.create_stemmer()
 
 
 class preprocessing():
-    mentah = None
+    row = None
     df = None
 
     def read_data(self):
         self.df = pd.read_csv("data/dataset.csv", sep=';')
-        self.mentah = self.df
+        self.row = self.df
 
     def clean_punct(self):
         self.df['Kalimat'] = self.df['Kalimat'].fillna('').astype(str).str.replace(
@@ -36,7 +35,7 @@ class preprocessing():
 
     def save_preprocessing(self):
         self.df.to_csv("data/Text_preprocessing.csv", sep=";")
-        mentah = np.array(self.mentah).tolist()
+        row = np.array(self.row).tolist()
         preprocessing = np.array(self.df).tolist()
 
-        return [mentah, preprocessing]
+        return [row, preprocessing]

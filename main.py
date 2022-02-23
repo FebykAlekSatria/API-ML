@@ -1,4 +1,3 @@
-import imp
 from process_preprocessing import preprocessing
 from process_tfidf import tfidf
 from process_best import best_params
@@ -7,7 +6,6 @@ from process_detect import detect
 from werkzeug.utils import secure_filename
 from flask import Flask, request, send_from_directory
 import numpy as np
-import pandas as pd
 import os
 from flask_cors import CORS
 from flask import send_from_directory
@@ -27,7 +25,6 @@ class main():
                 file = request.files['file']
                 print(file)
                 filename = secure_filename('dataset.csv')
-                # filecsv = filename
                 file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
                 return ('succses')
             except:

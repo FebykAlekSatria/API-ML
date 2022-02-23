@@ -1,11 +1,9 @@
 import re
 import pickle
-from nltk.corpus import stopwords
-import pandas as pd
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory, StopWordRemover, ArrayDictionary
 factory = StemmerFactory()
 stemmer = factory.create_stemmer()
-list_stopwords = stopwords.words('indonesian')
 
 
 class detect():
@@ -19,7 +17,10 @@ class detect():
         self.text = re.compile('[^0-9a-z]').sub(' ', self.text)
 
     def stopwords_removal(self):
-        return [word for word in self.text if word not in list_stopwords]
+        data = StopWordRemoverFactory().get_stop_words()
+        dictionary = ArrayDictionary(data)
+        stopword = StopWordRemover(dictionary)
+        self.text = stopword.remove(self.text)
 
     def stemming(self):
         self.text = stemmer.stem(self.text)
