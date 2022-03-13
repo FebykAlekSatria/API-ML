@@ -10,10 +10,13 @@ API Detection OOD berfungsi untuk melakukan klasifikasi kalimat (In-Domain) ID d
 | train         	| /training      	| Kernel, C 	| Melakukan traning   dengan alghoritma Support Vector Machine                                                          	|
 | Detection     	| /              	| Kalimat   	| Melakukan deteksi   kalimat masukan pengguna                                                                          	|
 
-#Format Dataset
+# Format Dataset
 Dataset harus dengan format csv dengan kolom Kalimat dan kelas
 
 | Kalimat                      	| Kelas 	|
 |------------------------------	|-------	|
 | temukan lokasi wisata pantai 	| OOD   	|
 | Tampilkan KHS                	| ID    	|
+
+# API dibangun oleh Febyk Alek Satria
+Jika terdapat kesalahan silahkan masukan ke dalam isue atau hubung Instagram
