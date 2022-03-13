@@ -19,4 +19,4 @@ Dataset harus dengan format csv dengan kolom Kalimat dan kelas
 | Tampilkan KHS                	| ID    	|
 
 # API dibangun oleh Febyk Alek Satria
-Jika terdapat kesalahan silahkan masukan ke dalam isue atau hubung Instagram
+Jika terdapat kesalahan silahkan masukan ke dalam isue atau hubungi Instagram
